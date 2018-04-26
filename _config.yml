@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://open-archive.org
+url: "https://open-archive.org"
 title: OpenArchive
 email: info@open-archive.org
 author: NatalieC510
