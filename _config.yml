@@ -10,7 +10,7 @@ email: info@open-archive.org
 baseurl: "/spectral/" # the subpath of your site, e.g. /blog
 url: "https://mattl.github.io/" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/openarchive
+  twitter: https://twitter.com/open_archive
   github: https://github.com/openarchive
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
