@@ -1404,6 +1404,8 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 		}
 
+		nav#long.alt {display: none;}
+
 		nav {
 			height: inherit;
 			line-height: inherit;

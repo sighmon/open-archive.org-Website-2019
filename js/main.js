@@ -88,9 +88,9 @@
 
 				$banner.scrollex({
 					bottom:		$header.outerHeight() + 1,
-					terminate:	function() { $header.removeClass('alt'); },
-					enter:		function() { $header.addClass('alt'); },
-					leave:		function() { $header.removeClass('alt'); }
+					terminate:	function() { $header.removeClass('alt'); if (!skel.vars.mobile) {$('#nav').hide(); $("#long").removeClass('alt');} },
+					enter:		function() { $header.addClass('alt'); if (!skel.vars.mobile) {$('#nav').show(); $("#long").addClass('alt');} },
+					leave:		function() { $header.removeClass('alt'); if (!skel.vars.mobile) {$('#nav').hide(); $("#long").removeClass('alt');} }
 				});
 
 			}
