@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: "https://open-archive.org"
+#url: "https://open-archive.org"
 title: OpenArchive
 email: info@open-archive.org
 author: NatalieC510
-description: OpenArchive - Preserving Mobilized Culture
-tags: "<meta name='google-site-verification' content='oCZV4khJNTu4MgQfe4PhbjSraiXKnnFvRi8Bpjtz_ss' />"
+description: OpenArchive &mdash; Preserving Mobilized Culture
+#tags: "<meta name='google-site-verification' content='oCZV4khJNTu4MgQfe4PhbjSraiXKnnFvRi8Bpjtz_ss' />"
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
