@@ -13,4 +13,4 @@ permalink: /news/
 </ul>
 
 
-Twitter feed to go here <https://help.twitter.com/en/using-twitter/embed-twitter-feed>
+<a class="twitter-timeline" href="https://twitter.com/open_archive?ref_src=twsrc%5Etfw">Tweets by open_archive</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
