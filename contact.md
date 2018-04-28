@@ -5,10 +5,11 @@ permalink: /contact/
 ---
 
 <ul>
-  <li><a href="https://twitter.com/open_archive" class="button"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">twitter</span></a>
-								<li><a href="https://github.com/openarchive" class="button"><i class="fa fa-github fa-fw"></i> <span class="network-name">github</span></a>
-								
-                </ul>
+  <li><a href="https://twitter.com/open_archive" class="button"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">twitter</span></a></li>
+								<li><a href="https://github.com/openarchive" class="button"><i class="fa fa-github fa-fw"></i> <span class="network-name">github</span></a></li>
+							
+							
+</ul>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae nunc felis. Mauris pulvinar quam ornare nisi tincidunt fermentum. Donec tempor lobortis risus, sed lacinia erat condimentum eget. Proin interdum augue vel neque ultricies, condimentum euismod augue tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin bibendum nulla at tellus aliquet, vel commodo sapien congue. Ut maximus purus in velit suscipit, quis mattis justo suscipit. In semper vulputate nulla, et feugiat leo porttitor non.
 
