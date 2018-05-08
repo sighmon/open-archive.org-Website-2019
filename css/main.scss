@@ -1825,7 +1825,7 @@ footer li {display: inline-block !important;}
 
 	body.landing {
 		#page-wrapper {
-			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("#{$baseurl}/banner.jpg")'));
+			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("#{$baseurl}/FreeSpeechFearFree.jpeg")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
