@@ -1,15 +1,7 @@
 <!-- Footer -->
 <footer id="footer">
   
-  <nav>
-  <ul>
-    {% for my_page in site.pages %}
-            {% if my_page.title %}
-            <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-            {% endif %}
-            {% endfor %}
-  </ul>
-  </nav>
+  
   
   
   
@@ -26,14 +18,22 @@
     {% endif %}
     {% endfor %}
   </ul>
+  
+  <nav>
+  <ul>
+    {% for my_page in site.pages %}
+            {% if my_page.title %}
+            <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+  </ul>
+  </nav>
+  
+  
   <ul class="copyright">
-    <li>&copy; {% assign thisyear = site.time | date: "%Y" %}
-    {% if site.first_published %}
-      {% capture diff %}{{ site.first_published | minus:thisyear }}{% endcapture %}
-      {% if diff contains '-' %}{{ site.first_published }},{% endif %}
-    {% endif %}
-    {{ thisyear }}
-    {% if site.owner %}{{ site.owner }}{% else %}{{ site.title }}{% endif %}</li>
+    <li><p class="copyright text-muted small"><a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons<br>Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p></li>
+    <li><p>with generous support from the </p><p></p><img src="/img/knight-logo.svg" alt="Knight Foundation" align="middle"> <a href="http://www.knightfoundation.org/">&nbsp;Knight Foundation</a></p></li>
+    
     <li>Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a></li>
     <li>Built with: <a href="http://jekyllrb.com" target="_blank">Jekyll</a></li>
   </ul>
