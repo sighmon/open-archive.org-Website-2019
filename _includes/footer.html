@@ -21,11 +21,11 @@
   
   <nav>
   <ul>
-    {% for my_page in site.pages %}
-            {% if my_page.title %}
-            <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-            {% endif %}
-            {% endfor %}
+            <li><a href="{{ site.baseurl }}/about/">About</a></li>
+            <li><a href="{{ site.baseurl }}/resources/">Resources</a></li>
+            <li><a href="{{ site.baseurl }}/news/">News</a></li>
+            <li><a href="{{ site.baseurl }}/contact/">Contact</a></li>
+            <li><a class="button" href="{{ site.baseurl }}/donate/">Donate</a></li>
   </ul>
   </nav>
   
