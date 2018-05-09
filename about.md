@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: copy goes here.
 permalink: /about/
 ---
 
