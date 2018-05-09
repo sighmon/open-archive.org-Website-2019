@@ -35,6 +35,15 @@ footer li {display: inline-block !important;}
 
 #menu, #main section {opacity: 0.9 !important;}
 
+// mobile only tweaks 
+
+body.is-mobile {
+	
+	#banner h2 {font-size: 1.75em !important;}
+	
+}
+
+
 
 /*
 	Spectral by HTML5 UP
