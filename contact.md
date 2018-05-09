@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+description: copy goes here.
 permalink: /contact/
 ---
 
