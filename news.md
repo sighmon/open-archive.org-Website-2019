@@ -1,6 +1,7 @@
 ---
 layout: page
 title: News
+description: copy goes here.
 permalink: /news/
 ---
 
