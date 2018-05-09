@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Donate
+description: copy goes here.
 permalink: /donate/
 ---
 
