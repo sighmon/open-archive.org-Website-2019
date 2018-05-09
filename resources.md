@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resources
+description: copy goes here.
 permalink: /resources/
 ---
 
