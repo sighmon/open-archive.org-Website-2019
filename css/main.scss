@@ -23,6 +23,10 @@ h2 {font-size: 2em !important;}
     opacity: 0.8;
 }
 
+#header h1 a {font-weight: normal;}
+
+h1,h2,h3,h4,h5,h6 {text-transform: uppercase !important; font-weight: normal !important;}
+
 section, nav {opacity: 0.9}
 
 #one h2, #one p { color: white !important;}
