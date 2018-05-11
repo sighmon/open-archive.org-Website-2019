@@ -6,10 +6,9 @@ permalink: /about/
 ---
 
 
-class = textred
-Test Header
+<h2 class="textRed">Test Header</h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae nunc felis. Mauris pulvinar quam ornare nisi tincidunt fermentum. Donec tempor lobortis risus, sed lacinia erat condimentum eget. Proin interdum augue vel neque ultricies, condimentum euismod augue tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin bibendum nulla at tellus aliquet, vel commodo sapien congue. Ut maximus purus in velit suscipit, quis mattis justo suscipit. In semper vulputate nulla, et feugiat leo porttitor non.
+<p class="textGreen">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae nunc felis. Mauris pulvinar quam ornare nisi tincidunt fermentum. Donec tempor lobortis risus, sed lacinia erat condimentum eget. Proin interdum augue vel neque ultricies, condimentum euismod augue tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin bibendum nulla at tellus aliquet, vel commodo sapien congue. <span class="textPurple">Ut maximus purus</span> in velit suscipit, quis mattis justo suscipit. In semper vulputate nulla, et feugiat leo porttitor non.</p>
 
 Nulla at orci nec velit ornare molestie. Quisque scelerisque cursus nisi, sed lacinia nisl finibus ut. Integer egestas sodales tellus sit amet blandit. Quisque eget rhoncus dolor. Phasellus libero nulla, pellentesque commodo viverra sed, finibus vel lectus. In quis posuere augue. Fusce ornare neque augue, in lobortis nulla gravida laoreet. Ut orci erat, convallis sit amet risus luctus, consequat hendrerit risus. Nam a hendrerit justo. Aliquam tempus, ipsum ac auctor iaculis, neque massa semper sem, sed elementum odio tellus interdum massa. Suspendisse vitae odio mi. Quisque rutrum tellus est, eget eleifend dolor molestie in. Vivamus pulvinar justo ut sem fermentum, euismod venenatis nisi pellentesque. Mauris fringilla, ante a porta tristique, sapien mi auctor nibh, id elementum est risus id dolor. In maximus turpis in augue ullamcorper fermentum.
 
