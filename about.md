@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About
-description: copy goes here.
+description: A free, open-source mobile app. for android that protects, authenticates, and preserves truth to power. 
 permalink: /about/
 ---
 
 
-<h2 class="textRed">Test Header</h2>
+<h2 class="textTeal">Mission</h2>
 
 <p class="textGreen">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae nunc felis. Mauris pulvinar quam ornare nisi tincidunt fermentum. Donec tempor lobortis risus, sed lacinia erat condimentum eget. Proin interdum augue vel neque ultricies, condimentum euismod augue tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin bibendum nulla at tellus aliquet, vel commodo sapien congue. <span class="textPurple">Ut maximus purus</span> in velit suscipit, quis mattis justo suscipit. In semper vulputate nulla, et feugiat leo porttitor non.</p>
 
