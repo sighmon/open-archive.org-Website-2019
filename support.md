@@ -2,7 +2,7 @@
 layout: page
 title: Support Us
 description: 
-permalink: /donate/
+permalink: /support/
 ---
 
 <h2 class="textTeal">Collaborate</h2>
