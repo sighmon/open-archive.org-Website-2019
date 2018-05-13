@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-description: Be in Touch
+description: 
 permalink: /contact/
 ---
 <ul id="contact-links">
