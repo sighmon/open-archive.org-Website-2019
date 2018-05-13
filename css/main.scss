@@ -35,6 +35,8 @@ h1,h2,h3,h4,h5,h6 {text-transform: uppercase !important; font-weight: normal !im
 
 #header h1 a, #banner h2  {font-weight: normal; text-transform: none !important;}
 
+nav a:hover {color: yellow;}
+button:hover {border: 1px solid yellow;}
 
 section, nav {opacity: 0.9}
 
