@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-description: copy goes here.
+description: Be in Touch
 permalink: /contact/
 ---
 
@@ -12,10 +12,4 @@ permalink: /contact/
 								
 							
 </ul>
-
-Less text makes this page look better. 
-Less text makes this page look better. 
-Less text makes this page look better. 
-Less text makes this page look better. 
-Less text makes this page look better. 
-Less text makes this page look better. 
+ 
