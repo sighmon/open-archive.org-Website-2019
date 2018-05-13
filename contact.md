@@ -6,8 +6,8 @@ permalink: /contact/
 ---
 
 <ul>
-  <li><a href="https://twitter.com/open_archive" class="button"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">twitter</span></a></li>
-								<li><a href="https://github.com/openarchive" class="button"><i class="fa fa-github fa-fw"></i> <span class="network-name">github</span></a></li>
+  <li><a href="https://twitter.com/open_archive"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">twitter</span></a></li>
+								<li><a href="https://github.com/openarchive"><i class="fa fa-github fa-fw"></i> <span class="network-name">github</span></a></li>
 							
 							
 </ul>
