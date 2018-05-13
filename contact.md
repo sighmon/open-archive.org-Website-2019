@@ -5,10 +5,10 @@ description: copy goes here.
 permalink: /contact/
 ---
 
-<ul>
+<ul style="list-style: none;"> <!-- no bullet points!!!!! -->
   <li><a href="https://twitter.com/open_archive"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a></li>
 <li><a href="https://github.com/openarchive"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a></li>
- <li><a target="_blank" href="info@open-archive.org" class="icon fa-envelope-o"><span class="label">E-mail</span></a></li>							
+ <li><a target="_blank" href="info@open-archive.org" class="fa fa-envelope-o fa-fw"><span class="network-name">E-mail</span></a></li>							
 							
 </ul>
 
