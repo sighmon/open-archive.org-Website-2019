@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: A free, open-source mobile application that protects, authenticates, and preserves truth to power. 
+description: Protect, authenticate, and preserve truth to power. 
 permalink: /about/
 ---
 
