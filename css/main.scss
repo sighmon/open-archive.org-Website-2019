@@ -35,10 +35,10 @@ h1,h2,h3,h4,h5,h6 {text-transform: uppercase !important; font-weight: normal !im
 
 #header h1 a, #banner h2  {font-weight: normal; text-transform: none !important;}
 
-nav a:hover {color: yellow;}
-button:hover {border: 1px solid yellow;}
+nav a:hover {color: yellow !important;}
+button:hover {border: 1px solid yellow !important;}
 
-section, nav {opacity: 0.9}
+section, nav {opacity: 0.9 !important;}
 
 
 #one h2, #one p { color: white !important;}
