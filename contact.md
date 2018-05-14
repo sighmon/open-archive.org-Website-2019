@@ -11,5 +11,4 @@ permalink: /contact/
 <li><a href="https://github.com/openarchive"><i class="fa fa-github fa-fw"></i> <span class="network-name">GitHub</span></a></li>
   </ul>
 
-<img src="{{ '/images/pic01.jpg' | prepend: site.baseurl }}" alt="Cat" />
 
