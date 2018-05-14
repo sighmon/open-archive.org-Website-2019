@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learn About Our Work
+title: Our Work
 description:  
 permalink: /about/
 ---
