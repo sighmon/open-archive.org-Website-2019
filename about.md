@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-description: Protect, authenticate, and preserve truth to power. 
+title: Learn About Our Work
+description:  
 permalink: /about/
 ---
 
