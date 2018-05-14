@@ -1,7 +1,7 @@
 ---
 layout: page
-title: News
-description: copy goes here.
+title: OpenArchive Updates
+description: 
 permalink: /news/
 ---
 
