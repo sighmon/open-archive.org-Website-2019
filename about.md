@@ -26,14 +26,15 @@ permalink: /about/
 <h2 class="textTeal">How It Works</h2>
 <p>OpenArchive is a free, open source mobile archiving application for history’s first responders and human rights defenders that securely sends mobile media to the <a href="https://archive.org/">Internet Archive</a>, other online destinations using Orbot/Tor. By uniting the work of the <a href="http://guardianproject.info/">Guardian Project</a>, <a href="https://creativecommons.org/">Creative Commons</a>, and distributed, secure servers, it offers at-risk groups more agency and control of their historical record by affording them secure transit, media authentication, pseudonymity, licensing controls, and the ability to choose where and how the media will be stored for long-term access and reuse. In addition to this, those with limited internet access, can share media between devices with our “nearby” feature via bluetooth, so there can be multiple copies of the media across devices.</p>
 <p>It is currently available for android on <a href="http://bit.ly/29ewnaD">Google Play</a> and <a href="http://bit.ly/29jDPDo">Github</a>. Our lightweight mobile app. (under 3mb) addresses the gaps in the current online ecosystem existing around the a) ethical short-term collection and b) long term preservation of sensitive mobile media. We provide mobile-centered, scalable, industry-standard, ethical, intuitive, easy to use tools for at-risk communities to pseudonymously preserve and authenticate their media so that it will be accessible and maintain its provenance in the future.</p>
-<p>
-  </p>
-<h2 class="textTeal">Funding</h2>
-<p><img src="{{ '/images/otrlogo300.png' | prepend: site.baseurl }}" alt="OTF" /> <p>
-<p>Our work is made possible by <a href="http://otf.rfa.org/">The Open Technology Fund</a>*, who are currently supporting the expansion, infrastrcture, and decentralization of OpenArchive.
 <br>
-<p><img src="{{ '/images/knight-logo-300USE.jpeg' | prepend: site.baseurl }}" alt="Knight Foundation" /> </p>
-<p>In 2014, OpenArchive was received a Knight Prototype Fund grant.</p>
+<br>
+<h2 class="textTeal">Funding</h2>
+<p><img src="{{ '/images/otrlogo300.png' | prepend: site.baseurl }}" alt="OTF" /> 
+<br>Our work is made possible by <a href="http://otf.rfa.org/">The Open Technology Fund</a>*, who are currently supporting the expansion, infrastrcture, and decentralization of OpenArchive.</p>
+<br>
+<p><img src="{{ '/images/knight-logo-300USE.jpeg' | prepend: site.baseurl }}" alt="Knight Foundation" />
+<br>In 2014, OpenArchive was received a Knight Prototype Fund grant.</p>
+<br>
 <br>
 <h2 class="textTeal">Credits</h2>
 <p>Banner image is <a href="https://www.flickr.com/photos/matthewhartley369/13391628763/">The Singing Ringing Tree</a>, taken by Matthew Hartley under the <a href="https://creativecommons.org/licenses/by-sa/2.0/#">CC by SA 2.0 license</a></p>
