@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OpenArchive Updates
+title: Stay Up To Date With Us
 description: 
 permalink: /news/
 ---
