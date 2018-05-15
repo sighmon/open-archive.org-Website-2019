@@ -30,17 +30,10 @@ permalink: /about/
 <br>
 <h2 class="textTeal">Funding</h2>
 <p><img src="{{ '/images/otrlogo300.png' | prepend: site.baseurl }}" alt="OTF" /> 
-<br>Our work is made possible by <a href="http://otf.rfa.org/">The Open Technology Fund</a>*, who are currently supporting the expansion, infrastrcture, and decentralization of OpenArchive.</p>
-<br>
+<br>Our work is made possible by <a href="http://otf.rfa.org/">The Open Technology Fund</a>*, who are currently supporting the expansion, infrastructure, and decentralization of OpenArchive.</p>
 <p>If you are interested in supporting our work, <a href="/contact">please be in touch!</a></p>
-<br>
-<p><img src="{{ '/images/knight-logo-300USE.jpeg' | prepend: site.baseurl }}" alt="Knight Foundation" />
-<br>In 2014, OpenArchive was received a Knight Prototype Fund grant.</p>
-<br>
-<br>
+<p><img src="{{ '/images/knight-logo-300USE.jpeg' | prepend: site.baseurl }}" alt="Knight Foundation" /></p>
+<p>In 2014, OpenArchive was received a Knight Prototype Fund grant.</p>
 <h2 class="textTeal">Credits</h2>
 <p>Banner image is <a href="https://www.flickr.com/photos/matthewhartley369/13391628763/">The Singing Ringing Tree</a>, taken by Matthew Hartley under the <a href="https://creativecommons.org/licenses/by-sa/2.0/#">CC by SA 2.0 license</a></p>
-<br>
-<br>
-
 <p>*<i>Note: this project receives grants and sub-contracts from organizations (such as the Open Technology Fund) that receive funding from the U.S. Government and other governments around the world. None of this funding has modified or shaped our development plans, and we would never, ever put any sort of backdoor or compromised component into our software based on this funding.</i></p>
