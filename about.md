@@ -33,7 +33,7 @@ permalink: /about/
 <br>Our work is made possible by <a href="http://otf.rfa.org/">The Open Technology Fund</a>*, who are currently supporting the expansion, infrastructure, and decentralization of OpenArchive.</p>
 <p><img src="{{ '/images/knight-logo-300USE.jpeg' | prepend: site.baseurl }}" alt="Knight Foundation" />
 <br>In 2014, OpenArchive received support from the Knight Prototype Fund.</p>
-<p class="textPurple">If you are interested in supporting our work, <a href="/contact">we'd love to hear from you.</a></p>
+<p class="textTeal"><i>If you are interested in supporting our work, <a href="/contact">we'd love to hear from you.</i></a></p>
 <br>
 <h2 class="textTeal">Credits</h2>
 <p>Banner image is <a href="https://www.flickr.com/photos/matthewhartley369/13391628763/">The Singing Ringing Tree</a>, taken by Matthew Hartley under the <a href="https://creativecommons.org/licenses/by-sa/2.0/#">CC by SA 2.0 license</a></p>
