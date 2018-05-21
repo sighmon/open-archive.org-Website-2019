@@ -8,7 +8,7 @@ permalink: /about/
 
 <h2 class="textTeal">Mission</h2>
 <p>OpenArchive preserves, amplifies, and securely routes mobile media to user-created collections in an accessible public trust, outside the corporate walled gardens currently dominating the online media ecosystem.</p>
-<p>Created for citizen journalists and human rights defenders, our distributed media ecosystem promotes freedom of expression by protecting, authenticating, and offering access to and longterm preservation of at-risk community media.</p>
+<p>Created by and for citizen journalists and human rights defenders, our distributed media ecosystem promotes freedom of expression by protecting, authenticating, and offering access to and longterm preservation of at-risk community media.</p>
 <p>
   </p>
 
