@@ -17,7 +17,7 @@ description:
 
 <i>We’re listening!</i>
 <ul>
-  <li><i>In order to make the strongest product for our users, we want to hear from you. If you have recommendations on how we can improve the OpenArchive experience, take a moment to email us at: info@open-archive.org</i></li>
+  <li><i>In order to make the strongest product for our users, we want to hear from you. If you have recommendations on how we can improve the OpenArchive experience, take a moment to email us at: info[at]open-archive.org</i></li>
   <li><i>If you would like to become involved with technical testing, let us know.</i></li>
 
 
