@@ -13,7 +13,7 @@ description:
 <br>
 
 <p><b>Whose Media? Our Media!</b></p>
-<p>Before users learn the hard way that they cannot trust YouTube, Facebook, iCloud, Google Photos and other corporate platforms with valued and sensitive digital media, we provide an alternative secure archiving solution at scale. To further this goal, OpenArchive works with <a href="https://guardianproject.info/">Guardian Project</a>, who specialize in creating secure, open source technologies. Through this partnership, along with security usability experts, we will double our effort to provide our global community with even stronger, our easy-to-use, protection and new features that are created specifically to allow users to circumvent threats to freedom of expression such as device confiscation, network blocking, internet shutdowns, and more. OpenArchive is working towards secure solutions for you and your communities.</p>
+<p>Before users learn the hard way that they cannot trust YouTube, Facebook, iCloud, Google Photos and other corporate platforms with valued and sensitive digital media, we provide an alternative secure archiving solution at scale. To further this goal, OpenArchive works with <a href="https://guardianproject.info/">Guardian Project</a>, who specialize in creating secure, open source technologies. Through this partnership, along with security usability experts, we will double our efforts to provide our global community with an easy-to-use, secure archiving application that empowers users to circumvent threats to freedom of expression such as device confiscation, network blocking, internet shutdowns, and more. OpenArchive is working towards secure, ethical, and usable solutions for you and your communities.</p>
 
 <i>We’re listening!</i>
 <ul>
