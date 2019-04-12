@@ -1,6 +1,6 @@
 ---
 layout: page
-title: New Logo!
+title: Behold: Save by OpenArchive's logo!
 description: 
 ---
 
