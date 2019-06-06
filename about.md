@@ -28,12 +28,12 @@ permalink: /about/
 <p>It is currently available for android on <a href="http://bit.ly/29ewnaD">Google Play</a> and <a href="http://bit.ly/29jDPDo">GitHub</a>. Our lightweight mobile app. (under 6mb) addresses the gaps in the current online ecosystem existing around the a) ethical short-term collection and b) long term preservation of sensitive mobile media. We provide mobile-centered, scalable, industry-standard, ethical, intuitive, easy to use tools for at-risk communities to pseudonymously preserve and authenticate their media so that it will be accessible and maintain its provenance in the future.</p>
 <br>
 <br>
-<h2 class="textTeal">Funding</h2>
+<h2 class="textTeal">Support</h2>
 <p><img src="{{ '/images/otrlogo300.png' | prepend: site.baseurl }}" alt="OTF" /> 
 <br>Our work is made possible by <a href="http://otf.rfa.org/">The Open Technology Fund</a>, who are currently supporting the expansion, infrastructure, and decentralization of OpenArchive.</p>
 <p><img src="{{ '/images/knight-logo-300USE.jpeg' | prepend: site.baseurl }}" alt="Knight Foundation" />
 <br>In 2014, OpenArchive received support from the Knight Prototype Fund.</p>
-<p class="textTeal"><i>We are currently seeking funding to help us improve OpenArchive, develop new and refine curent features, and to sustain our grassourts research efforts. If you would like to support us, <a href="/contact">we'd love to hear from you.</a></i></p>
+<p class="textTeal"><i>We are currently seeking funding to help us improve OpenArchive, develop new and refine curent features, and to sustain our grassroots research efforts. If you would like to support us, <a href="/contact">we'd love to hear from you.</a></i></p>
 
 <br>
 <h2 class="textTeal">Credits</h2>
