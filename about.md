@@ -55,7 +55,6 @@ permalink: /about/
 <h2 style="text-align: center;">Our Support</h2>
 <p><img src="{{ '/images/otrlogo300.png' | prepend: site.baseurl }}" alt="OTF" />
 
-<h2 class="textTeal">Support</h2>
 <br>Our work is made possible by <a href="http://otf.rfa.org/">The Open Technology Fund</a>, who are currently supporting the expansion, infrastructure, and decentralization of OpenArchive.</p>
 <p><img src="{{ '/images/knight-logo-300USE.jpeg' | prepend: site.baseurl }}" alt="Knight Foundation" />
 <br>In 2014, OpenArchive received support from the Knight Prototype Fund.</p>
