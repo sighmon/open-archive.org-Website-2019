@@ -26,7 +26,37 @@ h2 {font-size: 1.5em !important;}
 .textTeal {color: #00B4A6 !important;}
 .textPurple {color: #3e3b8f !important;}
 .textBurgundy {color: #4d0026 !important;}
+.textWhite {color: #ffffff !important;}
 
+.appName {font-weight: bold; font-style: italic; color: #00B4A6 !important; }
+.subMenuItem { padding-left: 1em !important; display: none !important; }
+#menu .subMenuItem { display: block !important; }
+#search { position: absolute; top: 0; right: 135px !important; width: 175px; }
+.is-mobile #search { position: absolute; top: 0; right: 55px !important; width: 125px; }
+.is-mobile .menuToggle span { display: none !important; }
+.search-box { border: 1px solid white !important; font-size: 0.8em !important; height: 2em !important; display: inline-block !important; }
+#search-results { list-style: none !important; }
+#search-results li { padding-top: 20px !important; }
+#search-refine { width: 100%; text-align: center; }
+#search-box { display: inline-block !important; max-width: 300px; border: 0px; }
+#search-button { display: inline-block !important; max-width: 150px; }
+a.download-button {
+  background-color: #7f3359 !important;
+  box-shadow: none;
+  &:hover {
+    background-color: #4d0026 !important;
+  }
+}
+
+h2 { color: #00B4A6 !important; letter-spacing: 0.05em !important; }
+h3 { color: #00B4A6 !important;}
+.heading h2 { color: #000000 !important; text-transform: none !important; }
+.content h4 { color: #00B4A6 !important; }
+.content h5 { color: #00B4A6 !important; text-transform: none !important; font-size: 1em; }
+.content ol {  margin-bottom: 0em; list-style-type: decimal; }
+.content ol ol { list-style-type: lower-alpha; }
+.content li { margin-top: 1em; }
+.content ol ol li { margin-top: 0em; }
 // these are examples, please don't use these
 
 .wrapper.style5 {opacity: 0.95 !important; padding-bottom: 3em !important;} // inner page white background
@@ -65,14 +95,14 @@ footer li {display: inline-block !important;}
 
 #menu, #main section {opacity: 0.9 !important;}
 
-// mobile only tweaks 
+// mobile only tweaks
 
 body.is-mobile {
-	
+
 	#banner h2 {font-size: 2em !important;}
-	
+
 	h2 {font-size: 1.3em !important;}
-	
+
 }
 
 
@@ -1470,7 +1500,8 @@ body.is-mobile {
 			}
 		}
 
-		nav#long.alt {display: none;}
+		nav#long {display: none;}
+    nav#nav {display: block !important;}
 
 		nav {
 			height: inherit;
@@ -1591,7 +1622,7 @@ body.is-mobile {
 
 		p {
 			letter-spacing: _size(letter-spacing-alt);
-			
+
 
 			a {
 				color: inherit;
@@ -1811,7 +1842,7 @@ body.is-mobile {
 				color: _palette(fg-light);
 
 				&:hover {
-					color: _palette(fg);
+					color: #00B4A6;
 				}
 			}
 		}
