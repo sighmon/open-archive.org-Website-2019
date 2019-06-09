@@ -19,7 +19,7 @@ permalink: /search/
         "title": "{{ post.title | xml_escape }}",
         "author": "{{ post.author | xml_escape }}",
         "category": "{{ post.category | xml_escape }}",
-        "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+        "content": {{ post.content |  strip_html | newline_to_br | jsonify }},
         "url": "{{ site.baseurl }}{{ post.url | xml_escape }}"
       }
       {% unless forloop.last %},{% endunless %}
@@ -30,7 +30,7 @@ permalink: /search/
         "title": "{{ page.title | xml_escape }}",
         "author": "{{ page.author | xml_escape }}",
         "category": "{{ page.category | xml_escape }}",
-        "content": {{ page.content | strip_html | strip_newlines | jsonify }},
+        "content": {{ page.content | strip_html | newline_to_br | jsonify }},
         "url": "{{ site.baseurl }}{{ page.url | xml_escape }}"
       }
       {% unless forloop.last %},{% endunless %}
