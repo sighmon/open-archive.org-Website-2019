@@ -72,7 +72,9 @@ Before joining The Intercept, he worked as a staff technologist at the Electroni
  <p><b>Beatrice Martini</b>
 <br>
 
-<p>Beatrice is a Digital HKS Fellow at Harvard's Kennedy School. Formerly, she lead the Human Rights Technology program at Aspiration, a nonprofit connecting organizations, foundations and activists with software solutions, strategy and technology skills that help them better carry out their missions. She participates in open source technology initiatives and peer-learning projects as contributor, facilitator, advisor, and mentor. She also serves in a formal advisory role with The Center for Tech Cultivation. While at Open Knowledge International, she curated and organized the Open Knowledge Conference 2013 and Open Knowledge Festival 2014.  
+<p>Beatrice is a Research Fellow at the digital HKS program at the Harvard Kennedy School. She has a profound passion for the Internet and its workings, professional experience in the field of human rights and technology, and insight into contributing to advocacy efforts at international levels. Her current research focuses on the implications of Internet infrastructure design on human rights.
+
+Over the past 10 years Beatrice has worked on several projects leveraging open source technology in support of justice and rights efforts. She led the Human Rights Technology program at Aspiration, worked at Open Knowledge International, and currently serves in a formal advisory role with the Center for Tech Cultivation. 
 </p>
 <br>
   
