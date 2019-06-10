@@ -1,7 +1,7 @@
 <!-- Header -->
 <header id="header" class="alt">
   <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-  <form id="search" action="{{ site.baseurl }}/search" method="get">
+  <form id="search" action="{{ "/search" | prepend: site.baseurl }}" method="get">
     <input type="text" class="search-box" name="query" placeholder="Search">
   </form>
   <nav id="nav">

@@ -3,7 +3,7 @@ title: Search Results
 layout: page
 permalink: /search/
 ---
-<form id="search-refine" action="{{ site.baseurl }}/search" method="get">
+<form id="search-refine" action="{{ "/search" | prepend: site.baseurl }}" method="get">
   <input type="text" id="search-box" name="query">
   <input type="submit" id="search-button" value="search">
 </form>
@@ -11,8 +11,6 @@ permalink: /search/
 <ul id="search-results"></ul>
 
 <script type="text/javascript">
-  console.log();
-
   window.store = {
     {% for post in site.posts %}
       "{{ post.url | slugify }}": {
@@ -37,5 +35,5 @@ permalink: /search/
     {% endfor %}
   };
 </script>
-<script type="text/javascript" src="{{ site.baseurl }}/js/lunr.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/js/search.js"></script>
+<script type="text/javascript" src="{{ "/js/lunr.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript" src="{{ "/js/search.js" | prepend: site.baseurl }}"></script>
