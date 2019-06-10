@@ -59,7 +59,6 @@ permalink: /about/
 <br>
  <p><b>Micah Lee</b>
 <br>
- <br>
 <p>Micah Lee is a computer security engineer and an open-source software developer at the Intercept. He writes about technical topics like digital and operational security, encryption tools, whistleblowing, and hacking using language that everyone can understand without dumbing it down. An avid user of Qubes and Linux, he develops security tools such as OnionShare.
 
 Before joining The Intercept, he worked as a staff technologist at the Electronic Frontier Foundation, where he explained how technologies work to journalists and lawyers, and worked to encrypt the web. He is also a founder and board member of the Freedom of the Press Foundation.</p>
