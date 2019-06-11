@@ -17,7 +17,7 @@ permalink: /about/
 
 <p>We are doing better.</p>
 
-<p>OpenArchive fosters a virtual commons where civil liberties are protected, in the process creating a world where people’s history is a primary history.</p>
+<p>OpenArchive fosters a virtual commons where civil liberties are protected and aspires to create a world where people’s history is a primary history.</p>
 
 <p>
   </p>
