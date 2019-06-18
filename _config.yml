@@ -3,12 +3,14 @@
 
 # Site settings
 title: OpenArchive
+title_image: https://open-archive.org/images/panopticonZoom1Sm.png
 description: A free, open-source mobile application dedicated to maintaining the privacy, provenance, and preservation of your media.
 #owner:  # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: info@open-archive.org
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://open-archive.org" # the base hostname & protocol for your site
+twitter_username: "open_archive"
 social:
   twitter: https://twitter.com/open_archive
   github: https://github.com/openarchive
