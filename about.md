@@ -17,7 +17,7 @@ permalink: /about/
 
 <p>We are doing better.</p>
 
-<p>OpenArchive fosters a virtual commons where civil liberties are protected, in the process creating a world where people’s history is a primary history.</p>
+<p>OpenArchive fosters a virtual commons where civil liberties are protected and aspires to create a world where people’s history is a primary history.</p>
 
 <p>
   </p>
@@ -30,7 +30,7 @@ permalink: /about/
 <br>
   <i>Founder and Director</i>
  <br>
-<p>Natalie is an archivist and ethnographer working at the nexus of human rights, design, and technology. She is currently a fellow at Stanford's Digital Civil Society Lab and consults with various Human Rights organizations worldwide. For the last decade, she shaped initiatives dedicated to improving access to information in roles ranging from program director to operations, development, and technology consultant for social and environmental justice organizations. She holds a Masters from the UC Berkeley School of Information and a Bachelors in International Relations from UC Davis.</p>
+<p>Natalie is an archivist and ethnographer working at the nexus of human rights, design, and technology. She aims to protect and amplify community media and by helping human rights and media organizations better manage, protect, and preserve media they receive. She is currently a fellow at Stanford's Digital Civil Society Lab and consults with various human rights organizations worldwide. For the last decade, she shaped initiatives dedicated to improving access to information for social and environmental justice organizations. She holds a Masters from the UC Berkeley School of Information and a Bachelors in International Relations from UC Davis.</p>
 <br>
   <p>
     <b>Nathan Freitas</b>
@@ -51,9 +51,36 @@ permalink: /about/
 <br>
   <p>Collin works to support human rights defenders through digital security and documentation capacity building, including in-person training and remote support. For the last 7 years, he was a Human Rights Program Associate with Benetech on the Martus project, holds a BA and MA in Political Science.</p>
   <br>
+
+  <h2 style="text-align: center;">Our Advisors</h2>
+  <p><b>Harlo Holmes</b>
+<br>
+<p>Harlo is the Director of Newsroom Digital Security at Freedom of the Press Foundation. She strives to help individual journalists in various media organizations become confident and effective in securing their communications within their newsrooms, with their sources, and with the public at large. She is a media scholar, software programmer, and activist; and contributes regularly to the open source mobile security collective The Guardian Project.</p>
+<br>
+ <p><b>Micah Lee</b>
+<br>
+<p>Micah Lee is a computer security engineer and an open-source software developer at the Intercept. He writes about technical topics like digital and operational security, encryption tools, whistleblowing, and hacking using language that everyone can understand without dumbing it down. An avid user of Qubes and Linux, he develops security tools such as OnionShare.
+
+Before joining The Intercept, he worked as a staff technologist at the Electronic Frontier Foundation, where he explained how technologies work to journalists and lawyers, and worked to encrypt the web. He is also a founder and board member of the Freedom of the Press Foundation.</p>
+<br>
+ <p><b>Cooper Quintin</b>
+<br>
+
+<p>Cooper is a security researcher and Senior Staff Technologist at EFF. He has worked on projects such as Privacy Badger, Canary Watch, and analysis of state sponsored malware. He has also performed security trainings for activists, non profit workers and ordinary folks around the world. He previously worked building websites for non-profits, such as Greenpeace, Adbusters, and the Chelsea Manning Support Network. He also was a co-founder of the Hackbloc hacktivist collective. In his spare time he enjoys playing music and participating in street protests. 
 </p>
+<br>
+ <p><b>Beatrice Martini</b>
+<br>
+
+<p>Beatrice is a Research Fellow at the digital HKS program at the Harvard Kennedy School. She has a profound passion for the Internet and its workings, professional experience in the field of human rights and technology, and insight into contributing to advocacy efforts at international levels. Her current research focuses on the implications of Internet infrastructure design on human rights.
+
+Over the past 10 years Beatrice has worked on several projects leveraging open source technology in support of justice and rights efforts. She led the Human Rights Technology program at Aspiration, worked at Open Knowledge International, and currently serves in a formal advisory role with the Center for Tech Cultivation. 
+</p>
+<br>
+  
 <h2 style="text-align: center;">Our Support</h2>
 <p><img src="{{ '/images/otrlogo300.png' | prepend: site.baseurl }}" alt="OTF" />
+ <br>
 
 <br>Our work is made possible by <a href="http://otf.rfa.org/">The Open Technology Fund</a>, who are currently supporting the expansion, infrastructure, and decentralization of OpenArchive.</p>
 <p><img src="{{ '/images/knight-logo-300USE.jpeg' | prepend: site.baseurl }}" alt="Knight Foundation" />
