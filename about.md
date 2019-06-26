@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About OpenArchive
+title: About Us
 description:
 permalink: /about/
 ---
