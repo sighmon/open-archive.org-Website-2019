@@ -8,7 +8,7 @@ permalink: /about/
 <h2 style="text-align: center;">Our Work</h2>
 <h4 class="textTeal">Mission</h4>
 <p>OpenArchive is dedicated to preserving, amplifying, and securely routing mobile media to community-maintained collections in accessible public and private archives, outside the corporate walled gardens currently dominating the online media ecosystem.</p>
-<p>Created by and for citizen journalists and human rights defenders, our distributed media ecosystem promotes freedom of expression by protecting, authenticating, and offering access to and long-term preservation of at-risk community media.</p>
+<p>Created by and for citizen journalists and human rights defenders in 2015, our distributed media ecosystem promotes freedom of expression by protecting, authenticating, and offering access to and long-term preservation of at-risk community media.</p>
 <p>
   </p>
 
@@ -51,31 +51,36 @@ permalink: /about/
 <br>
   <p>Collin works to support human rights defenders through digital security and documentation capacity building, including in-person training and remote support. For the last 7 years, he was a Human Rights Program Associate with Benetech on the Martus project, holds a BA and MA in Political Science.</p>
   <br>
-
+  <p><b>OKThanks</b>
+  <br>
+   <i>User Experience Design</i>
+<br>
+  <p>Okthanks works closely with communities and developers to bring privacy-enhancing technologies to everyday people. A user experience design team, they are passionate about making things simple to use and understand. Carrie Winfrey, Tiffany Robertson and Kaci Bartlett work from their cozy office in Lubbock, Texas. Learn more at okthanks.com.</p>
+  <br>
+  
   <h2 style="text-align: center;">Our Advisors</h2>
   <p><b>Harlo Holmes</b>
 <br>
-<p>Harlo is the Director of Newsroom Digital Security at Freedom of the Press Foundation. She strives to help individual journalists in various media organizations become confident and effective in securing their communications within their newsrooms, with their sources, and with the public at large. She is a media scholar, software programmer, and activist; and contributes regularly to the open source mobile security collective The Guardian Project.</p>
+<p>Harlo is the Director of Newsroom Digital Security at <a href="https://freedom.press/">Freedom of the Press Foundation</a>. She strives to help individual journalists in various media organizations become confident and effective in securing their communications within their newsrooms, with their sources, and with the public at large. She is a media scholar, software programmer, and activist; and contributes regularly to the open source mobile security collective The Guardian Project.</p>
 <br>
  <p><b>Micah Lee</b>
 <br>
-<p>Micah Lee is a computer security engineer and an open-source software developer at the Intercept. He writes about technical topics like digital and operational security, encryption tools, whistleblowing, and hacking using language that everyone can understand without dumbing it down. An avid user of Qubes and Linux, he develops security tools such as OnionShare.
+<p>Micah Lee is a computer security engineer and an open-source software developer at <a href="https://theintercept.com">the Intercept</a>. He writes about technical topics like digital and operational security, encryption tools, whistleblowing, and hacking using language that everyone can understand without dumbing it down. An avid user of Qubes and Linux, he develops security tools such as OnionShare.
 
 Before joining The Intercept, he worked as a staff technologist at the Electronic Frontier Foundation, where he explained how technologies work to journalists and lawyers, and worked to encrypt the web. He is also a founder and board member of the Freedom of the Press Foundation.</p>
 <br>
  <p><b>Cooper Quintin</b>
 <br>
 
-<p>Cooper is a security researcher and Senior Staff Technologist at EFF. He has worked on projects such as Privacy Badger, Canary Watch, and analysis of state sponsored malware. He has also performed security trainings for activists, non profit workers and ordinary folks around the world. He previously worked building websites for non-profits, such as Greenpeace, Adbusters, and the Chelsea Manning Support Network. He also was a co-founder of the Hackbloc hacktivist collective. In his spare time he enjoys playing music and participating in street protests. 
+<p>Cooper is a security researcher and Senior Staff Technologist at the <a href="https://www.eff.org">Electronic Frontier Foundation</a>. He has worked on projects such as Privacy Badger, Canary Watch, and analysis of state sponsored malware. He has also performed security trainings for activists, non profit workers and ordinary folks around the world. He previously worked building websites for non-profits, such as Greenpeace, Adbusters, and the Chelsea Manning Support Network. He also was a co-founder of the Hackbloc hacktivist collective. In his spare time he enjoys playing music and participating in street protests. 
 </p>
 <br>
  <p><b>Beatrice Martini</b>
 <br>
 
-<p>Beatrice is a Research Fellow at the digital HKS program at the Harvard Kennedy School. She has a profound passion for the Internet and its workings, professional experience in the field of human rights and technology, and insight into contributing to advocacy efforts at international levels. Her current research focuses on the implications of Internet infrastructure design on human rights.
+<p>Beatrice (@beatricemartini) is a Research Fellow at the digital HKS program at the Harvard Kennedy School. She has a profound passion for the Internet and its workings, professional experience in the field of human rights and technology, and insight into contributing to advocacy efforts at international levels. Her current research focuses on the implications of Internet infrastructure design on human rights.
 
-Over the past 10 years Beatrice has worked on several projects leveraging open source technology in support of justice and rights efforts. She led the Human Rights Technology program at Aspiration, worked at Open Knowledge International, and currently serves in a formal advisory role with the Center for Tech Cultivation. 
-</p>
+Over the past 10 years Beatrice has worked on several projects leveraging open source technology in support of justice and rights efforts. She led the Human Rights Technology program at <a href="https://aspirationtech.org">Aspiration</a>, worked at  <a href="https://okfn.org">Open Knowledge International</a>, and currently serves in a formal advisory role with the <a href="https://techcultivation.org/Center">Center for Tech Cultivation</a> and us at OpenArchive. Further information about her projects are available at beatricemartini.it.</p>
 <br>
   
 <h2 style="text-align: center;">Our Support</h2>
