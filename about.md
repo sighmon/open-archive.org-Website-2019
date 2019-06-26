@@ -61,18 +61,18 @@ permalink: /about/
   <h2 style="text-align: center;">Our Advisors</h2>
   <p><b>Harlo Holmes</b>
 <br>
-<p>Harlo is the Director of Newsroom Digital Security at <a href="https://freedom.press/">Freedom of the Press Foundation</a>. She strives to help individual journalists in various media organizations become confident and effective in securing their communications within their newsrooms, with their sources, and with the public at large. She is a media scholar, software programmer, and activist; and contributes regularly to the open source mobile security collective The Guardian Project.</p>
+<p>Harlo is the Director of Newsroom Digital Security at <a target="_blank" https://freedom.press/">Freedom of the Press Foundation</a>. She strives to help individual journalists in various media organizations become confident and effective in securing their communications within their newsrooms, with their sources, and with the public at large. She is a media scholar, software programmer, and activist; and contributes regularly to the open source mobile security collective The Guardian Project.</p>
 <br>
  <p><b>Micah Lee</b>
 <br>
-<p>Micah Lee is a computer security engineer and an open-source software developer at <a href="https://theintercept.com">the Intercept</a>. He writes about technical topics like digital and operational security, encryption tools, whistleblowing, and hacking using language that everyone can understand without dumbing it down. An avid user of Qubes and Linux, he develops security tools such as OnionShare.
+<p>Micah Lee is a computer security engineer and an open-source software developer at <a target="_blank" https://theintercept.com">the Intercept</a>. He writes about technical topics like digital and operational security, encryption tools, whistleblowing, and hacking using language that everyone can understand without dumbing it down. An avid user of Qubes and Linux, he develops security tools such as OnionShare.
 
 Before joining The Intercept, he worked as a staff technologist at the Electronic Frontier Foundation, where he explained how technologies work to journalists and lawyers, and worked to encrypt the web. He is also a founder and board member of the Freedom of the Press Foundation.</p>
 <br>
  <p><b>Cooper Quintin</b>
 <br>
 
-<p>Cooper is a security researcher and Senior Staff Technologist at the <a href="https://www.eff.org">Electronic Frontier Foundation</a>. He has worked on projects such as Privacy Badger, Canary Watch, and analysis of state sponsored malware. He has also performed security trainings for activists, non profit workers and ordinary folks around the world. He previously worked building websites for non-profits, such as Greenpeace, Adbusters, and the Chelsea Manning Support Network. He also was a co-founder of the Hackbloc hacktivist collective. In his spare time he enjoys playing music and participating in street protests. 
+<p>Cooper is a security researcher and Senior Staff Technologist at the <a target="_blank" https://www.eff.org">Electronic Frontier Foundation</a>. He has worked on projects such as Privacy Badger, Canary Watch, and analysis of state sponsored malware. He has also performed security trainings for activists, non profit workers and ordinary folks around the world. He previously worked building websites for non-profits, such as Greenpeace, Adbusters, and the Chelsea Manning Support Network. He also was a co-founder of the Hackbloc hacktivist collective. In his spare time he enjoys playing music and participating in street protests. 
 </p>
 <br>
  <p><b>Beatrice Martini</b>
@@ -80,18 +80,18 @@ Before joining The Intercept, he worked as a staff technologist at the Electroni
 
 <p>Beatrice (@beatricemartini) is a Research Fellow at the digital HKS program at the Harvard Kennedy School. She has a profound passion for the Internet and its workings, professional experience in the field of human rights and technology, and insight into contributing to advocacy efforts at international levels. Her current research focuses on the implications of Internet infrastructure design on human rights.
 
-Over the past 10 years Beatrice has worked on several projects leveraging open source technology in support of justice and rights efforts. She led the Human Rights Technology program at <a href="https://aspirationtech.org">Aspiration</a>, worked at  <a href="https://okfn.org">Open Knowledge International</a>, and currently serves in a formal advisory role with the <a href="https://techcultivation.org/Center">Center for Tech Cultivation</a> and us at OpenArchive. Further information about her projects are available at beatricemartini.it.</p>
+Over the past 10 years Beatrice has worked on several projects leveraging open source technology in support of justice and rights efforts. She led the Human Rights Technology program at <a target="_blank" https://aspirationtech.org">Aspiration</a>, worked at  <a target="_blank" https://okfn.org">Open Knowledge International</a>, and currently serves in a formal advisory role with the <a target="_blank" https://techcultivation.org">Center for Tech Cultivation</a> and us at OpenArchive. Further information about her projects are available at beatricemartini.it.</p>
 <br>
   
 <h2 style="text-align: center;">Our Support</h2>
 <p><img src="{{ '/images/otrlogo300.png' | prepend: site.baseurl }}" alt="OTF" />
  <br>
 
-<br>Our work is made possible by <a href="http://otf.rfa.org/">The Open Technology Fund</a>, who are currently supporting the expansion, infrastructure, and decentralization of OpenArchive.</p>
+<br>Our work is made possible by <a target="_blank" http://otf.rfa.org/">The Open Technology Fund</a>, who are currently supporting the expansion, infrastructure, and decentralization of OpenArchive.</p>
 <p><img src="{{ '/images/knight-logo-300USE.jpeg' | prepend: site.baseurl }}" alt="Knight Foundation" />
 <br>In 2014, OpenArchive received support from the Knight Prototype Fund.</p>
 <p class="textTeal"><i>We are currently seeking funding to help us improve OpenArchive, develop new and refine curent features, and to sustain our grassroots research efforts. If you would like to support us, <a href="/contact">we'd love to hear from you.</a></i></p>
 
 <br>
 <h4 class="textTeal">Credits</h4>
-<p>Banner image is <a href="https://www.flickr.com/photos/matthewhartley369/13391628763/">The Singing Ringing Tree</a>, taken by Matthew Hartley under the <a href="https://creativecommons.org/licenses/by-sa/2.0/#">CC by SA 2.0 license</a></p>
+<p>Banner image is <a target="_blank" https://www.flickr.com/photos/matthewhartley369/13391628763/">The Singing Ringing Tree</a>, taken by Matthew Hartley under the <a target="_blank" https://creativecommons.org/licenses/by-sa/2.0/#">CC by SA 2.0 license</a></p>
