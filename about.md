@@ -30,7 +30,7 @@ permalink: /about/
 <br>
   <i>Founder and Director</i>
  <br>
-<p>Natalie is an archivist and ethnographer working at the nexus of human rights, design, and technology. She aims to protect and amplify community media and help organizations better manage, protect, and preserve documentation they receive. She is currently a fellow at Stanford's Digital Civil Society Lab and consults with various human rights organizations worldwide. For the last decade, she shaped initiatives dedicated to improving access to information for social and environmental justice organizations. She holds a Masters from the UC Berkeley School of Information and a Bachelors in International Relations from UC Davis.</p>
+<p>Natalie is an archivist and ethnographer working at the nexus of human rights, design, and technology. She aims to protect and amplify community media by helping organizations better manage, protect, and preserve documentation they receive. She is currently a fellow at Stanford's Digital Civil Society Lab and consults with various human rights-focused organizations worldwide. For the last decade, she shaped initiatives dedicated to improving access to information for social and environmental justice organizations. She holds a Masters from the UC Berkeley School of Information and a Bachelors in International Relations from UC Davis.</p>
 <br>
   <p>
     <b>Nathan Freitas</b>
@@ -49,7 +49,7 @@ permalink: /about/
   <br>
    <i>Digital Security Trainer and Partnerships Manager</i>
 <br>
-  <p>Collin works to support human rights defenders through digital security and documentation capacity building, including in-person training and remote support. For the last 7 years, he was a Human Rights Program Associate with Benetech on the Martus project, holds a BA and MA in Political Science.</p>
+  <p>Collin works to support human rights defenders through digital security and documentation capacity building, including in-person training and remote support. For the last 7 years, he was a Human Rights Program Associate with Benetech on the Martus project and holds a BA and MA in Political Science.</p>
   <br>
   <p><b>OKThanks</b>
   <br>
