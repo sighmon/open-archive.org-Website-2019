@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-description:
+description: About Team OpenArchive
 permalink: /about/
 ---
 
