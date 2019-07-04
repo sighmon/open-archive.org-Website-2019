@@ -21,7 +21,8 @@ description:
 <br>
 <p>In the coming year, the OpenArchive team will continue to engage with our community, offer trainings, improve documentation, share our expertise, and advocate for open archiving frameworks that allow people to store and manage their content outside the walled gardens of proprietary Silicon Valley companies.
 <br>
-<p>Last month, OpenArchive’s founder Natalie joined panels and hosted a workshop to share <span class="appName">Save</span> with the Human Rights community at RightsCon in Tunis. We want to take every opportunity we have to engage with the communities we serve so we can continually improve the functionality and usability our communities require and ensures that they have a secure framework to manage their digital media outside of the surveillance capitalism-driven media management systems currently on the market.
+<p>Last month, OpenArchive’s founder Natalie joined panels and hosted a workshop to share <span class="appName">Save</span> with the Human Rights community at 
+<a href="https://rightscon.org/">RightsCon</a> in Tunis. We want to take every opportunity we have to engage with the communities we serve so we can continually improve the functionality and usability they require and ensure that they have a secure framework to manage their digital media outside of the surveillance capitalism-driven media management systems currently on the market. If you know of great places we should be, <a href="mailto:info@open-archive.org">let us know</a>!
   <br>
 <p>Follow us on Twitter for updates and more at @open_archive
 
