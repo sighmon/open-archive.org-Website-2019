@@ -7,7 +7,7 @@ permalink: /about/
 
 <h2 style="text-align: center;">Our Work</h2>
 <h4 class="textTeal">Mission</h4>
-<p>OpenArchive is dedicated to preserving, amplifying, and securely routing mobile media to community-maintained collections in accessible public and private archives, outside the corporate walled gardens currently dominating the online media ecosystem.</p>
+<p>OpenArchive is dedicated to media freedom: preserving, amplifying, and securely routing mobile media to community-maintained collections in accessible public and private archives, outside the corporate walled gardens currently dominating the online media ecosystem.</p>
 <p>Created by and for citizen journalists and human rights defenders in 2015, our distributed media ecosystem promotes freedom of expression by protecting, authenticating, and offering access to and long-term preservation of at-risk community media.</p>
 <p>
   </p>
