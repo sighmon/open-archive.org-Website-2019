@@ -76,10 +76,6 @@ Before joining The Intercept, he worked as a staff technologist at the Electroni
 <br>Nicole Martin is the Senior Manager of Archives and Digital Systems at <a href="https://www.hrw.org/" target="_blank">Human Rights Watch</a>, where she established the organization's first digital archive. She holds a master’s degree in Moving Image Archiving and Preservation from New York University, and teaches Digital Preservation as an adjunct professor in the same program. Nicole has worked with several nonprofit community media organizations, including Democracy Now!, The Lesbian Herstory Archives, and Deep Dish Television. She received an undergraduate degree in Film and Digital Media from the University of California, Santa Cruz, where she studied early interactive web design, electronic music, and queer film theory.</p>
 <br>
 
-<p>Beatrice (@beatricemartini) is a Research Fellow at the digital HKS program at the Harvard Kennedy School. She has a profound passion for the Internet and its workings, professional experience in the field of human rights and technology, and insight into contributing to advocacy efforts at international levels. Her current research focuses on the implications of Internet infrastructure design on human rights.
-
-Over the past 10 years Beatrice has worked on several projects leveraging open source technology in support of justice and rights efforts. She led the Human Rights Technology program at <a href="https://aspirationtech.org" target="_blank">Aspiration</a>, worked at <a href="https://okfn.org" target="_blank">Open Knowledge International</a>, and currently serves in a formal advisory role with the <a href="https://techcultivation.org" target="_blank">Center for Tech Cultivation</a> and us at OpenArchive. Further information about her projects are available at beatricemartini.it.</p>
-<br>
 <p><b>Beatrice Martini</b>
 <br>
 
