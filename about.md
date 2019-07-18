@@ -72,19 +72,28 @@ permalink: /about/
 
 Before joining The Intercept, he worked as a staff technologist at the Electronic Frontier Foundation, where he explained how technologies work to journalists and lawyers, and worked to encrypt the web. He is also a founder and board member of the Freedom of the Press Foundation.</p>
 <br>
- <p><b>Cooper Quintin</b>
-<br>
-
-<p>Cooper is a security researcher and Senior Staff Technologist at the <a href="https://www.eff.org" target="_blank">Electronic Frontier Foundation</a>. He has worked on projects such as Privacy Badger, Canary Watch, and analysis of state sponsored malware. He has also performed security trainings for activists, non profit workers and ordinary folks around the world. He previously worked building websites for non-profits, such as Greenpeace, Adbusters, and the Chelsea Manning Support Network. He also was a co-founder of the Hackbloc hacktivist collective. In his spare time he enjoys playing music and participating in street protests.
-</p>
-<br>
- <p><b>Beatrice Martini</b>
+ <p><b>Nicole Martin</b>
+<br>Nicole Martin is the Senior Manager of Archives and Digital Systems at <a href="https://www.hrw.org/" target="_blank">Human Rights Watch</a>, where she established the organization's first digital archive. She holds a master’s degree in Moving Image Archiving and Preservation from New York University, and teaches Digital Preservation as an adjunct professor in the same program. Nicole has worked with several nonprofit community media organizations, including Democracy Now!, The Lesbian Herstory Archives, and Deep Dish Television. She received an undergraduate degree in Film and Digital Media from the University of California, Santa Cruz, where she studied early interactive web design, electronic music, and queer film theory.</p>
 <br>
 
 <p>Beatrice (@beatricemartini) is a Research Fellow at the digital HKS program at the Harvard Kennedy School. She has a profound passion for the Internet and its workings, professional experience in the field of human rights and technology, and insight into contributing to advocacy efforts at international levels. Her current research focuses on the implications of Internet infrastructure design on human rights.
 
 Over the past 10 years Beatrice has worked on several projects leveraging open source technology in support of justice and rights efforts. She led the Human Rights Technology program at <a href="https://aspirationtech.org" target="_blank">Aspiration</a>, worked at <a href="https://okfn.org" target="_blank">Open Knowledge International</a>, and currently serves in a formal advisory role with the <a href="https://techcultivation.org" target="_blank">Center for Tech Cultivation</a> and us at OpenArchive. Further information about her projects are available at beatricemartini.it.</p>
 <br>
+<p><b>Beatrice Martini</b>
+<br>
+
+<p>Beatrice (@beatricemartini) is a Research Fellow at the digital HKS program at the Harvard Kennedy School. She has a profound passion for the Internet and its workings, professional experience in the field of human rights and technology, and insight into contributing to advocacy efforts at international levels. Her current research focuses on the implications of Internet infrastructure design on human rights.
+
+Over the past 10 years Beatrice has worked on several projects leveraging open source technology in support of justice and rights efforts. She led the Human Rights Technology program at <a href="https://aspirationtech.org" target="_blank">Aspiration</a>, worked at <a href="https://okfn.org" target="_blank">Open Knowledge International</a>, and currently serves in a formal advisory role with the <a href="https://techcultivation.org" target="_blank">Center for Tech Cultivation</a> and us at OpenArchive. Further information about her projects are available at beatricemartini.it.</p>
+<br>
+<p><b>Cooper Quintin</b>
+<br>
+
+<p>Cooper is a security researcher and Senior Staff Technologist at the <a href="https://www.eff.org" target="_blank">Electronic Frontier Foundation</a>. He has worked on projects such as Privacy Badger, Canary Watch, and analysis of state sponsored malware. He has also performed security trainings for activists, non profit workers and ordinary folks around the world. He previously worked building websites for non-profits, such as Greenpeace, Adbusters, and the Chelsea Manning Support Network. He also was a co-founder of the Hackbloc hacktivist collective. In his spare time he enjoys playing music and participating in street protests.
+</p>
+<br>
+ 
 
 <a id="our-support"></a>
 <h2 style="text-align: center;">Our Support</h2>
