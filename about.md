@@ -1,10 +1,11 @@
 ---
 layout: page
 title: About Us
-description: 
+description:
 permalink: /about/
 ---
 
+<a id="our-work"></a>
 <h2 style="text-align: center;">Our Work</h2>
 <h4 class="textTeal">Mission</h4>
 <p>OpenArchive is dedicated to protecting media freedom: preserving, amplifying, and securely routing mobile media to community-maintained collections in accessible public and private archives, outside the corporate walled gardens currently dominating the online media ecosystem.</p>
@@ -25,6 +26,7 @@ permalink: /about/
 <p><a target="_blank" href="https://open-archive.org/save/"> <span class="appName">Save</span></a> by OpenArchive is a free, open source mobile archiving application for documentarians and human rights defenders that securely sends mobile media to the <a href="https://archive.org/">Internet Archive</a>, other online destinations using Orbot/Tor. By uniting the work of the <a href="http://guardianproject.info/">Guardian Project</a>, <a href="https://creativecommons.org/">Creative Commons</a>, and distributed, secure servers, it offers at-risk groups more agency over their historical record by affording them secure transit, media authentication, pseudonymity, licensing controls, and the ability to choose where and how the media will be stored for long-term access and reuse. In addition to this, those with limited internet access, can share media between devices with our “nearby” feature via bluetooth, so there can be multiple copies of the media across devices.</p>
 <p>It is currently available for android on <a href="http://bit.ly/29ewnaD">Google Play</a> and <a href="http://bit.ly/29jDPDo">GitHub</a>. It will be available for iOS Summer, 2019 and is currently in Beta. If you'd like to be a beta tester, you can install it by <a target="_blank" href="https://testflight.apple.com/join/ggJjJ6bF">opening this link on your iPhone</a>. Our lightweight mobile app. (under 6mb) addresses the gaps in the current online ecosystem existing around the a) ethical short-term collection and b) long term preservation of sensitive mobile media. We provide mobile-centered, scalable, industry-standard, ethical, intuitive, easy to use tools for at-risk communities to pseudonymously preserve and authenticate their media so that it will be accessible and maintain its provenance in the future.</p>
 <br>
+<a id="our-team"></a>
 <h2 style="text-align: center;">Our Team</h2>
 <p><b>Natalie Cadranel</b>
 <br>
@@ -57,8 +59,9 @@ permalink: /about/
 <br>
   <p>Okthanks works closely with communities and developers to bring privacy-enhancing technologies to everyday people. A user experience design team, they are passionate about making things simple to use and understand. Carrie Winfrey, Tiffany Robertson and Kaci Bartlett work from their cozy office in Lubbock, Texas. Learn more at okthanks.com.</p>
   <br>
-  
-  <h2 style="text-align: center;">Our Advisors</h2>
+
+<a id="our-advisors"></a>
+<h2 style="text-align: center;">Our Advisors</h2>
   <p><b>Harlo Holmes</b>
 <br>
 <p>Harlo is the Director of Newsroom Digital Security at <a href="https://freedom.press/" target="_blank">Freedom of the Press Foundation</a>. She strives to help individual journalists in various media organizations become confident and effective in securing their communications within their newsrooms, with their sources, and with the public at large. She is a media scholar, software programmer, and activist; and contributes regularly to the open source mobile security collective The Guardian Project.</p>
@@ -72,7 +75,7 @@ Before joining The Intercept, he worked as a staff technologist at the Electroni
  <p><b>Cooper Quintin</b>
 <br>
 
-<p>Cooper is a security researcher and Senior Staff Technologist at the <a href="https://www.eff.org" target="_blank">Electronic Frontier Foundation</a>. He has worked on projects such as Privacy Badger, Canary Watch, and analysis of state sponsored malware. He has also performed security trainings for activists, non profit workers and ordinary folks around the world. He previously worked building websites for non-profits, such as Greenpeace, Adbusters, and the Chelsea Manning Support Network. He also was a co-founder of the Hackbloc hacktivist collective. In his spare time he enjoys playing music and participating in street protests. 
+<p>Cooper is a security researcher and Senior Staff Technologist at the <a href="https://www.eff.org" target="_blank">Electronic Frontier Foundation</a>. He has worked on projects such as Privacy Badger, Canary Watch, and analysis of state sponsored malware. He has also performed security trainings for activists, non profit workers and ordinary folks around the world. He previously worked building websites for non-profits, such as Greenpeace, Adbusters, and the Chelsea Manning Support Network. He also was a co-founder of the Hackbloc hacktivist collective. In his spare time he enjoys playing music and participating in street protests.
 </p>
 <br>
  <p><b>Beatrice Martini</b>
@@ -82,7 +85,8 @@ Before joining The Intercept, he worked as a staff technologist at the Electroni
 
 Over the past 10 years Beatrice has worked on several projects leveraging open source technology in support of justice and rights efforts. She led the Human Rights Technology program at <a href="https://aspirationtech.org" target="_blank">Aspiration</a>, worked at <a href="https://okfn.org" target="_blank">Open Knowledge International</a>, and currently serves in a formal advisory role with the <a href="https://techcultivation.org" target="_blank">Center for Tech Cultivation</a> and us at OpenArchive. Further information about her projects are available at beatricemartini.it.</p>
 <br>
-  
+
+<a id="our-support"></a>
 <h2 style="text-align: center;">Our Support</h2>
 <p><img src="{{ '/images/otrlogo300.png' | prepend: site.baseurl }}" alt="OTF" />
  <br>
