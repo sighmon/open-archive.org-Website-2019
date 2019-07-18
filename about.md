@@ -73,6 +73,7 @@ permalink: /about/
 Before joining The Intercept, he worked as a staff technologist at the Electronic Frontier Foundation, where he explained how technologies work to journalists and lawyers, and worked to encrypt the web. He is also a founder and board member of the Freedom of the Press Foundation.</p>
 <br>
  <p><b>Nicole Martin</b>
+  <br>
 <br>Nicole Martin is the Senior Manager of Archives and Digital Systems at <a href="https://www.hrw.org/" target="_blank">Human Rights Watch</a>, where she established the organization's first digital archive. She holds a master’s degree in Moving Image Archiving and Preservation from New York University, and teaches Digital Preservation as an adjunct professor in the same program. Nicole has worked with several nonprofit community media organizations, including Democracy Now!, The Lesbian Herstory Archives, and Deep Dish Television. She received an undergraduate degree in Film and Digital Media from the University of California, Santa Cruz, where she studied early interactive web design, electronic music, and queer film theory.</p>
 <br>
 
