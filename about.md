@@ -80,7 +80,7 @@ Before joining The Intercept, he worked as a staff technologist at the Electroni
 <p><b>Beatrice Martini</b>
 <br>
 
-<p>Beatrice (@beatricemartini) is a Research Fellow at the digital HKS program at the Harvard Kennedy School. She has a profound passion for the Internet and its workings, professional experience in the field of human rights and technology, and insight into contributing to advocacy efforts at international levels. Her current research focuses on the implications of Internet infrastructure design on human rights.
+<p>Beatrice (@beatricemartini) is a Research Fellow at the digital HKS program at the <a href="https://www.hks.harvard.edu"target="_blank">Harvard Kennedy School</a>. She has a profound passion for the Internet and its workings, professional experience in the field of human rights and technology, and insight into contributing to advocacy efforts at international levels. Her current research focuses on the implications of Internet infrastructure design on human rights.
 
 Over the past 10 years Beatrice has worked on several projects leveraging open source technology in support of justice and rights efforts. She led the Human Rights Technology program at <a href="https://aspirationtech.org" target="_blank">Aspiration</a>, worked at <a href="https://okfn.org" target="_blank">Open Knowledge International</a>, and currently serves in a formal advisory role with the <a href="https://techcultivation.org" target="_blank">Center for Tech Cultivation</a> and us at OpenArchive. Further information about her projects are available at beatricemartini.it.</p>
 <br>
