@@ -58,7 +58,7 @@ permalink: /about/
    <i>Programmer</i>
 <br>
   <p>Benjamin fell in love with computers when he was a teenager and still is today after over 20 years. His passion is to create tangible software for end users, breathing life into designer's visions. He’s happiest when some healthy technical challenges and a higher purpose are stirred into the mix. Currently, he feels most at home developing mobile platforms, but has a long history in web tech, and a knack for security-related topics, which makes him well-suited for this era.
-He is self-employed and works out of his office in Salzburg, Austria. Find him<a href="https://die.netzarchitekten.com/" target="_blank">here</a>.</p>
+He is self-employed and works out of his office in Salzburg, Austria. Find him <a href="https://die.netzarchitekten.com/" target="_blank">here</a>.</p>
   <br>
   <p><b>OKThanks</b>
   <br>
