@@ -53,11 +53,18 @@ permalink: /about/
 <br>
   <p>Collin works to support human rights defenders through digital security and documentation capacity building, including in-person training and remote support. For the last 7 years, he was a Human Rights Program Associate with Benetech on the Martus project and holds a BA and MA in Political Science.</p>
   <br>
+  <p><b>Benjamin Erhart</b>
+  <br>
+   <i>Programmer</i>
+<br>
+  <p>Benjamin fell in love with computers when he was a teenager and still is today after over 20 years. His passion is to create tangible software for end users, breathing life into designer's visions. He’s happiest when some healthy technical challenges and a higher purpose are stirred into the mix. Currently, he feels most at home developing mobile platforms, but has a long history in web tech, and a knack for security-related topics, which makes him well-suited for this era.
+He is self-employed and works out of his office in Salzburg, Austria. Find him<a href="https://die.netzarchitekten.com/" target="_blank">here</a>.</p>
+  <br>
   <p><b>OKThanks</b>
   <br>
    <i>User Experience Design</i>
 <br>
-  <p>Okthanks works closely with communities and developers to bring privacy-enhancing technologies to everyday people. A user experience design team, they are passionate about making things simple to use and understand. Carrie Winfrey, Tiffany Robertson and Kaci Bartlett work from their cozy office in Lubbock, Texas. Learn more at okthanks.com.</p>
+  <p>Okthanks works closely with communities and developers to bring privacy-enhancing technologies to everyday people. A user experience design team, they are passionate about making things simple to use and understand. Carrie Winfrey, Tiffany Robertson and Kaci Bartlett work from their cozy office in Lubbock, Texas. Learn more at <a href="https://okthanks.com"target="_blank">OkThanks</a>.</p>
   <br>
 
 <a id="our-advisors"></a>
