@@ -110,4 +110,4 @@ Before joining The Intercept, he worked as a staff technologist at the Electroni
 
 <br>
 <h4 class="textTeal">Credits</h4>
-<p>Banner image is <a href="https://www.flickr.com/photos/matthewhartley369/13391628763/" target="_blank">The Singing Ringing Tree</a>, taken by Matthew Hartley under the <a href="https://creativecommons.org/licenses/by-sa/2.0/#" target="_blank">CC by SA 2.0 license</a></p>
+<p>Background image is <a href="https://www.flickr.com/photos/matthewhartley369/13391628763/" target="_blank">The Singing Ringing Tree</a>, taken by Matthew Hartley under the <a href="https://creativecommons.org/licenses/by-sa/2.0/#" target="_blank">CC by SA 2.0 license</a></p>
