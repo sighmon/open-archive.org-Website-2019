@@ -64,7 +64,7 @@ He is self-employed and works out of his office in Salzburg, Austria. Find him <
   <br>
    <i>User Experience Design</i>
 <br>
-  <p>Okthanks works closely with communities and developers to bring privacy-enhancing technologies to everyday people. A user experience design team, they are passionate about making things simple to use and understand. Carrie Winfrey, Tiffany Robertson and Kaci Bartlett work from their cozy office in Lubbock, Texas. Learn more at <a href="https://okthanks.com"target="_blank">OkThanks</a>.</p>
+  <p>Okthanks works closely with communities and developers to bring privacy-enhancing technologies to everyday people. A user experience design team, they are passionate about making things simple to use and understand. Carrie Winfrey, Tiffany Robertson and Kaci Bartlett work from their cozy office in Lubbock, Texas. Learn more at <a href="https://okthanks.com" target="_blank">OkThanks</a>.</p>
   <br>
 
 <a id="our-advisors"></a>
