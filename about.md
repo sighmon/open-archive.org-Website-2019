@@ -87,7 +87,7 @@ Before joining The Intercept, he worked as a staff technologist at the Electroni
 <p><b>Beatrice Martini</b>
 <br>
 
-<p> Beatrice is the Education Coordinator for the <a href="https://www.accessnow.org/"target="_blank">Access Now</a> <a href="https://www.accessnow.org/help/Digital"target="_blank">Digital Security Helpline</a>. Previously, she led the Human Rights Technology program at Aspiration and worked at the Open Knowledge Foundation and on several projects leveraging open source technology in support of justice and rights endeavors. She is also a research fellow at the Harvard Kennedy School, where she explores the implications of Internet infrastructure design on human rights, and serves in a formal advisory role with the Center for Tech Cultivation. Further information about her projects are available at beatricemartini.it. 
+<p> Beatrice is the Education Coordinator for the <a href="https://www.accessnow.org/" target="_blank">Access Now</a> <a href="https://www.accessnow.org/help/Digital" target="_blank">Digital Security Helpline</a>. Previously, she led the Human Rights Technology program at Aspiration and worked at the Open Knowledge Foundation and on several projects leveraging open source technology in support of justice and rights endeavors. She is also a research fellow at the Harvard Kennedy School, where she explores the implications of Internet infrastructure design on human rights, and serves in a formal advisory role with the Center for Tech Cultivation. Further information about her projects are available at beatricemartini.it. 
 </p>
 <br>
 <p><b>Cooper Quintin</b>
