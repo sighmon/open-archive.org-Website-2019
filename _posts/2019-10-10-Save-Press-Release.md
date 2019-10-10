@@ -11,7 +11,7 @@ permalink: /Save-Launch/
 <img class="postInlineImage" src="/images/save-logo.png"/>
 
 <p><b>OpenArchive launches new app <span class="appName">Save</span> to help journalists and human rights advocates 
-protect and preserve highly sensitive digital media</b></p>
+protect and preserve highly sensitive digital media.</b></p>
 
 <p>OpenArchive, an organization dedicated to advancing freedom of digital expression, announced today the 
 release of a new mobile application, <span class="appName">Save</span>, that safeguards digital evidence of 
