@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Press Release for the Save App Launch
+title: Save Launch Press Release
 description: OpenArchive launches new <span class="appName">Save</span> app to help journalists and human rights advocates protect and preserve highly sensitive digital media
 image: /images/save-logo.png
 permalink: /Save-Launch/
