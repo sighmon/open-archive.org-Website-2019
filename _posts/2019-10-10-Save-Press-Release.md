@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Save Launch Press Release
-description: OpenArchive launches new <span class="appName">Save</span> app to help journalists and human rights advocates <p>protect and preserve highly sensitive digital media
+description: OpenArchive launches new <span class="appName">Save</span> app to help journalists and human rights advocates protect and preserve highly sensitive digital media
 image: /images/save-logo.png
 permalink: /Save-Launch/
 ---
@@ -17,7 +17,6 @@ protect and preserve highly sensitive digital media</b></p>
 release of a new mobile application, <span class="appName">Save</span>, that safeguards digital evidence of 
 human rights abuses around the world.</p>
 <br>
-<p>
 <p>As police violently crack down on peaceful protests, social media companies 
 <a href="https://theintercept.com/2017/11/02/war-crimes-youtube-facebook-syria-rohingya/">censor evidence of war crimes</a>, 
 <a href="https://www.businessinsider.com/iraq-blocks-facebook-whatsapp-cuts-internet-protests-2019-10?r=US&IR=T">national telecom services are suspended</a> 
