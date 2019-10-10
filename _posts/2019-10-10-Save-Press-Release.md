@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Save App Launches
+title: Press Release for the Save App Launch
 description: OpenArchive launches new <span class="appName">Save</span> app to help journalists and human rights advocates protect and preserve highly sensitive digital media
 image: /images/save-logo.png
 permalink: /Save-Launch/
 ---
 
-<p>October 2019, FOR IMMEDIATE RELEASE
+<p>October 2019, FOR IMMEDIATE RELEASE</p>
 
 <img class="postInlineImage" src="/images/save-logo.png"/>
 
@@ -20,7 +20,7 @@ human rights abuses around the world.</p>
 <p>As police violently crack down on peaceful protests, social media companies 
 <a href="https://theintercept.com/2017/11/02/war-crimes-youtube-facebook-syria-rohingya/">censor evidence of war crimes</a>, 
 <a href="https://www.businessinsider.com/iraq-blocks-facebook-whatsapp-cuts-internet-protests-2019-10?r=US&IR=T">national telecom services are suspended</a> 
-in times of unrest, and governments seek to <a href="https://www.theguardian.com/global-development/2018/feb/19/myanmar-government-bulldozing-rohingya-mass-grave-hide-evidence">suppress documentary evidence of atrocities/a>, 
+in times of unrest, and governments seek to <a href="https://www.theguardian.com/global-development/2018/feb/19/myanmar-government-bulldozing-rohingya-mass-grave-hide-evidence">suppress documentary evidence of atrocities</a>, 
 witnesses capturing media on mobile phones play a key role in exposing injustice during turbulent times around the world. <span class="appName">Save</span> 
 makes it easy for journalists, activists, lawyers and others to safely store, share, preserve and amplify documentation of human rights injustices without fear of censorship, surveillance or retribution.</p>
 
