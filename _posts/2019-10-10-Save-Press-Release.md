@@ -33,7 +33,7 @@ says Natalie Cadranel, Founder and Director of OpenArchive and a fellow at the S
 <p>For Cadranel and organizations she works with such as Human Rights Watch, the success of Save will be measured in what the tool can provide to human rights defenders; the app’s inception was a direct response 
 to mounting efforts worldwide to suppress dissent through police crackdowns on peaceful protests, censorship by governments and social media companies, telecom services outages and other forms of retaliation.</p>
 
-<p><span class="appName">Save</span> offers several innovative features. While those using <span class="appName">Save</span> can store their mobile media on the Internet Archive, they also have the ability to 
+<p><span class="appName">Save</span> offers several innovative features that are currently lacking in the existing media-sharing ecosystem. While those using <span class="appName">Save</span> can store their mobile media on the Internet Archive, they also have the ability to 
 integrate the app into their existing server-side preservation architecture. This provides security-minded individuals and teams with a revolutionary “off the shelf” front-end solution for curating their media 
 from around the world. Whether hosted on individual servers or integrated with an organization’s existing technical infrastructure, <span class="appName">Save</span> is engineered to create robust redundancy 
 for mobile-captured media content.</p>
