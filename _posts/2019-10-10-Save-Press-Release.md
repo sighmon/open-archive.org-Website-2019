@@ -28,7 +28,7 @@ witnesses capturing media on mobile phones play a key role in exposing injustice
 <p>“Organizations with distributed teams face challenges in aggregating, indexing and cataloging their communities’ digitally-captured content into particular workflows, often in and from dangerous locations,” 
 says Natalie Cadranel, Founder and Director of OpenArchive and a fellow at the Stanford Digital Civil Society Lab.</p>
 
-<p>For Cadranel and organizations she works with such as Human Rights Watch, the success of Save will be measured in what the tool can provide to human rights defenders; the app’s inception was a direct response 
+<p>For Cadranel and organizations she works with such as <a href="https://www.hrw.org/" target="_blank">Human Rights Watch</a>, the success of Save will be measured in what the tool can provide to human rights defenders; the app’s inception was a direct response 
 to mounting efforts worldwide to suppress dissent through police crackdowns on peaceful protests, censorship by governments and social media companies, telecom service shutdowns, and other forms of retaliation.</p>
 
 <p><span class="appName">Save</span> offers several innovative features to streamline secure preservation, a combination of capabilities currently lacking among existing media-sharing apps, including:</p>
@@ -48,9 +48,9 @@ from around the world. Whether hosted on individual servers or integrated with a
 for mobile-captured media content.</p>
 
 
-<p>Unlike most of today’s major media platforms, <span class="appName">Save</span> alues human rights over corporate profits. By streamlining media workflows to facilitate rapid response and reporting, it puts power back into the hands of those on the front lines. This means that the information sent through it cannot be censored, blocked or arbitrarily deleted.</p>
+<p>Unlike most of today’s major media platforms, <span class="appName">Save</span> values human rights over corporate profits. By streamlining media workflows to facilitate rapid response and reporting, it puts power back into the hands of those on the front lines. This means that the information sent through it cannot be censored, blocked or arbitrarily deleted.</p>
 
-<p>“The <span class="appName">Save</span> app fills a long-standing need to provide secure, fully encrypted and self-hosted file transfer for our staff all over the world,” says Nicole Martin, Senior Manager of Archives and Digital Systems at Human Rights Watch. “OpenArchive carefully listened to our needs, built an intuitive app, and tailored its features to make human rights data safer, and my job a whole lot easier."</p>
+<p><blockquote>“The <span class="appName">Save</span> app fills a long-standing need to provide secure, fully encrypted and self-hosted file transfer for our staff all over the world,” says Nicole Martin, Senior Manager of Archives and Digital Systems at Human Rights Watch. “OpenArchive carefully listened to our needs, built an intuitive app, and tailored its features to make human rights data safer, and my job a whole lot easier."</blockquote></p>
 
 <p>Funded through public interest advocates, <span class="appName">Save</span> was developed with extensive  community input by a team of open source developers, human rights archivists, 
 internet ethnographers, digital security experts, technologists, journalists and international civil society members.</p>
