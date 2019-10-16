@@ -32,7 +32,7 @@ says Natalie Cadranel, Founder and Director of OpenArchive and a fellow at the S
 to mounting efforts worldwide to suppress dissent through police crackdowns on peaceful protests, censorship by governments and social media companies, telecom service shutdowns, and other forms of retaliation.</p>
 
 <p><span class="appName">Save</span> offers several innovative features to streamline secure preservation, a combination of capabilities currently lacking among existing media-sharing apps, including:</p>
-<ul>
+<p style="margin-left:10%; margin-right:10%;"><ul>
   <li><b><i>Ease of Use</i></b>: user-driven, intuitive design based on community feedback throughout the tool-building process;</li>
   <li><b><i>Source Protection</i></b>: use <a href="https://guardianproject.info/apps/orbot/" target="_blank">Orbot</a>/Tor for Android (iOS coming soon) to prevent interception and surveillance;</li>
   <li><b><i>Media Verification</i></b>: <a href="https://guardianproject.info/2017/02/24/combating-fake-news-with-a-smartphone-proof-mode/" target="_blank">Proofmode</a> for Android (iOS coming soon) adds sensor data to corroborate the metadata captured with the media</li>
@@ -41,7 +41,7 @@ to mounting efforts worldwide to suppress dissent through police crackdowns on p
   <li><b><i>Media Flagging</i></b>: flag media as “significant” so reviewers are prepared for what they will see or as a way to "favorite" media</li>
    <li><b><i>Batch Editing</i></b>: update the metadata/flags of multiple media files at once</li>
     <li><b><i>Importing from Other Apps</i></b>: share media from other apps on your phone, such as audio/notes/pdfs</li>
-</ul>
+</ul></p>
   
 <p>While those using <span class="appName">Save</span> can store their mobile media at the Internet Archive, they can also integrate the app into their existing server-side preservation architecture. This provides security-minded individuals and teams with a revolutionary “off the shelf” front-end solution for ethically collecting and curating their media 
 from around the world. Whether hosted on individual servers or integrated with an organization’s existing technical infrastructure, <span class="appName">Save</span> is engineered to create robust redundancy 
