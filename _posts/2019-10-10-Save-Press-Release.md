@@ -50,8 +50,7 @@ for mobile-captured media content.</p>
 
 <p>Unlike most of today’s major media platforms, <span class="appName">Save</span> values human rights over corporate profits. By streamlining media workflows to facilitate rapid response and reporting, it puts power back into the hands of those on the front lines. This means that the information sent through it cannot be censored, blocked or arbitrarily deleted.</p>
 
-<p>For Nicole Martin, Senior Manager of Archives and Digital Systems at Human Rights Watch:</p>
-<p><blockquote>“The <span class="appName">Save</span> app fills a long-standing need to provide secure, fully encrypted and self-hosted file transfer for our staff all over the world. OpenArchive carefully listened to our needs, built an intuitive app, and tailored its features to make human rights data safer, and my job a whole lot easier."</blockquote>
+<p>For Nicole Martin, Senior Manager of Archives and Digital Systems at Human Rights Watch: “The <span class="appName">Save</span> app fills a long-standing need to provide secure, fully encrypted and self-hosted file transfer for our staff all over the world," says Nicole Martin, Senior Manager of Archives and Digital Systems at <a href="https://www.hrw.org/" target="_blank">Human Rights Watch</a>. "OpenArchive carefully listened to our needs, built an intuitive app, and tailored its features to make human rights data safer, and my job a whole lot easier."</p>
 </p>
 
 <p>Funded through public interest advocates, <span class="appName">Save</span> was developed with extensive  community input by a team of open source developers, human rights archivists, 
