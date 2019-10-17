@@ -28,8 +28,7 @@ witnesses capturing media on mobile phones play a key role in exposing injustice
 <p>“Organizations with distributed teams face challenges in aggregating, indexing and cataloging their communities’ digitally-captured content into particular workflows, often in and from dangerous locations,” 
 says Natalie Cadranel, Founder and Director of OpenArchive and a fellow at the Stanford Digital Civil Society Lab.</p>
 
-<p>For Cadranel and organizations she works with such as <a href="https://www.hrw.org/" target="_blank">Human Rights Watch</a>, the success of Save will be measured in what the tool can provide to human rights defenders; the app’s inception was a direct response 
-to mounting efforts worldwide to suppress dissent through police crackdowns on peaceful protests, censorship by governments and social media companies, telecom service shutdowns, and other forms of retaliation.</p>
+<p>For Cadranel and organizations she works with such as <a href="https://www.hrw.org/" target="_blank">Human Rights Watch</a>,  <span class="appName">Save's</span> success will be measured in what the tool can provide to human rights defenders; the app’s inception was a direct response to mounting efforts worldwide to suppress dissent through police crackdowns on peaceful protests, censorship by governments and social media companies, telecom service shutdowns, and other forms of retaliation.</p>
 
 <p><span class="appName">Save</span> offers several innovative features to streamline secure preservation, a combination of capabilities currently lacking among existing media-sharing apps, including:</p>
 <p><ul><div class="feature">
