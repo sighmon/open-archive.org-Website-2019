@@ -6,7 +6,7 @@ image: /images/save-logo.png
 permalink: /Save-Launch/
 ---
 
-<p>October 2019, FOR IMMEDIATE RELEASE</p>
+<p>October, 2019 -- FOR IMMEDIATE RELEASE</p>
 
 <img class="postInlineImage" src="/images/save-logo.png"/>
 
