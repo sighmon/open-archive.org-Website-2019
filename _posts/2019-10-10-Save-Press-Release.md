@@ -34,22 +34,22 @@ says Natalie Cadranel, Founder and Director of OpenArchive and a fellow at the S
 <p><ul><div class="feature">
   <li><b><i>Ease of Use</i></b>: user-driven, intuitive design based on community feedback throughout the tool-building process;</li>
   <li><b><i>Source Protection</i></b>: TLS and <a href="https://guardianproject.info/apps/orbot/" target="_blank">Orbot</a>/Tor for Android (iOS coming soon) prevent interception and surveillance;</li>
-  <li><b><i>Media Verification</i></b>: <a href="https://guardianproject.info/2017/02/24/combating-fake-news-with-a-smartphone-proof-mode/" target="_blank">Proofmode</a> for Android (iOS coming soon) adds sensor data to corroborate the metadata captured with the media</li>
-  <li><b><i>Simplified Media Workflows</i></b>: seamlessly organize media from many phones on your server into organized folders
+  <li><b><i>Media Verification</i></b>: automatic hashing and <a href="https://guardianproject.info/2017/02/24/combating-fake-news-with-a-smartphone-proof-mode/" target="_blank">Proofmode</a> for Android (iOS coming soon) adds sensor data to corroborate the metadata captured with the media;</li>
+  <li><b><i>Simplified Media Workflows</i></b>: seamlessly organize media from many phones on your server into organized folders;
 </li>
-  <li><b><i>Media Flagging</i></b>: flag media as “significant” so reviewers are prepared for what they will see or as a way to "favorite" media</li>
-   <li><b><i>Batch Editing</i></b>: update the metadata/flags of multiple media files at once</li>
+  <li><b><i>Media Flagging</i></b>: flag media as “significant” so reviewers are prepared for what they will see or as a way to "favorite" media;</li>
+   <li><b><i>Batch Editing</i></b>: update the metadata/flags of multiple media files at once;</li>
     <li><b><i>Importing from Other Apps</i></b>: share media from other apps on your phone, such as audio/notes/pdfs</li>
   </div></ul></p>
   
-<p>While those using <span class="appName">Save</span> can store their mobile media at the Internet Archive, they can also integrate the app into their existing server-side preservation architecture. This provides security-minded individuals and teams with a revolutionary “off the shelf” front-end solution for ethically collecting and curating their media 
-from around the world. Whether hosted on individual servers or integrated with an organization’s existing technical infrastructure, <span class="appName">Save</span> is engineered to create robust redundancy 
+<p>While those using <span class="appName">Save</span> can store their mobile media at the Internet Archive, they can also integrate the app into their existing server-side preservation architecture. This provides security-minded individuals and teams with an innovative “off the shelf” front-end solution for ethically collecting and curating their media 
+from around the world. Whether hosted on individual servers or integrated with an organization’s existing technical infrastructure, <span class="appName">Save</span> is engineered to create robust protection of and redundancy 
 for mobile-captured media content.</p>
 
 
-<p>Unlike most of today’s major media platforms, <span class="appName">Save</span> values human rights over corporate profits. By streamlining media workflows to facilitate rapid response and reporting, it puts power back into the hands of those on the front lines. This means that the information sent through it cannot be censored, blocked or arbitrarily deleted.</p>
+<p>Unlike most of today’s major media platforms, <span class="appName">Save</span> values human rights over corporate profits. By streamlining media workflows to facilitate rapid response and reporting, it shifts power into the hands of those on the front lines. This means that the information sent through it cannot be censored, blocked or arbitrarily deleted.</p>
 
-<p>For Nicole Martin, Senior Manager of Archives and Digital Systems at Human Rights Watch: “The <span class="appName">Save</span> app fills a long-standing need to provide secure, fully encrypted and self-hosted file transfer for our staff all over the world," says Nicole Martin, Senior Manager of Archives and Digital Systems at <a href="https://www.hrw.org/" target="_blank">Human Rights Watch</a>. "OpenArchive carefully listened to our needs, built an intuitive app, and tailored its features to make human rights data safer, and my job a whole lot easier."</p>
+<p>“The <span class="appName">Save</span> app fills a long-standing need to provide secure, fully encrypted and self-hosted file transfer for our staff all over the world," says Nicole Martin, Senior Manager of Archives and Digital Systems at <a href="https://www.hrw.org/" target="_blank">Human Rights Watch</a>. "OpenArchive carefully listened to our needs, built an intuitive app, and tailored its features to make human rights data safer, and my job a whole lot easier."</p>
 
 
 <p>With support from public interest advocates, a team of open source developers, human rights archivists and ethnographers, digital security experts, journalists, and international civil society members incorporated extensive community input while creating <span class="appName">Save</span>.</p>
