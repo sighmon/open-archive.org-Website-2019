@@ -33,7 +33,7 @@ says Natalie Cadranel, Founder and Director of OpenArchive and a fellow at the S
 <p><span class="appName">Save</span> offers several innovative features to streamline secure preservation, a combination of capabilities currently lacking among existing media-sharing apps, including:</p>
 <p><ul><div class="feature">
   <li><b><i>Ease of Use</i></b>: user-driven, intuitive design based on community feedback throughout the tool-building process;</li>
-  <li><b><i>Source Protection</i></b>: use <a href="https://guardianproject.info/apps/orbot/" target="_blank">Orbot</a>/Tor for Android (iOS coming soon) to prevent interception and surveillance;</li>
+  <li><b><i>Source Protection</i></b>: TLS and <a href="https://guardianproject.info/apps/orbot/" target="_blank">Orbot</a>/Tor for Android (iOS coming soon) prevent interception and surveillance;</li>
   <li><b><i>Media Verification</i></b>: <a href="https://guardianproject.info/2017/02/24/combating-fake-news-with-a-smartphone-proof-mode/" target="_blank">Proofmode</a> for Android (iOS coming soon) adds sensor data to corroborate the metadata captured with the media</li>
   <li><b><i>Simplified Media Workflows</i></b>: seamlessly organize media from many phones on your server into organized folders
 </li>
