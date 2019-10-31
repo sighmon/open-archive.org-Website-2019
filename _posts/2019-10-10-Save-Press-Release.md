@@ -42,7 +42,7 @@ says Natalie Cadranel, Founder and Director of OpenArchive and a fellow at the S
     <li><b><i>Importing from Other Apps</i></b>: share media from other apps on your phone, such as audio/notes/pdfs</li>
   </div></ul></p>
   
-<p>While those using <span class="appName">Save</span> can store their mobile media at the Internet Archive, they can also integrate the app into their existing server-side preservation architecture. This provides security-minded individuals and teams with an innovative “off the shelf” front-end solution for ethically collecting and curating their media 
+<p>While those using <span class="appName">Save</span> can store their mobile media at the Internet Archive, they can also integrate the app into their existing server-side preservation architecture. This provides security-minded individuals and teams with responsible, innovative “off the shelf” front-end solution for ethically collecting and curating their media 
 from around the world. Whether hosted on individual servers or integrated with an organization’s existing technical infrastructure, <span class="appName">Save</span> is engineered to create robust protection of and redundancy 
 for mobile-captured media content.</p>
 
