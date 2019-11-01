@@ -30,7 +30,9 @@ says Natalie Cadranel, Founder and Director of OpenArchive and a fellow at the S
 
 <p>For Cadranel and organizations she works with such as <a href="https://www.hrw.org/" target="_blank">Human Rights Watch</a>,  <span class="appName">Save's</span> success will be measured in what the tool can provide to human rights defenders; the app’s inception was a direct response to mounting efforts worldwide to suppress dissent through police crackdowns on peaceful protests, censorship by governments and social media companies, telecom service shutdowns, and other forms of retaliation.</p>
 
-<p>Unlike existing media-sharing tools, <span class="appName">Save</span> offers a suite of responsive features that streamline secure preservation based on community input, our commitment to digital inclusion, and iterative design. Key features include:</p>
+<p>Unlike existing media-sharing tools, <span class="appName">Save</span> offers a suite of responsive features that streamline secure preservation based on community input, our commitment to digital inclusion, and iterative design.</p>
+
+<p>Key features include:</p>
 <p><ul><div class="feature">
   <li><b><i>Ease of Use</i></b>: user-driven, intuitive design based on community feedback throughout the tool-building process;</li>
   <li><b><i>Source Protection</i></b>: TLS and <a href="https://guardianproject.info/apps/orbot/" target="_blank">Orbot</a>/Tor for Android (iOS coming soon) prevent interception and surveillance;</li>
