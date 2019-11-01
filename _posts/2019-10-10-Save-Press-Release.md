@@ -41,7 +41,7 @@ says Natalie Cadranel, Founder and Director of OpenArchive and a fellow at the S
 </li>
   <li><b><i>Media Flagging</i></b>: flag media as “significant” so reviewers are prepared for what they will see or as a way to "favorite" media;</li>
    <li><b><i>Batch Editing</i></b>: update the metadata/flags of multiple media files at once;</li>
-    <li><b><i>Importing from Other Apps</i></b>: share media from other apps on your phone, such as audio/notes/pdfs</li>
+    <li><b><i>Importing from Other Apps</i></b>: share media from other apps on your phone, such as audio/notes/pdfs.</li>
   </div></ul></p>
   
 <p>While those using <span class="appName">Save</span> can store their mobile media at the Internet Archive, they can also integrate the app into their existing server-side preservation architecture. This provides security-minded individuals and teams with responsible, innovative “off the shelf” front-end solution for ethically collecting and curating their media 
