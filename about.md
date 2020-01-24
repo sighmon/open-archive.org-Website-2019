@@ -47,12 +47,6 @@ permalink: /about/
   <br>
 <p>Mathana is a Berlin-based tech ethicist, rights advocate and storyteller who investigates the impact of emerging technologies on individuals, communities and culture. Mathana is a member of IEEE working groups that create technical standards and best practises around algorithmic bias and virtual reality, and contributes technical expertise to international disarmament initiatives. They are a Fellow at the Centre for Internet and Human Rights (attached to the European University Viadrina), and hold degrees from the University of Texas at Dallas and the Chinese University of Hong Kong.</p>
 <br>
-<p><b>Collin Sullivan</b>
-  <br>
-   <i>Digital Security Trainer and Partnerships Manager</i>
-<br>
-  <p>Collin works to support human rights defenders through digital security and documentation capacity building, including in-person training and remote support. For the last 7 years, he was a Human Rights Program Associate with Benetech on the Martus project and holds a BA and MA in Political Science.</p>
-  <br>
   <p><b>Benjamin Erhart</b>
   <br>
    <i>Programmer</i>
