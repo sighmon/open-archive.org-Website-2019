@@ -33,6 +33,8 @@ h2 {font-size: 1.5em !important;}
 #menu .subMenuItem { display: block !important; }
 #search { position: absolute; top: 0; right: 135px !important; width: 175px; }
 .is-mobile #search { position: absolute; top: 0; right: 55px !important; width: 125px; }
+.youtube-wrapper { position: relative; overflow: hidden; padding-top: 56.25%; }
+.youtube-embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; }
 .is-mobile .menuToggle span { display: none !important; }
 .search-box { border: 1px solid white !important; font-size: 0.8em !important; height: 2em !important; display: inline-block !important; }
 #search-results { list-style: none !important; }
