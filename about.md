@@ -23,3 +23,13 @@ permalink: /about/
 <h4 class="textTeal">Application</h4>
 <p><a target="_blank" href="https://open-archive.org/save/"> <span class="appName">Save</span></a> by OpenArchive is a free, open source mobile archiving application for documentarians and human rights defenders that securely sends mobile media to the <a href="https://archive.org/">Internet Archive</a>, other online destinations using Orbot/Tor. By uniting the work of the <a href="http://guardianproject.info/">Guardian Project</a>, <a href="https://creativecommons.org/">Creative Commons</a>, and distributed, secure servers, it offers at-risk groups more agency over their historical record by affording them secure transit, media authentication, pseudonymity, licensing controls, and the ability to choose where and how the media will be stored for long-term access and reuse. In addition to this, those with limited internet access, can share media between devices with our “nearby” feature via bluetooth, so there can be multiple copies of the media across devices.</p>
 <p>It is currently available for iOS on <a href="https://apps.apple.com/us/app/save-by-openarchive/id1462212414">iTunes</a>, android on <a href="http://bit.ly/29ewnaD">Google Play</a>, and at <a href="http://bit.ly/29jDPDo">GitHub</a>. Our lightweight mobile app. addresses the gaps in the current online ecosystem existing around the a) ethical short-term collection and b) long term preservation of sensitive mobile media. We provide mobile-centered, scalable, industry-standard, ethical, intuitive, easy to use tools for at-risk communities to pseudonymously preserve and authenticate their media so that it will be accessible and maintain its provenance in the future.</p>
+
+<a id="our-support"></a>
+<h2 style="text-align: center;">Support</h2>
+<p><img src="{{ '/images/otrlogo300.png' | prepend: site.baseurl }}" alt="OTF" />
+ <br>
+
+<br>Our work is made possible by <a href="https://www.opentech.fund/" target="_blank">The Open Technology Fund</a>, who are currently supporting the expansion, infrastructure, and decentralization of OpenArchive.</p>
+<p><img src="{{ '/images/knight-logo-300USE.jpeg' | prepend: site.baseurl }}" alt="Knight Foundation" />
+<br>In 2014, OpenArchive received support from the <a href="https://knightfoundation.org/prototype/" target="_blank">Knight Prototype Fund</a>.</p>
+<p class="textTeal"><i>We are currently seeking funding to help us improve OpenArchive, develop new and refine curent features, and to sustain our grassroots research efforts. If you would like to support us, <a href="/contact">we'd love to hear from you.</a></i></p>
