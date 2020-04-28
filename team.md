@@ -5,6 +5,7 @@ description:
 permalink: /team/
 ---
 
+<h2 style="text-align: center;">Staff</h2>
 <p><b>Natalie Cadranel</b>
 <br>
   <i>Founder and Director</i>
@@ -39,7 +40,7 @@ He is self-employed and works out of his office in Salzburg, Austria. Find him <
   <br>
 
 <a id="our-advisors"></a>
-<h2 style="text-align: center;">Our Advisors</h2>
+<h2 style="text-align: center;">Advisors</h2>
   <p><b>Harlo Holmes</b>
 <br>
 <p>Harlo is the Director of Newsroom Digital Security at <a href="https://freedom.press/" target="_blank">Freedom of the Press Foundation</a>. She strives to help individual journalists in various media organizations become confident and effective in securing their communications within their newsrooms, with their sources, and with the public at large. She is a media scholar, software programmer, and activist; and contributes regularly to the open source mobile security collective The Guardian Project.</p>
