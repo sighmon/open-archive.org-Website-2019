@@ -27,6 +27,7 @@ h2 {font-size: 1.5em !important;}
 .textPurple {color: #3e3b8f !important;}
 .textBurgundy {color: #4d0026 !important;}
 .textWhite {color: #ffffff !important;}
+.textGray {color: #737373 !important;}
 
 .appName {font-weight: bold; font-style: italic; color: #00B4A6 !important; }
 .subMenuItem { padding-left: 1em !important; display: none !important; }
@@ -121,7 +122,9 @@ section, nav {opacity: 0.9 !important;}
 #contact-links {list-style: none; margin: 0 auto; text-align: center;}
 #contact-links li {display: inline; margin-right: 1em;}
 
-#one h2, #one p { color: white !important;}
+#one h2, #one p { color: #737373; }
+
+#two h2, #two p { color: white !important;}
 
 footer ul {list-style: none;}
 
@@ -623,11 +626,11 @@ body.is-mobile {
 		}
 
 		&.style1 {
-			color: _palette(accent2, bg);
+      color: #737373;
 		}
 
 		&.style2 {
-			color: _palette(accent3, bg);
+      color: _palette(accent2, bg);
 		}
 
 		&.style3 {
@@ -1372,11 +1375,11 @@ body.is-mobile {
 		}
 
 		&.style1 {
-			@include wrapper(accent1);
+      background-color: #ffffff;
 		}
 
 		&.style2 {
-			background-color: _palette(bg);
+      @include wrapper(accent1);
 		}
 
 		&.style3 {
