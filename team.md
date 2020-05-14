@@ -10,7 +10,7 @@ permalink: /team/
 <br>
   <i>Founder and Director</i>
  <br>
-<p>Natalie is an archivist and ethnographer working at the nexus of human rights, design, and technology. She aims to protect and amplify community media by helping organizations better manage, protect, and preserve documentation they create and receive. She is currently a fellow at Stanford's Digital Civil Society Lab and consults with various human rights-focused organizations worldwide. For the last decade, she shaped initiatives dedicated to improving access to information for social and environmental justice organizations. She holds a Masters from the UC Berkeley School of Information and a Bachelors in International Relations from UC Davis.</p>
+<p>Natalie is an archivist and ethnographer working at the nexus of human rights, design, and technology. She aims to protect and amplify community media by helping organizations better manage, protect, and preserve documentation they create and receive. She consults with human rights-focused organizations worldwide and was a 2019 fellow at Stanford's Digital Civil Society Lab. For the last decade, she shaped initiatives dedicated to improving access to information for social and environmental justice organizations. She holds a Masters from the UC Berkeley School of Information and a Bachelors in International Relations from UC Davis.</p>
 <br>
   <p>
     <b>Nathan Freitas</b>
