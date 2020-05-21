@@ -16,7 +16,7 @@ permalink: /team/
     <b>Nathan Freitas</b>
   <br>
   <i>Lead Developer</i>
-  <p>Nathan is the Executive Director of <a href="https://guardianproject.info/target="_blank">Guardian Project</a> and a Research Fellow at the Berkman Klein Center.</p>
+  <p>Nathan is the Executive Director of <a href="https://guardianproject.info/ target="_blank">Guardian Project</a> and a Research Fellow at the Berkman Klein Center.</p>
   </p>
   <br>
 <p><b>Mathana Stender</b>
