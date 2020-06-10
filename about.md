@@ -36,3 +36,5 @@ permalink: /about/
 <p class="textTeal"><i>We are currently seeking funding to help us improve OpenArchive, develop new and refine curent features, and to sustain our grassroots research efforts.
   <br>
   <br>If you would like to support us, you can make a <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MA7ZZG3DJL97E&source=url">tax-deductible donation</a> or contact us directly <a href="/contact">here</a>, we'd love to hear from you.</i></p>
+   <br>
+   <p>Homepage photo credit: Mathana Stender</p>
