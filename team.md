@@ -68,6 +68,13 @@ Before joining The Intercept, he worked as a staff technologist at the Electroni
 <p>Cooper is a security researcher and Senior Staff Technologist at the <a href="https://www.eff.org" target="_blank">Electronic Frontier Foundation</a>. He has worked on projects such as Privacy Badger, Canary Watch, and analysis of state sponsored malware. He has also performed security trainings for activists, non profit workers and ordinary folks around the world. He previously worked building websites for non-profits, such as Greenpeace, Adbusters, and the Chelsea Manning Support Network. He also was a co-founder of the Hackbloc hacktivist collective. In his spare time he enjoys playing music and participating in street protests.
 </p>
 <br>
+<p><b>Teague Schneiter</b>
+  <br>
+  
+ `<p> Teague serves as the Sr. Manager of the Academy of Motion Picture Arts and Sciences’ Oral History Projects department, where she is responsible for new video productions and the acquisition of a collection of over 2,000 legacy interviews with filmmakers (1948-present). As the initiative’s founder, she has been responsible for strategic planning; developing born digital video production, research, description, metadata and access practices specific to oral history; collection development; digital preservation planning; curatorial projects; cross-institutional initiatives; and outreach. She has been involved in multiple grants projects, including co-developing an oral history project dedicated to documenting the stories of Latina/o/x and Latin American filmmakers which resulted in a richly searchable multilingual website using OHMS for the Getty’s 2017 PST:LA/LA cultural festival.
+<br>
+<p>Teague is a graduate of the University of Amsterdam’s moving image preservation program, and worked in the early part of her career with oral history, human rights and other cultural heritage materials in Australia, the Netherlands, Canada, and the United States with organizations such as WITNESS and IsumaTV. Since November 2016, Teague has served on the Board of AMIA, served as Vice President, and co-founded: AMIA’s CEA Task Force, ADIFP Fellowship Task Force, Advocacy Committee of the Board, and Oral History Committee. She is an active member of the Oral History Association’s Archives Interest Group and founder of a best practices collective with the craft guilds called the MICD Alliance. She proudly serves on the board of OpenArchive. 
+  </p>
  <p><b>Tara Vassefi</b>
 <br>
 
