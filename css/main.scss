@@ -58,6 +58,10 @@ a.download-button {
 
   li {
     padding: 1em !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+
 
     img {
       width: 100% !important;
@@ -68,6 +72,7 @@ a.download-button {
       margin-top: 16px !important;
       margin-left: 16px !important;
       margin-bottom: 0px !important;
+      font-size: 1.7em !important;
     }
 
     ul {
@@ -78,10 +83,11 @@ a.download-button {
         padding: 0 !important;
         padding-right: 1em !important;
         margin: 1em !important;
-        display: list-item;
+        display: list-item !important;
         background-color: transparent !important;
         width: 100% !important;
       }
+
     }
   }
 }
