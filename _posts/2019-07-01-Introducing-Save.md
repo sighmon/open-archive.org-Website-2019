@@ -8,7 +8,7 @@ permalink: /introducing-save/
 
 <p>The OpenArchive team is proud to announce the launch of <span class="appName">Save</span>, our new mobile application that integrates privacy-enhancing technologies with digital media preservation to make media findable, verifiable, and archived for long-term access.</p>
 
-<img class="postInlineImage" src="/images/save-logo.png"/>
+<img class="postInlineImage" src="/images/SAVE_phoneOnboarding.png"/>
 
 <p><span class="appName">Save</span> enables individuals and organizations to streamline their management process for managing mobile media documentation, enhance their digital content collaboration, and make it easier to securely archive community and sensitive media. From social networks to video hosting platforms, many of the go-to media hosting platforms are monetized by invasive adtech, driven by surveillance features, and subjected to arbitrary content takedowns. We created <span class="appName">Save</span> to authenticate and safeguard media for long-term preservation and protect the identity of those sharing their documentation. While researching and creating the tool with the communities it serves, we paid special attention to threats that we increasingly encounter when posting citizen journalism online, such as internet shutdowns, targeting journalists online, device confiscations, censorship, limited bandwidth, and data loss.</p>
 
