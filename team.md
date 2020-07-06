@@ -32,11 +32,11 @@ permalink: /team/
   <p>Benjamin fell in love with computers when he was a teenager and still is today after over 20 years. His passion is to create tangible software for end users, breathing life into designer's visions. He’s happiest when some healthy technical challenges and a higher purpose are stirred into the mix. Currently, he feels most at home developing mobile platforms, but has a long history in web tech, and a knack for security-related topics, which makes him well-suited for this era.
 He is self-employed and works out of his office in Salzburg, Austria. Find him <a href="https://die.netzarchitekten.com/" target="_blank">here</a>.</p>
   <br>
-  <p><b>OKThanks</b>
+  <p><b>OKthanks</b>
   <br>
    <i>User Experience Design</i>
 <br>
-  <p>Okthanks works closely with communities and developers to bring privacy-enhancing technologies to everyday people. A user experience design team, they are passionate about making things simple to use and understand. Carrie Winfrey, Tiffany Robertson and Kaci Bartlett work from their cozy office in Lubbock, Texas. Learn more at <a href="https://okthanks.com" target="_blank">OkThanks</a>.</p>
+  <p>Okthanks works closely with communities and developers to bring privacy-enhancing technologies to everyday people. A user experience design team, they are passionate about making things simple to use and understand. Carrie Winfrey, Tiffany Robertson and Kaci Bartlett work from their cozy office in Lubbock, Texas. Learn more at <a href="https://okthanks.com" target="_blank">Okthanks</a>.</p>
   <br>
 
 <a id="our-advisors"></a>
