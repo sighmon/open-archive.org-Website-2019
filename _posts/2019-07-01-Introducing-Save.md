@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introducing Save
-description:
+description: The OpenArchive team is proud to announce the launch of <i>Save</i>, our new mobile application that integrates privacy-enhancing technologies with digital media preservation to make media findable, verifiable, and archived for long-term access.
 image: /images/save-logo.png
 permalink: /introducing-save/
 ---

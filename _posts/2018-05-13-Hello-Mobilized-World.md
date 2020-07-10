@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Why OpenArchive?
-description: 
+description: Social media and other user-generated content platforms - sometimes referred to as “web 2.0” - promised to empower individuals from around the world by providing new communication channels to bypass traditional media gatekeepers. Despite the egalitarian accolades heaped upon early content platforms startups, access to this new world of media has become unbalanced and asymmetrical.
 ---
 
 <b>Contra Media Ecosystems of Control</b><br>
@@ -19,6 +19,3 @@ description:
 <ul>
   <li><i>In order to make the strongest product for our users, we want to hear from you. If you have recommendations on how we can improve the OpenArchive experience, take a moment to email us at: info[at]open-archive.org</i></li>
   <li><i>If you would like to become involved with technical testing, let us know.</i></li>
-
-
-
