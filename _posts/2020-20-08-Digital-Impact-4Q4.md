@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Digital Impact Interviews Natalie Cadranel, OpenArchive Founder and Director
+title: Digital Impact Interview with Natalie 
 description: Hear Natalie Cadranel, Founder and Director of OpenArchive, in conversation with Chris Delatorre from Stanford's Digital Impact Hub about how "Save" protects citizen eye-witnesses from online threats.
 
 image: /images/save-logo.png
