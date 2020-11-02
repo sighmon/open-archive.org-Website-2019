@@ -13,17 +13,18 @@ permalink: /PTTPZine
 The guide highlights potential risks they can face such as harassment, police surveillance, doxxing and media manipulation and outlines our constitutional rights you can use to stay safe in case of abuse or arrest.
 It also lists tools activists can use to protect themselves, circumvent censorship, prevent data loss, and secure safe communication.<p>
 
-<img style="width: 450px; display: block; float: left; margin: 10px;" src="/images/1PTTPZine.png"/>
+<img style="width: 300px; display: block; float: left; margin: 10px;" src="/images/1PTTPZine.png"/>
 <p>DOWNLOAD THE <a href="https://drive.google.com/file/d/1fJL70G2W2bHHrgU8cczCsD47AxvVKOVP/view?usp=sharing">PDF</a> / <a href="https://drive.google.com/file/d/1i-qar2-S_3S8ahFwfEwluqOCDKKC6ZqK/view?usp=sharing">PNG</a> / <a href="https://drive.google.com/drive/folders/1CC0XEyVLK6itSxZJ62chaanPsLAEil2R?usp=sharing">INSTA</a></p>
+<br>
 <p>Print it. Fold it. Share it.</p>
 <p>Know Your Rights
 <p>Check Your Risks
 <p>Press Record! 📸
 </p>
 
-<div style="text-align: center; display: block; width: 100%;">
-<img style="width: 300px; display: block; float: left; margin: 10px;" src="/images/PTTPZineFNL.jpg"/>
-<img style="width: 300px; display: block; float: left; margin: 10px;" src="/images/PTTPZine2FNL.jpg"/>
+<div style="display: flex; justify-content: space-around; width: 100%;">
+<img style="width: 300px; margin: 10px;" src="/images/PTTPZineFNL.jpg"/>
+<img style="width: 300px; margin: 10px;" src="/images/PTTPZine2FNL.jpg"/>
 </div>
 
 <br>
