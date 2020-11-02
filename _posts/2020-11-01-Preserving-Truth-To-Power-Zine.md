@@ -3,14 +3,15 @@ layout: page
 title: Preserving Truth to Power: A Guide to Ethically Documenting + Archiving Protests in the US 
 description: Know Your Rights, Check Your Risks, Press Record!
 
-image: /images/PTTPZineFNL.jpg 
+image: /images/1_PTTP_Zine.png 
 permalink: /PTTPZine
 ---
 
 
 <p><b>Preserving Truth to Power: A Guide to Ethically Documenting + Archiving Protests in the US</b></p>
 
-<img class="postInlineImage" src="/images/PTTPZineFNL.jpg"/>
+1_PTTP_Zine.png
+<img class="postInlineImage" src="/images/1_PTTP_Zine.png"/>
 <p>DOWNLOAD THE <a href="https://drive.google.com/file/d/1fJL70G2W2bHHrgU8cczCsD47AxvVKOVP/view?usp=sharing">PDF</a> / <a href="https://drive.google.com/file/d/1i-qar2-S_3S8ahFwfEwluqOCDKKC6ZqK/view?usp=sharing">PNG</a> / <a href="https://drive.google.com/drive/folders/1CC0XEyVLK6itSxZJ62chaanPsLAEil2R?usp=sharing">INSTA</a></p>
 
 
@@ -24,6 +25,11 @@ It also lists tools activists can use to protect themselves, circumvent censorsh
 <p>Check Your Risks
 <p>Press Record! 📸
 </p>
+
+<img class="postInlineImage" src="/images/PTTPZineFNL.jpg"/>
+<p>DOWNLOAD THE <a href="https://drive.google.com/file/d/1fJL70G2W2bHHrgU8cczCsD47AxvVKOVP/view?usp=sharing">PDF</a> / <a href="https://drive.google.com/file/d/1i-qar2-S_3S8ahFwfEwluqOCDKKC6ZqK/view?usp=sharing">PNG</a> / <a href="https://drive.google.com/drive/folders/1CC0XEyVLK6itSxZJ62chaanPsLAEil2R?usp=sharing">INSTA</a></p>
+<img class="postInlineImage" src="/images/PTTPZine2FNL.jpg"/>
+<p>DOWNLOAD THE <a href="https://drive.google.com/file/d/1fJL70G2W2bHHrgU8cczCsD47AxvVKOVP/view?usp=sharing">PDF</a> / <a href="https://drive.google.com/file/d/1i-qar2-S_3S8ahFwfEwluqOCDKKC6ZqK/view?usp=sharing">PNG</a> / <a href="https://drive.google.com/drive/folders/1CC0XEyVLK6itSxZJ62chaanPsLAEil2R?usp=sharing">INSTA</a></p>
 <p>Print it. Fold it. Share it.</p>
 <br>
 <p>An OpenArchive & <a href="https://www.osroc.org/" target="_blank">Open Source Researchers of Color</a> collaboration</p>
