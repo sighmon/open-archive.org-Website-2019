@@ -27,6 +27,7 @@ It also lists tools activists can use to protect themselves, circumvent censorsh
 </p>
 
 <img class="postInlineImage" src="/images/PTTPZineFNL.jpg"/>
+<img class="postInlineImage" src="/images/PTTPZine2FNL.jpg"/>
 
 <br>
 <p>An OpenArchive & <a href="https://www.osroc.org/" target="_blank">Open Source Researchers of Color</a> collaboration</p>
