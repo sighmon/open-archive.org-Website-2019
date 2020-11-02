@@ -18,8 +18,8 @@ permalink: /PTTPZine
 <br>Press Record! 📸</p>
 
 <div style="display: flex; flex-direction: column; align-content: center; justify-content: center; text-align: center; width: 100%; margin: 20px;">
-<img style="width: 500px; height: 314px; margin: 20px;" src="/images/PTTPZineFNL.jpg"/>
-<img style="width: 500px; height: 314px;  margin: 20px;" src="/images/PTTPZine2FNL.jpg"/>
+<img style="width: 500px; height: 314px; margin: 20px;" src="/images/
+PTTPZine(1).png"/>
 </div>
 
   <p>We are witnessing and documenting more human rights abuses in the US than ever before. We created this guide to help you make it count!
