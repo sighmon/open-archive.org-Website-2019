@@ -26,7 +26,6 @@ PTTPZine(1).png">
  <p>Our printable zine contains resources and advice on how to keep you and your media safe during protests. Equip yourself with the tools and information *before* attending demonstrations so you will be prepared. The guide highlights potential risks you can face such as harassment, police surveillance, doxxing and media manipulation and outlines our constitutional rights you can use to stay safe in case of abuse or arrest. It also lists tools activists can use to protect themselves, circumvent censorship, prevent data loss, and secure safe communication.
 </p>
 </div>
-<p>
  <br>Know Your Rights
 <br>Check Your Risks
 <br>Press Record! 📸</p>
