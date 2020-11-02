@@ -22,12 +22,11 @@ permalink: /PTTPZine
 <img style="width: 500px; height: 314px;  margin: 20px;" src="/images/PTTPZine2FNL.jpg"/>
 </div>
 
-<div style="width: 100%; text-align: center;">
   <p>We are witnessing and documenting more human rights abuses in the US than ever before. We created this guide to help you make it count!
 <br>Our printable zine contains resources and advice on how to keep you and your media safe during protests. Equip yourself with the tools and information *before* attending demonstrations so you will be prepared.
 <br>The guide highlights potential risks you can face such as harassment, police surveillance, doxxing and media manipulation and outlines our constitutional rights you can use to stay safe in case of abuse or arrest.
 <br>It also lists tools activists can use to protect themselves, circumvent censorship, prevent data loss, and secure safe communication.
-</div>
+
 <br>
 <p>An OpenArchive & <a href="https://www.osroc.org/" target="_blank">Open Source Researchers of Color</a> collaboration</p>
 <p>This work would not be possible without the Black folks leading this revolution + orgs like the <a href="https://www.eff.org/" target="_blank">EFF</a>, <a href="https://www.aclu.org/" target="_blank">ACLU</a>, <a href="https://www.witness.org/" target="_blank">WITNESS</a>, the <a href="https://www.theblackivists.com/" target="_blank">Blackivists</a>, <a href="https://www.berkeleycopwatch.org/" target="_blank">Berkeley CopWatch</a>, <a href="https://www.accessnow.org/" target="_blank">Access Now</a>, <a href="https://www.torproject.org/" target="_blank">the Tor Project</a> + countless others.
