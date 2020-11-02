@@ -16,14 +16,16 @@ Print it. Fold it. Share it.
 
 
 <div style="display: flex; flex-direction: column; align-content: center; justify-content: center; text-align: center; width: 100%; margin: 20px;">
+ <div style="width: 100%; text-align: center;">
 <img style="width: 1024px; height: 1168px; margin: 20px;" src="/images/
 PTTPZine(1).png"/>
 </div>
-
+</div>
 <p>We are witnessing and documenting more human rights abuses in the US than ever before. 
  <br>We created this guide to help you make it count!
 <br>Our printable zine contains resources and advice on how to keep you and your media safe during protests. Equip yourself with the tools and information *before* attending demonstrations so you will be prepared. The guide highlights potential risks you can face such as harassment, police surveillance, doxxing and media manipulation and outlines our constitutional rights you can use to stay safe in case of abuse or arrest. It also lists tools activists can use to protect themselves, circumvent censorship, prevent data loss, and secure safe communication.
-<br>Know Your Rights
+<br>
+ <br>Know Your Rights
 <br>Check Your Risks
 <br>Press Record! 📸</p>
 <br>
