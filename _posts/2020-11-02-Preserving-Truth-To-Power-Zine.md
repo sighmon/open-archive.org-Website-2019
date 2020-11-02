@@ -15,11 +15,11 @@ permalink: /PTTPZine
 <p>Print it. Fold it. Share it.
 <br>Know Your Rights
 <br>Check Your Risks
-<br>Press Record! 📸
-  
-<div style="display: flex; justify-content: space-around; width: 100%; margin: 20px;">
-<img style="width: 300px; height: 188px; margin: 10px;" src="/images/PTTPZineFNL.jpg"/>
-<img style="width: 300px; height: 188px;  margin: 10px;" src="/images/PTTPZine2FNL.jpg"/>
+<br>Press Record! 📸</p>
+
+<div style="display: flex; flex-direction: column; align-content: center; justify-content: center; text-align: center; width: 100%; margin: 20px;">
+<img style="width: 500px; height: 314px; margin: 20px;" src="/images/PTTPZineFNL.jpg"/>
+<img style="width: 500px; height: 314px;  margin: 20px;" src="/images/PTTPZine2FNL.jpg"/>
 </div>
 
 <div style="width: 100%; text-align: center;">
