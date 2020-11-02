@@ -27,7 +27,6 @@ permalink: /about/
 
 <div style="text-align: center; margin: 20px 0px 20px 0px;">
 <div class="youtube-wrapper">
-<div class="youtube-wrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/z5Wq73HHgCY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
   </div>
