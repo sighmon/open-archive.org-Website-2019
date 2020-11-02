@@ -14,20 +14,19 @@ The guide highlights potential risks they can face such as harassment, police su
 It also lists tools activists can use to protect themselves, circumvent censorship, prevent data loss, and secure safe communication.<p>
 
 <div style="display: flex; justify-content: space-around; align-content: center; width: 100%; margin: 20px;">
-<img style="width: 300px; display: block; margin: 10px;" src="/images/1PTTPZine.png"/>
+<img style="width: 300px; height: auto; margin: 10px;" src="/images/1PTTPZine.png"/>
 <div>
 <p>DOWNLOAD THE <a href="https://drive.google.com/file/d/1fJL70G2W2bHHrgU8cczCsD47AxvVKOVP/view?usp=sharing">PDF</a> / <a href="https://drive.google.com/file/d/1i-qar2-S_3S8ahFwfEwluqOCDKKC6ZqK/view?usp=sharing">PNG</a> / <a href="https://drive.google.com/drive/folders/1CC0XEyVLK6itSxZJ62chaanPsLAEil2R?usp=sharing">INSTA</a></p>
 <p>Print it. Fold it. Share it.</p>
-<p>Know Your Rights
-<p>Check Your Risks
-<p>Press Record! 📸
-</p>
+<p>Know Your Rights</p>
+<p>Check Your Risks</p>
+<p>Press Record! 📸</p>
 </div>
 </div>
 
 <div style="display: flex; justify-content: space-around; width: 100%; margin: 20px;">
-<img style="width: 300px; margin: 10px;" src="/images/PTTPZineFNL.jpg"/>
-<img style="width: 300px; margin: 10px;" src="/images/PTTPZine2FNL.jpg"/>
+<img style="width: 300px; height: auto; margin: 10px;" src="/images/PTTPZineFNL.jpg"/>
+<img style="width: 300px; height: auto;  margin: 10px;" src="/images/PTTPZine2FNL.jpg"/>
 </div>
 
 <br>
