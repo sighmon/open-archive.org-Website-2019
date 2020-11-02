@@ -5,9 +5,9 @@ description: Know Your Rights, Check Your Risks, Press Record!
 image: /images/001pttp.png
 permalink: /PTTPZine
 ---
-<div style="display: flex; flex-direction: column; justify-content: center; align-content: center; width: 100%; margin: 20px;">
-<div style="width: 100%; text-align: center;">
-<img style="width: 1024px; height: 512px; margin: 10px;" src="/images/001pttp.png"/>
+
+<div style="max-width: 1024px; text-align: center;">
+<img style="width: 100%; height: auto; margin: 10px;" src="/images/001pttp.png"/>
 </div>
 
 <div style="width: 100%; text-align: center;">
@@ -15,15 +15,17 @@ permalink: /PTTPZine
 <br>Print it. Fold it. Share it.
 </div>
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-content: center; width: 100%; margin: 20px;"> 
- <div style="width: 100%; text-align: center;">
-<img style="width: 1024px; height: 1168px; margin: 20px;" src="/images/
-PTTPZine(1).png"/>
+ <div style="max-width: 1024px; text-align: center;">
+<img style="width: 100%; height: auto; margin: 20px;" src="/images/
+PTTPZine(1).png">
 </div>
-
-<p>We are witnessing and documenting more human rights abuses in the US than ever before. 
+<div style="text-align: center;">
+<p>We are witnessing and documenting more human rights abuses in the US than ever before.
  <br>We created this guide to help you make it count!
-<br>Our printable zine contains resources and advice on how to keep you and your media safe during protests. Equip yourself with the tools and information *before* attending demonstrations so you will be prepared. The guide highlights potential risks you can face such as harassment, police surveillance, doxxing and media manipulation and outlines our constitutional rights you can use to stay safe in case of abuse or arrest. It also lists tools activists can use to protect themselves, circumvent censorship, prevent data loss, and secure safe communication.
+ <br>Our printable zine contains resources and advice on how to keep you and your media safe during protests. Equip yourself with the tools and information *before* attending demonstrations so you will be prepared. The guide highlights potential risks you can face such as harassment, police surveillance, doxxing and media manipulation and outlines our constitutional rights you can use to stay safe in case of abuse or arrest. It also lists tools activists can use to protect themselves, circumvent censorship, prevent data loss, and secure safe communication.
+</p>
+</div>
+<p>
 <br>
  <br>Know Your Rights
 <br>Check Your Risks

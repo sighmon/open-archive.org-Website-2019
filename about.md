@@ -26,7 +26,7 @@ permalink: /about/
 <p>It is currently available for iOS on <a href="https://apps.apple.com/us/app/save-by-openarchive/id1462212414">iTunes</a>, android on <a href="http://bit.ly/29ewnaD">Google Play</a>, and at <a href="http://bit.ly/29jDPDo">GitHub</a>. Our lightweight mobile app. addresses the gaps in the current online ecosystem existing around the a) ethical short-term collection and b) long term preservation of sensitive mobile media. We provide mobile-centered, scalable, industry-standard, ethical, intuitive, easy to use tools for at-risk communities to pseudonymously preserve and authenticate their media so that it will be accessible and maintain its provenance in the future.
 
 <div style="text-align: center; margin: 20px 0px 20px 0px;">
-<div class="youtube-wrapper">
+<div class="youtube-wrapper" style="padding-top: 0;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/z5Wq73HHgCY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
   </div>
