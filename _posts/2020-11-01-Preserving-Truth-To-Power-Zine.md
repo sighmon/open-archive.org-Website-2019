@@ -3,7 +3,7 @@ layout: page
 title: Preserving Truth to Power: A Guide to Ethically Documenting + Archiving Protests in the US 
 description: Know Your Rights, Check Your Risks, Press Record!
 
-image: /images/1_PTTP_Zine.png 
+image: /images/1PTTPZine.png
 permalink: /PTTPZine
 ---
 
@@ -16,7 +16,7 @@ permalink: /PTTPZine
 The guide highlights potential risks they can face such as harassment, police surveillance, doxxing and media manipulation and outlines our constitutional rights you can use to stay safe in case of abuse or arrest. 
 It also lists tools activists can use to protect themselves, circumvent censorship, prevent data loss, and secure safe communication.<p>
   
-<img class="postInlineImage" src="/images/1_PTTP_Zine.png"/>
+<img class="postInlineImage" src="/images/1PTTPZine.png"/>
 <p>DOWNLOAD THE <a href="https://drive.google.com/file/d/1fJL70G2W2bHHrgU8cczCsD47AxvVKOVP/view?usp=sharing">PDF</a> / <a href="https://drive.google.com/file/d/1i-qar2-S_3S8ahFwfEwluqOCDKKC6ZqK/view?usp=sharing">PNG</a> / <a href="https://drive.google.com/drive/folders/1CC0XEyVLK6itSxZJ62chaanPsLAEil2R?usp=sharing">INSTA</a></p>
 <p>Print it. Fold it. Share it.</p>
 
