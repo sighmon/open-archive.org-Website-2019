@@ -15,7 +15,7 @@ It also lists tools activists can use to protect themselves, circumvent censorsh
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-content: center; width: 100%; margin: 20px;">
 <div style="width: 100%; text-align: center;">
-<img style="width: 300px; height: 300px; margin: 10px;" src="/images/1PTTPZine.png"/>
+<img style="width: 600px; height: 600px; margin: 10px;" src="/images/1PTTPZine.png"/>
 </div>
 <div style="width: 100%; text-align: center;">
 <p>DOWNLOAD THE <a href="https://drive.google.com/file/d/1fJL70G2W2bHHrgU8cczCsD47AxvVKOVP/view?usp=sharing">PDF</a> / <a href="https://drive.google.com/file/d/1i-qar2-S_3S8ahFwfEwluqOCDKKC6ZqK/view?usp=sharing">PNG</a> / <a href="https://drive.google.com/drive/folders/1CC0XEyVLK6itSxZJ62chaanPsLAEil2R?usp=sharing">INSTA</a></p>
@@ -27,8 +27,8 @@ It also lists tools activists can use to protect themselves, circumvent censorsh
 </div>
 
 <div style="display: flex; justify-content: space-around; width: 100%; margin: 20px;">
-<img style="width: 300px; height: 188px; margin: 10px;" src="/images/PTTPZineFNL.jpg"/>
-<img style="width: 300px; height: 188px;  margin: 10px;" src="/images/PTTPZine2FNL.jpg"/>
+<img style="width: 400px; height: 250px; margin: 10px;" src="/images/PTTPZineFNL.jpg"/>
+<img style="width: 400px; height: 250px;  margin: 10px;" src="/images/PTTPZine2FNL.jpg"/>
 </div>
 
 <br>
