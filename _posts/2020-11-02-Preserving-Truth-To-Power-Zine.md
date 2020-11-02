@@ -22,8 +22,7 @@ permalink: /PTTPZine
 <br>Know Your Rights
 <br>Check Your Risks
 <br>Press Record! 📸
-</div>
-</div>
+
 
 <div style="display: flex; justify-content: space-around; width: 100%; margin: 20px;">
 <img style="width: 300px; height: 188px; margin: 10px;" src="/images/PTTPZineFNL.jpg"/>
