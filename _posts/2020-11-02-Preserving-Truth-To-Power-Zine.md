@@ -12,7 +12,7 @@ permalink: /PTTPZine
 
 <div style="width: 100%; text-align: center;">
 <p>DOWNLOAD THE <a href="https://drive.google.com/file/d/1fJL70G2W2bHHrgU8cczCsD47AxvVKOVP/view?usp=sharing" target="_blank">PDF</a> / <a href="https://drive.google.com/file/d/1Vh8ZpAWC0KQmpXlORGDBQ4GZ7tklJVUT/view?usp=sharing" target="_blank">PNG</a> / <a href="https://drive.google.com/drive/folders/1CC0XEyVLK6itSxZJ62chaanPsLAEil2R?usp=sharing" target="_blank">INSTA</a> / <a href="https://drive.google.com/drive/folders/1_CymThDhU2DuEvYP6aboYiKpMUD3pItS?usp=sharing" target="_blank">TWITTER</a>
-<br>Print it. Fold it. Share it.<p>
+<br>Print it. Fold it. Share it.</p>
  </div>
 
  <div style="max-width: 1024px; text-align: center; margin: 0 auto;">
