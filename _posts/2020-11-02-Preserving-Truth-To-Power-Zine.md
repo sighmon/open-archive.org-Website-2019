@@ -25,6 +25,7 @@ PTTPZine(1).png">
 <br>
  <br>Our printable zine contains resources and advice on how to keep you and your media safe during protests:
  <br>
+ </div>
   <ul>
 
  <li>Equip yourself with the tools and information *before* attending demonstrations so you will be prepared.</li>
@@ -32,7 +33,7 @@ PTTPZine(1).png">
 <li>Learn about our constitutional rights you can use to stay safe in case of abuse or arrest.</li>
 <li>Download tools that protect you by circumventing censorship, preventing data loss, and securing safe communication.</li>
 </ul> 
-</div>
+
  <br>Know Your Rights
 <br>Check Your Risks
 <br>Press Record! 📸</p>
