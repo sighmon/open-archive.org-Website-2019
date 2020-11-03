@@ -12,9 +12,8 @@ permalink: /PTTPZine
 
 <div style="width: 100%; text-align: center;">
 <p>DOWNLOAD THE <a href="https://drive.google.com/file/d/1fJL70G2W2bHHrgU8cczCsD47AxvVKOVP/view?usp=sharing" target="_blank">PDF</a> / <a href="https://drive.google.com/file/d/1Vh8ZpAWC0KQmpXlORGDBQ4GZ7tklJVUT/view?usp=sharing" target="_blank">PNG</a> / <a href="https://drive.google.com/drive/folders/1CC0XEyVLK6itSxZJ62chaanPsLAEil2R?usp=sharing" target="_blank">INSTA</a> / <a href="https://drive.google.com/drive/folders/1_CymThDhU2DuEvYP6aboYiKpMUD3pItS?usp=sharing" target="_blank">TWITTER</a>
- </div>
 <br>Print it. Fold it. Share it.<p>
-
+</div>
 
  <div style="max-width: 1024px; text-align: center; margin: 0 auto;">
 <img style="width: 100%; height: auto; margin: 20px;" src="/images/
@@ -32,7 +31,9 @@ PTTPZine(1).png">
 <li>Learn about our constitutional rights you can use to stay safe in case of abuse or arrest.</li>
 <li>Download tools that protect you by circumventing censorship, preventing data loss, and securing safe communication.</li>
 </ul> 
+</p>
  </div>
+ <p>
  <br>Know Your Rights
 <br>Check Your Risks
 <br>Press Record! 📸</p>
