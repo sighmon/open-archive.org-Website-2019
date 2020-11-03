@@ -22,12 +22,16 @@ PTTPZine(1).png">
 </div>
 <div style="text-align: left;">
 <p>We are witnessing and documenting more human rights abuses in the US than ever before, so we created this guide to help you make it count!
-<br>Our printable zine contains resources and advice on how to keep you and your media safe during protests:
- <br>Equip yourself with the tools and information *before* attending demonstrations so you will be prepared. 
-<br> Prepare yourself for potential risks you can face such as harassment, police surveillance, doxxing and media manipulation 
- <br> Learn about our constitutional rights you can use to stay safe in case of abuse or arrest. 
- <br>Download tools that protect you by circumventing censorship, preventing data loss, and securing safe communication.
-</p>
+<br>
+ <br>Our printable zine contains resources and advice on how to keep you and your media safe during protests:
+ <br>
+  <ul>
+
+ <li>Equip yourself with the tools and information *before* attending demonstrations so you will be prepared.</li>
+<li>Prepare yourself for potential risks you can face such as harassment, police surveillance, doxxing and media manipulation.</li>
+<li>Learn about our constitutional rights you can use to stay safe in case of abuse or arrest.</li>
+<li>Download tools that protect you by circumventing censorship, preventing data loss, and securing safe communication.</li>
+</ul> 
 </div>
  <br>Know Your Rights
 <br>Check Your Risks
