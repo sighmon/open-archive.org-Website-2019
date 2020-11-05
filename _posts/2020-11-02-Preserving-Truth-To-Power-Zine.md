@@ -20,7 +20,7 @@ permalink: /PTTPZine
 PTTPZine(1).png">
 </div>
 <div style="text-align: left;">
-<p>We are witnessing and documenting more human rights abuses in the US than ever before, so we created this guide to help you make it count! Whether you document abuse demonstrations, police brutality, or other human rights absues, you may have footage to preserve for justice and accountability efforts. 
+<p> We are witnessing and documenting more human rights abuses in the US than ever before. Whether you document abuse demonstrations, police brutality, or other human rights absues, you may have footage to preserve for justice and accountability efforts, so we created this guide to help you make your evidence count!
 <br>
  <br>Our printable zine contains resources and advice on how to keep you and your media safe during protests and beyond:
  <br>
