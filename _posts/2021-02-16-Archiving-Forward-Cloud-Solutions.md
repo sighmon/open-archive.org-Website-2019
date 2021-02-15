@@ -5,8 +5,9 @@ description: Demystifying the cloud
 image: /images/021521_CloudSolutions_Cover.png
 permalink: /ArchivingForward1
 ---
-<div style="max-width: 1024px; text-align: center; margin: 0 auto;">
-<img style="width: 100%; height: auto; margin: 10px;" src="/images/021521_CloudSolutions_Cover.png"/>
+
+<div style="max-width: 1200px; text-align: center; margin: 0 auto;">
+<img style="width: 100%; height: auto; margin: 10px;" src="/image/021521_CloudSolutions_Cover.png"/>
 </div>
 
 <div style="text-align: left;">
@@ -31,7 +32,7 @@ When we began researching and prototyping our mobile application for ethical pre
 <p>A cloud is a type of server, so in order to understand the cloud, it is helpful to be familiar with the term “<b>server</b>.” A server is a computer, or a computer program, that manages access to a centralized resource or service in a network. A server’s function is to store, retrieve and send computer files and data to other computers on a network - so the more computers and files you have that are regularly accessing a central body, the more important it becomes to ensure that these interactions are secure and easily accessible. 
 <br>The following infographic (credit: <a href="https://media.defense.gov/2019/Jul/16/2002158059/-1/-1/0/CSI-CLOUD-SECURITY-BASICS.PDF?mod=article_inline">NSA Cloud security basics</a>) illustrates the various forms that the Cloud can take:
 
-<div style="max-width: 1024px; text-align: center; margin: 0 auto;">
+<div style="max-width: 1200px; text-align: center; margin: 0 auto;">
 <img style="width: 100%; height: auto; margin: 10px;" src="/images/021521_CloudSolutions_Forms.png"/>
 </div>
 
