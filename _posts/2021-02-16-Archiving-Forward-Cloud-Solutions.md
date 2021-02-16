@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archiving Forward Blog Series: Cloud Solutions
+title: Archiving Forward Blog Series - Cloud Solutions
 description: Demystifying the Cloud
 image: /images/021521_CloudSolutions_Cover.png
 permalink: /ArchivingForward1
