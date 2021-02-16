@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Archiving Forward Blog Series Cloud Solutions
-description: Demystifying the cloud
+description: Demystifying the Cloud
 image: /images/021521_CloudSolutions_Cover.png
 permalink: /ArchivingForward1
 ---
 
 <div style="max-width: 1200px; text-align: center; margin: 0 auto;">
-<img style="width: 100%; height: auto; margin: 10px;" src="/image/021521_CloudSolutions_Cover.png"/>
+<img style="width: 100%; height: auto; margin: 10px;" src="/images/021521_CloudSolutions_Cover.png"/>
 </div>
 
 <div style="text-align: left;">
