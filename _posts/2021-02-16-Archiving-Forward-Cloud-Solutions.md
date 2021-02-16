@@ -10,9 +10,11 @@ permalink: /ArchivingForward1
 <img style="width: 100%; height: auto; margin: 10px;" src="/images/021521_CloudSolutions_Cover.png"/>
 </div>
 
-<div style="text-align: left;">
+<div style="text-align: left; display: relative;">
 <p>There are countless tools and resources for the creation and capture of digital media. It is time to demystify the preservation of this content. Our “Archiving Forward” blog series will explore and explain how different actors, from individuals, to community organizations, to technology providers, each play critical roles in preserving, amplifying, and securely routing significant and impactful mobile media. Archiving Forward refers to a framework for bringing autonomy back to the capturer, through user-created collections in an accessible public trust or private server, outside the corporate walled gardens currently dominating the online media ecosystem.</p>
-<img class="postInlineImage" <img style="width: 50%; height: auto; margin: 10px;"src="/images/021521_CloudSolutions_Quote.png"/>
+<div style="max-width: 50%; margin: 0 auto; display: inline; float: left;">
+  <img style="width: 100%; height: auto; margin: 10px;" src="/images/021521_CloudSolutions_Quote.png"/>
+</div>
 <p>When we began researching and prototyping our mobile application for ethical preservation (what is now <span class="appName">Save</span>) back in 2013, we discovered four key challenges facing organizations interested in managing mobile media:</p>
 <br>
   <ul>
