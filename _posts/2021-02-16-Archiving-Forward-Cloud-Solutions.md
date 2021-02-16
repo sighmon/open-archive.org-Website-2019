@@ -17,14 +17,13 @@ permalink: /ArchivingForward1
 </div>
 <p>When we began researching and prototyping our mobile application for ethical preservation (what is now <span class="appName">Save</span>) back in 2013, we discovered four key challenges facing organizations interested in managing mobile media:</p>
 <br>
-  <ul>
+  <ul style="list-style-position: inside;">
 
  <li>Few initiatives to collective mobile citizen documentation;</li>
 <li>No easy way to preserve or license mobile media;</li>
 <li>Pressing privacy considerations; and</li>
 <li>A lack of resources.</li>
 </ul> 
-</p>
  </div>
  <p>Looking back, it is astonishing how quickly technological innovation has been able to mitigate these key challenges. In particular, the advent of the cloud, and adjacent <a href="https://opensource.com/resources/what-open-source">open source technologies</a> and documentation, make the task of preservation much more affordable and accessible.</p>
  <br>For the first entry in our Archiving Forward series, we will demystify the “cloud”: what it is, the benefits and drawbacks of using it to share and store media, and how it is being utilized by the human rights community. We will also discuss why we chose Nextcloud as our preferred cloud backend.
