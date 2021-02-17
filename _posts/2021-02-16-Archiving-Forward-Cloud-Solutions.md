@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Archiving Forward Blog Series - Cloud Solutions
-description: Demystifying the Cloud
+title: Archiving Forward Blog Series - Demystifying the Cloud
+description: 
 image: /images/021521_CloudSolutions_Cover.png
 permalink: /ArchivingForward1
 ---
@@ -11,26 +11,26 @@ permalink: /ArchivingForward1
 </div>
 
 <div style="text-align: left; display: relative;">
-<p>There are countless tools and resources for the creation and capture of digital media. It is time to demystify the preservation of this content. Our “Archiving Forward” blog series will explore and explain how different actors, from individuals, to community organizations, to technology providers, each play critical roles in preserving, amplifying, and securely routing significant and impactful mobile media.</p>
+<p>There are countless tools and resources for the creation and capture of digital media. Now we take time to demystify the preservation process for this content. Our “Archiving Forward” blog series will explore and explain how different actors, from individuals, to community organizations, to technology providers, each play critical roles in preserving, amplifying, and securely sending significant and impactful mobile media to their destinations.</p>
   <p>Archiving Forward refers to a framework for bringing autonomy back to the capturer, through user-created collections in an accessible public trust or private server, outside the corporate walled gardens currently dominating the online media ecosystem.</p>
 <img class="postLargeInlineImage" style="margin: 10px 20px 10px 0px;" src="/images/021521_CloudSolutions_Quote.png"/>
 <p>When we began researching and prototyping our mobile application for ethical preservation (what is now <span class="appName">Save</span>) back in 2013, we discovered four key challenges facing organizations interested in managing mobile media:</p>
 <p>
   <ul style="list-style-position: inside;">
 
- <li>Few initiatives to collective mobile citizen documentation;</li>
+ <li>Few initiatives to collective mobile media;</li>
 <li>No easy way to preserve or license mobile media;</li>
 <li>Pressing privacy considerations; and</li>
 <li>A lack of resources.</li>
 </ul> 
  </p>
- <p>Looking back, it is astonishing how quickly technological innovation has been able to mitigate these key challenges. In particular, the advent of the cloud, and adjacent <a href="https://opensource.com/resources/what-open-source">open source technologies</a> and documentation, make the task of preservation much more affordable and accessible.</p>
-<p>For the first entry in our Archiving Forward series, we will demystify the “cloud”: what it is, the benefits and drawbacks of using it to share and store media, and how it is being utilized by the human rights community. We will also discuss why we chose Nextcloud as our preferred cloud backend.</p>
+ <p>Looking back, it is astonishing how quickly technological innovation has been able to mitigate these key challenges. In particular, the advent of the cloud, and adjacent <a href="https://opensource.com/resources/what-open-source" target="_blank">open source technologies</a> and documentation, make the task of preservation much more affordable and accessible than it used to be.</p>
+<p>For the first entry in our Archiving Forward series, we will demystify the “cloud”: what it is, the benefits and drawbacks of using it to share and store media, and how we are utilizing it within the human rights community. We will also discuss why we chose Nextcloud as our preferred cloud backend.</p>
 
  
 <h2>What is the cloud?</h2>
 <p>A cloud is a type of server, so in order to understand the cloud, it is helpful to be familiar with the term “<b>server</b>.” A server is a computer, or a computer program, that manages access to a centralized resource or service in a network. A server’s function is to store, retrieve and send computer files and data to other computers on a network - so the more computers and files you have that are regularly accessing a central body, the more important it becomes to ensure that these interactions are secure and easily accessible.</p>
-<p>The following infographic via <a href="https://media.defense.gov/2019/Jul/16/2002158059/-1/-1/0/CSI-CLOUD-SECURITY-BASICS.PDF?mod=article_inline">NSA's cloud security basics</a> illustrates the various forms that the cloud can take:</p>
+<p>The following infographic via <a href="https://media.defense.gov/2019/Jul/16/2002158059/-1/-1/0/CSI-CLOUD-SECURITY-BASICS.PDF?mod=article_inline" target="_blank">NSA's cloud security basics</a> illustrates the various forms that the cloud can take:</p>
 
 <div style="max-width: 1200px; text-align: center; margin: 0 auto;">
 <img style="width: 100%; height: auto; margin: 10px 0px; " src="/images/021521_CloudSolutions_Forms.png"/>
@@ -68,10 +68,10 @@ permalink: /ArchivingForward1
 </div>
 <br>
 <p><h2>Why Did We Choose Nextcloud as a Preferred Private Backend for <span class="appName">Save</span>?</h2>
-<p>We chose to include Nextcloud as one of <span class="appName">Save's</span> backends because they offer self-hosting, prioritize encryption, are committed to usability, and have a consistent privacy policy. It is easy to use both remotely and locally, and is the most secure option, especially if people maintain their own servers. Additionally, <a href="https://nextcloud.com/encryption/">Nextcloud offers three layers of encryption on their servers</a>, making it less vulnerable to hackers than other cloud services. These are cornerstones of the <span class="appName">Save</span> project, which ensures media files are accessible and stored and shared securely. 
+<p>We chose to include Nextcloud as one of <span class="appName">Save's</span> backends because they offer self-hosting, prioritize encryption, are committed to usability, and have a consistent privacy policy. It is easy to use both remotely and locally, and is the most secure option, especially if people maintain their own servers. Additionally, <a href="https://nextcloud.com/encryption/" target="_blank">Nextcloud offers three layers of encryption on their servers</a>, making it less vulnerable to hackers than other cloud services. These are cornerstones of the <span class="appName">Save</span> project, which ensures media files are accessible and stored and shared securely. 
 <br>
 <h2>Do any other cloud backends work with <span class="appName">Save</span>?</h2>
-<p><span class="appName">Save</span> not only integrates with open source cloud services like Nextcloud, but also features the ability to save media to both the <a href="https://archive.org/">Internet Archive</a> and Dropbox backends, as well.
+<p><span class="appName">Save</span> not only integrates with open source cloud services like Nextcloud, but also features the ability to save media to both the <a href="https://archive.org/" target="_blank">Internet Archive</a> and Dropbox backends, as well.
 <br>
 <p>By offering 3 different types of backends to use with <span class="appName">Save</span>, our goal is to support people’s varying storage needs. We will be including more as new options for secure, distributed storage emerge. In addition to Nextcloud, an open source cloud and physical server private backend, <span class="appName">Save</span> is also compatible with DropBox because it is more widely-used and accessible as many already have accounts (but offers less security), and the Internet Archive, a public trust committed to interoperability that guarantees future access to your media as formats evolve.
 <br>
