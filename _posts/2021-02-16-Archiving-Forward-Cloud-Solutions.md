@@ -43,7 +43,7 @@ permalink: /ArchivingForward1
   <ul>
 <li><b>Improved privacy & security</b>: some cloud services offer multiple layers of encryption and allow managers to set user controls, enabling them to choose who has access to the media on the cloud, as well as their level of access;</li>
 <li><b>More affordable than a local server</b>: the cloud is relatively inexpensive over time;</li>
-<li><b>Easier to use</b>: the UI (user interface) doesn’t require any coding knowledge and there is ample technical support available;</li>
+<li><b>Easier to use</b>: the UI (user interface) doesn’t require any coding knowledge and there is ample technical support available; and</li>
 <li><b>More accessible</b>: all organizations need in order to access and manage the cloud is an internet connection.</li>
 </ul> 
 </p>
@@ -66,14 +66,13 @@ permalink: /ArchivingForward1
 <div style="max-width: 1200px; text-align: center; margin: 0 auto;">
 <img style="width: 100%; height: auto; margin: 10px 0px;" src="/images/021521_CloudSolutions_Recommendations.png"/>
 </div>
-<br>
 <p><h2>Why Did We Choose Nextcloud as a Preferred Private Backend for <span class="appName">Save</span>?</h2>
-<p>We chose to include Nextcloud as one of <span class="appName">Save's</span> backends because they offer self-hosting, prioritize encryption, are committed to usability, and have a consistent privacy policy. It is easy to use both remotely and locally, and is the most secure option, especially if people maintain their own servers. Additionally, <a href="https://nextcloud.com/encryption/" target="_blank">Nextcloud offers three layers of encryption on their servers</a>, making it less vulnerable to hackers than other cloud services. These are cornerstones of the <span class="appName">Save</span> project, which ensures media files are accessible and stored and shared securely. 
+<p>We chose to include Nextcloud as one of <span class="appName">Save's</span> backends because they offer self-hosting, prioritize encryption, are committed to usability, and have a consistent privacy policy. It is easy to use both remotely and locally, and is the most secure option, especially if people maintain their local own servers. Additionally, <a href="https://nextcloud.com/encryption/" target="_blank">Nextcloud offers three layers of encryption on their servers</a> making it less vulnerable to hackers than other cloud services. These are cornerstones of the <span class="appName">Save</span> project, which ensures media files are accessed, stored and shared securely. 
 <br>
 <h2>Do any other cloud backends work with <span class="appName">Save</span>?</h2>
 <p><span class="appName">Save</span> not only integrates with open source cloud services like Nextcloud, but also features the ability to save media to both the <a href="https://archive.org/" target="_blank">Internet Archive</a> and Dropbox backends, as well.
 <br>
-<p>By offering 3 different types of backends to use with <span class="appName">Save</span>, our goal is to support people’s varying storage needs. We will be including more as new options for secure, distributed storage emerge. In addition to Nextcloud, an open source cloud and physical server private backend, <span class="appName">Save</span> is also compatible with DropBox because it is more widely-used and accessible as many already have accounts (but offers less security), and the Internet Archive, a public trust committed to interoperability that guarantees future access to your media as formats evolve.
+<p>By offering 3 different types of backends to use with <span class="appName">Save</span>, our goal is to support people’s varying storage needs. We will be including more as new options for secure, distributed storage emerge. In addition to Nextcloud, an open source cloud and physical server private backend, <span class="appName">Save</span> is also compatible with DropBox because it is more widely-used and accessible as many already have accounts (but offers less security), and the Internet Archive, a public backend committed to interoperability that guarantees your media is accessible online and in the future as formats evolve.
 <br>
 <p>While the cloud is no silver bullet, we believe Nextcloud is the best option for human rights defenders managing collections of sensitive mobile media who lack the capacity to host and maintain their own servers.</p>
 
