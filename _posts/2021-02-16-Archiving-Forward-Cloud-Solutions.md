@@ -32,7 +32,7 @@ permalink: /ArchivingForward1
 <p>The following infographic (credit: <a href="https://media.defense.gov/2019/Jul/16/2002158059/-1/-1/0/CSI-CLOUD-SECURITY-BASICS.PDF?mod=article_inline">NSA Cloud security basics</a>) illustrates the various forms that the Cloud can take:</p>
 
 <div style="max-width: 1200px; text-align: center; margin: 0 auto;">
-<img style="width: 100%; height: auto; margin: 10px;" src="/images/021521_CloudSolutions_Forms.png"/>
+<img style="width: 100%; height: auto; margin: 10px 0; " src="/images/021521_CloudSolutions_Forms.png"/>
 </div>
 
 <h2>What are Key Benefits of Storing Media in the Cloud for the Human Rights Community?</h2>
@@ -50,7 +50,7 @@ permalink: /ArchivingForward1
 <br>
 <p>*<i>While the cloud has benefits for organizations with less sensitive media, those housing media that can put people at risk of prosecution or violence if leaked, should consider only having offline, redundant servers.</i>
 <p><div style="max-width: 1200px; text-align: center; margin: 0 auto;">
-<img style="width: 100%; height: auto; margin: 10px;" src="/images/021521_CloudSolutions_Benefits vs Risks.png"/>
+<img style="width: 100%; height: auto; margin: 10px 0;" src="/images/021521_CloudSolutions_Benefits vs Risks.png"/>
 </div></p>
 <h2>What are the key risks of using the cloud?</h2>
 <p>The two primary risks people face when using the cloud are malicious adversary activity (i.e. hacking/data breaches) and unintentional configuration flaws. To reiterate, we strongly recommend those with highly sensitive media (i.e. whistleblowers, media organizations, legal advocates, etc.) use local, offline, physical servers.
@@ -64,7 +64,7 @@ permalink: /ArchivingForward1
 <br>
 <h2>What features should you consider when choosing a cloud service?</h2>
 <div style="max-width: 1200px; text-align: center; margin: 0 auto;">
-<img style="width: 100%; height: auto; margin: 10px;" src="/images/021521_CloudSolutions_Recommendations.png"/>
+<img style="width: 100%; height: auto; margin: 10px 0;" src="/images/021521_CloudSolutions_Recommendations.png"/>
 </div>
 <p>One solution that incorporates and centralizes all of these features is <a href="https://nextcloud.com/Nextcloud">Nextcloud</a>.</p>
 <br>
