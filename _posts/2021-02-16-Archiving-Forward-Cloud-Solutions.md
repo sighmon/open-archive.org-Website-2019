@@ -12,9 +12,7 @@ permalink: /ArchivingForward1
 
 <div style="text-align: left; display: relative;">
 <p>There are countless tools and resources for the creation and capture of digital media. It is time to demystify the preservation of this content. Our “Archiving Forward” blog series will explore and explain how different actors, from individuals, to community organizations, to technology providers, each play critical roles in preserving, amplifying, and securely routing significant and impactful mobile media. Archiving Forward refers to a framework for bringing autonomy back to the capturer, through user-created collections in an accessible public trust or private server, outside the corporate walled gardens currently dominating the online media ecosystem.</p>
-<div style="max-width: 50%; margin: 0 auto; display: inline; float: left;">
-  <img style="width: 100%; height: auto; margin: 10px;" src="/images/021521_CloudSolutions_Quote.png"/>
-</div>
+<img style="postLargeInlineImage" src="/images/021521_CloudSolutions_Quote.png"/>
 <p>When we began researching and prototyping our mobile application for ethical preservation (what is now <span class="appName">Save</span>) back in 2013, we discovered four key challenges facing organizations interested in managing mobile media:</p>
 <p>
   <ul style="list-style-position: inside;">
@@ -24,7 +22,7 @@ permalink: /ArchivingForward1
 <li>Pressing privacy considerations; and</li>
 <li>A lack of resources.</li>
 </ul> 
- </div></p>
+ </p>
  <p>Looking back, it is astonishing how quickly technological innovation has been able to mitigate these key challenges. In particular, the advent of the cloud, and adjacent <a href="https://opensource.com/resources/what-open-source">open source technologies</a> and documentation, make the task of preservation much more affordable and accessible.</p>
 <p>For the first entry in our Archiving Forward series, we will demystify the “cloud”: what it is, the benefits and drawbacks of using it to share and store media, and how it is being utilized by the human rights community. We will also discuss why we chose Nextcloud as our preferred cloud backend.</p>
 
