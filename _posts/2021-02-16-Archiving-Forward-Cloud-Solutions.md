@@ -66,7 +66,7 @@ permalink: /ArchivingForward1
 <div style="max-width: 1200px; text-align: center; margin: 0 auto;">
 <img style="width: 100%; height: auto; margin: 10px 0px;" src="/images/021521_CloudSolutions_Recommendations.png"/>
 </div>
-<p><h2>Why Did We Choose Nextcloud as a Preferred Private Backend for <span class="appName">Save</span>?</h2>
+<p><h2>Why did we choose Nextcloud as a preferred private backend for <span class="appName">Save</span>?</h2>
 <p>We chose to include Nextcloud as one of <span class="appName">Save's</span> backends because they offer self-hosting, prioritize encryption, are committed to usability, and have a consistent privacy policy. It is easy to use both remotely and locally, and is the most secure option, especially if people maintain their local own servers. Additionally, <a href="https://nextcloud.com/encryption/" target="_blank">Nextcloud offers three layers of encryption on their servers</a> making it less vulnerable to hackers than other cloud services. These are cornerstones of the <span class="appName">Save</span> project, which ensures media files are accessed, stored and shared securely. 
 <br>
 <h2>Do any other cloud backends work with <span class="appName">Save</span>?</h2>
