@@ -7,7 +7,7 @@ permalink: /ArchivingForward1
 ---
 
 <div style="max-width: 1200px; text-align: center; margin: 0 auto;">
-<img style="width: 100%; height: auto; margin: 0px 10px;" src="/images/021521_CloudSolutions_Cover.png"/>
+<img style="width: 100%; height: auto; margin: 10px 0px;" src="/images/021521_CloudSolutions_Cover.png"/>
 </div>
 
 <div style="text-align: left; display: relative;">
