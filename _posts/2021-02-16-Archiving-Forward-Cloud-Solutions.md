@@ -12,9 +12,9 @@ permalink: /ArchivingForward1
 
 <div style="text-align: left; display: relative;">
 <p>There are countless tools and resources for the creation and capture of digital media. It is time to demystify the preservation of this content. Our “Archiving Forward” blog series will explore and explain how different actors, from individuals, to community organizations, to technology providers, each play critical roles in preserving, amplifying, and securely routing significant and impactful mobile media. Archiving Forward refers to a framework for bringing autonomy back to the capturer, through user-created collections in an accessible public trust or private server, outside the corporate walled gardens currently dominating the online media ecosystem.</p>
-<div style="max-width: 50%; margin: 0 auto; display: inline; float: left;">
-  <img style="width: 100%; height: auto; margin: 10px;" src="/images/021521_CloudSolutions_Quote.png"/>
-</div>
+
+  <img class="postLargeInlineImage" src="/images/021521_CloudSolutions_Quote.png"/>
+
 <p>When we began researching and prototyping our mobile application for ethical preservation (what is now <span class="appName">Save</span>) back in 2013, we discovered four key challenges facing organizations interested in managing mobile media:</p>
 <br>
   <ul style="list-style-position: inside;">
@@ -35,9 +35,7 @@ permalink: /ArchivingForward1
 <br>
 <p>The following infographic (credit: <a href="https://media.defense.gov/2019/Jul/16/2002158059/-1/-1/0/CSI-CLOUD-SECURITY-BASICS.PDF?mod=article_inline">NSA Cloud security basics</a>) illustrates the various forms that the Cloud can take:</p>
 
-<div style="max-width: 1200px; text-align: center; margin: 0 auto;">
-<img style="width: 100%; height: auto; margin: 10px;" src="/images/021521_CloudSolutions_Forms.png"/>
-</div>
+<img class="postLargeInlineImage" src="/images/021521_CloudSolutions_Forms.png"/>
 
 <h2>Considerations for the Human Rights Community:
 <br>What are some benefits of storing media in the Cloud?</h2>
@@ -71,9 +69,8 @@ permalink: /ArchivingForward1
 <h2>What features should you consider when choosing a cloud service?</h2>
 <p><b>Recommended Features</b>:</p>
 
-<div style="max-width: 1200px; text-align: center; margin: 0 auto;">
-<img style="width: 100%; height: auto; margin: 10px;" src="/images/021521_CloudSolutions_Recommendations.png"/>
-</div>
+<img class="postLargeInlineImage" src="/images/021521_CloudSolutions_Recommendations.png"/> 
+
 <br>
 <p>One solution that incorporates and even centralizes all of these features is <a href="https://nextcloud.com/Nextcloud">Nextcloud</a>.
 <br>
