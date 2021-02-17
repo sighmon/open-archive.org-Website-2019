@@ -37,8 +37,7 @@ permalink: /ArchivingForward1
 <img style="width: 100%; height: auto; margin: 10px;" src="/images/021521_CloudSolutions_Forms.png"/>
 </div>
 
-<h2>Considerations for the Human Rights Community:
-<br>What are some benefits of storing media in the Cloud?</h2>
+<h2>What are Key Benefits of Storing Media in the Cloud for the Human Rights Community?</h2>
 
 <p>At OpenArchive our mission is to prioritize usability and privacy in our tools. Cloud-based storage considerably minimizes the cost of securely* storing and sharing digital content, without requiring highly technical expertise and training. This way, public interest organizations, as well as individuals, can easily run, manage, and maintain a server. Additional benefits include:
 <br>
