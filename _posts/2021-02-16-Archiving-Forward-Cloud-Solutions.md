@@ -42,8 +42,6 @@ permalink: /ArchivingForward1
 <p>At OpenArchive our mission is to prioritize usability and privacy in our tools. Cloud-based storage considerably minimizes the cost of securely* storing and sharing digital content, without requiring highly technical expertise and training. This way, public interest organizations, as well as individuals, can easily run, manage, and maintain a server. Additional benefits include:
 <br>
   <ul>
-
- <li>Few initiatives to collective mobile citizen documentation;</li>
 <li><b>Improved privacy & security</b>: some cloud services offer multiple layers of encryption and allow managers to set user controls, enabling them to choose who has access to the media on the cloud, as well as their level of access;</li>
 <li><b>More affordable than a local server</b>: the cloud is relatively inexpensive over time;</li>
 <li><b>Easier to use</b>: the UI (user interface) doesn’t require any coding knowledge and there is ample technical support available;</li>
@@ -53,13 +51,14 @@ permalink: /ArchivingForward1
 <p>However, not all cloud services are equal when it comes to security and privacy, there are key privacy risks involved when using the cloud. 
 <br>
 <p>*<i>While the cloud has benefits for organizations with less sensitive media, those housing media that can put people at risk of prosecution or violence if leaked, should consider only having offline, redundant servers.</i>
-
+<p><div style="max-width: 1200px; text-align: center; margin: 0 auto;">
+<img style="width: 100%; height: auto; margin: 10px;" src="/images/021521_CloudSolutions_Benefits vs Risks.png"/>
+</div></p>
 <h2>What are the key risks of using the cloud?</h2>
 <p>The two primary risks people face when using the cloud are malicious adversary activity (i.e. hacking/data breaches) and unintentional configuration flaws. To reiterate, we strongly recommend those with highly sensitive media (i.e. whistleblowers, media organizations, legal advocates, etc.) use local, offline, physical servers.
 <br>
  <ul>
 
- <li>Few initiatives to collective mobile citizen documentation;</li>
 <li><b>Data breaches</b>: Large companies are more likely to be targeted by hackers; and</li>
 <li><b>Configuration flaws</b>: Large companies with big servers handling multiple tasks are more susceptible to coding errors and other issues that are out of the control of the individuals or organizations that rely on them.</li>
 </ul> 
