@@ -38,5 +38,5 @@ PTTPZine(1).png">
 <br>Check Your Risks
 <br>Press Record! 📸</p>
 <br>
-<p>An OpenArchive & <a href="https://www.osroc.org/" target="_blank">Open Source Researchers of Color</a> collaboration</p>
+
 <p>This work would not be possible without the Black folx leading this revolution + orgs like the <a href="https://www.eff.org/" target="_blank">EFF</a>, <a href="https://www.aclu.org/" target="_blank">ACLU</a>, <a href="https://www.witness.org/" target="_blank">WITNESS</a>, the <a href="https://www.theblackivists.com/" target="_blank">Blackivists</a>, <a href="https://www.berkeleycopwatch.org/" target="_blank">Berkeley CopWatch</a>, <a href="https://www.accessnow.org/" target="_blank">Access Now</a>, <a href="https://www.torproject.org/" target="_blank">the Tor Project</a> + countless others.
