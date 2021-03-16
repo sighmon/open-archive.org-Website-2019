@@ -10,7 +10,7 @@ permalink: /PTTPSpring21Guide
 <img style="width: 100%; height: auto; margin: 10px;" src="/images/pttpGuide_Header.png"/>
 </div>
 
-<div style="width: 100%; text-align: center;">
+<div style="width: 100%; text-align: left;">
 <p>OpenArchive’s new guide to Preserving Truth to Power is specifically developed with and for citizen reporters and human rights defenders documenting injustice on their mobile phones. Download the guide here.</p>
   <p>In it, we share best practices for how to ethically and safely store sensitive mobile media, such as evidence of human rights violations, social movements, or everyday citizen reporting. We highlight long-term storage considerations when working with vulnerable sources, in order to help them more safely preserve, protect, and amplify what they’ve securely documented.</p>
  </div>
