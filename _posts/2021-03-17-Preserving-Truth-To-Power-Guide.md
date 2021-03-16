@@ -20,10 +20,10 @@ permalink: /PTTPSpring21Guide
  <br>
   <ul>
 
-<li><b>who</b> our work is for,</li>
-<li><b>what</b> mobile media you want to securely preserve,</li>
-<li><b>why</b> you need to archive evidence securely,</li>
-<li><b>how</b> you can safely preserve your mobile media,</li>
+<li><b>who</b> our work is for;</li>
+<li><b>what</b> mobile media you want to securely preserve;</li>
+<li><b>why</b> you need to archive evidence securely;</li>
+<li><b>how</b> you can safely preserve your mobile media;</li>
 <li><b>where</b> your media goes.</li>
   
 </ul> 
