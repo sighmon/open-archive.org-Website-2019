@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OpenAchive's Spring, 2021 Guide to Preserving Truth to Power
+title: OpenAchive's Guide to Preserving Truth to Power - Spring, 2021
 description: Learn how to ethically and safely store sensitive mobile media
 image: /images/pttpGuide_Header.png 
 permalink: /PTTPSpring21Guide
