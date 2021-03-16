@@ -31,5 +31,5 @@ permalink: /PTTPSpring21Guide
  </div>
  <iframe src="https://drive.google.com/file/d/1EfUcmCgLCm-peI6RI1x8i6QviTORcCK3/preview" width="640" height="480"></iframe>
  <br>
- <p>Download the <a href="https://drive.google.com/drive/folders/1LEMLG65JBIaZxY_0g902mbO0UK3Woac9?usp=sharing" target="_blank">pdf</a>, <a href="https://drive.google.com/drive/folders/15sSdkR9P8MoiwH6eynLwj260L_tv8bi_?usp=sharing" target="_blank">png</a>, and shareable media for <a href="https://drive.google.com/drive/folders/1vwerzLYrBCOdKU2vNGoL-wn6s0aS4jZD?usp=sharing" target="_blank">Instagram</a> and <a href="https://drive.google.com/drive/folders/1RCDTzJ_PrlyIBCswr1_cEK1fIB9DIhnY?usp=sharing" target="_blank">Twitter</a>.</p>
+ <p>Download the <a href="https://drive.google.com/file/d/1EfUcmCgLCm-peI6RI1x8i6QviTORcCK3/view?usp=sharing" target="_blank">pdf</a>, <a href="https://drive.google.com/drive/folders/1Wajy9Ge5UWRIeoBWlvljhj_SZ2jWrMLi?usp=sharing" target="_blank">png</a>, and shareable media for <a href="https://drive.google.com/drive/folders/1JDO2lnbnLHejwt8HTU9duPMhpyCtFcjG?usp=sharing" target="_blank">Instagram</a> and <a href="https://drive.google.com/drive/folders/1aJTegoqw0pNpGPLljpEsteN9tZIZE71H?usp=sharing" target="_blank">Twitter</a>.</p>
 
