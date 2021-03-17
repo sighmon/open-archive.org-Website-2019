@@ -47,6 +47,7 @@ h2 {font-size: 1.5em !important;}
 #search-button { display: inline-block !important; max-width: 150px; }
 .postInlineImage { width: 250px; display: block; float: left; margin: 10px; }
 .postLargeInlineImage { width: 50%; display: block; float: left; margin: 10px; }
+.postDocumentViewer { width: 100%; display: block; margin: 10px; }
 a.download-button {
   background-color: #7f3359 !important;
   box-shadow: none;
@@ -114,8 +115,9 @@ a.download-button {
 #three p { max-width: 600px; margin: 0px auto; padding-bottom: 2em; font-size: 1em; }
 
 .is-mobile {
-   .postLargeInlineImage { width: 300px; display: block; margin: 0 auto; }
-	
+  .postLargeInlineImage { width: 300px; display: block; margin: 0 auto; }
+  .postDocumentViewer { width: 300px; display: block; margin: 0 auto; }
+
   .features {
 
 
