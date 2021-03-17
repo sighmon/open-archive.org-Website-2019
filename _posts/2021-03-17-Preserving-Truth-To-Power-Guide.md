@@ -17,7 +17,7 @@ permalink: /PTTPSpring21Guide
  
 <div style="text-align: left;">
 <p> <h2><span class="appName">Learn:</span></h2>
-  <p><ul>
+<ul>
 
 <li><b>who</b> our work is for;</li>
 <li><b>what</b> mobile media you want to securely preserve;</li>
