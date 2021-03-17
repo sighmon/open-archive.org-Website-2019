@@ -30,5 +30,6 @@ permalink: /PTTPSpring21Guide
 <p> <h2><span class="appName">Download:</span></h2>
 <p><a href="https://drive.google.com/file/d/1RtoNhHJ9IT1VpQVP1gmsWjWoapPrAB6Q/view?usp=sharing" target="_blank">the pdf</a>, <a href="https://drive.google.com/drive/folders/1Wajy9Ge5UWRIeoBWlvljhj_SZ2jWrMLi?usp=sharing" target="_blank">the pngs</a>, and shareable media for <a href="https://drive.google.com/drive/folders/1JDO2lnbnLHejwt8HTU9duPMhpyCtFcjG?usp=sharing" target="_blank">Instagram</a> and <a href="https://drive.google.com/drive/folders/1aJTegoqw0pNpGPLljpEsteN9tZIZE71H?usp=sharing" target="_blank">Twitter</a>.</p>
 
-<iframe class="postDocumentViewer" src="https://drive.google.com/file/d/1RtoNhHJ9IT1VpQVP1gmsWjWoapPrAB6Q/preview"></iframe>
+<div class="postDocumentViewer">
+<iframe src="https://drive.google.com/file/d/1RtoNhHJ9IT1VpQVP1gmsWjWoapPrAB6Q/preview" style="width: 100%; height: 400px;"></iframe></div>
  <br>
