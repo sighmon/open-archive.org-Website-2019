@@ -38,8 +38,8 @@ permalink: /about/
 <br>Our work is made possible by <a href="https://www.opentech.fund/" target="_blank">The Open Technology Fund</a>, who are currently supporting the expansion, infrastructure, and decentralization of OpenArchive.</p>
 <p><img src="{{ '/images/knight-logo-300USE.jpeg' | prepend: site.baseurl }}" alt="Knight Foundation" />
 <br>In 2014, OpenArchive received support from the <a href="https://knightfoundation.org/prototype/" target="_blank">Knight Prototype Fund</a>.</p>
-<p class="textTeal"><i>We are currently seeking funding to help us sustain OpenArchive, develop new and refine curent features, and to sustain our grassroots research efforts.
+<p class="textTeal"><i>We are currently seeking funding to help us sustain OpenArchive, develop new and refine current features, and to sustain our grassroots research efforts.
   <br>
-  <br>If you would like to support us, you can make a <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MA7ZZG3DJL97E&source=url">tax-deductible donation</a> or contact us directly <a href="/contact">here</a>, we'd love to hear from you.</i></p>
+  <br>If you would like to support us, you can make a <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MA7ZZG3DJL97E&source=url">tax-deductible donation</a> or contact us directly <a href="/contact">here</a>. We'd love to hear from you.</i></p>
    <br>
    <p>Homepage photo by: Mathana Stender</p>
