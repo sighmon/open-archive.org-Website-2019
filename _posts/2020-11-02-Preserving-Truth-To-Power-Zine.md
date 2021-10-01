@@ -3,6 +3,7 @@ layout: page
 title: Preserving Truth to Power - A Guide to Ethically Documenting and Archiving Protests in the US
 description: Know Your Rights, Check Your Risks, Press Record!
 image: /images/001pttp.png
+hidden: true
 permalink: /PTTPZine
 ---
 
