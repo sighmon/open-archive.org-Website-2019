@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Job Opening: Technical Lead 
+title: Job Opening - Technical Lead 
 description:  
 image: 
 permalink: /TLJob
