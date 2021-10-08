@@ -2,7 +2,7 @@
 layout: page
 title: Job Opening - Technical Lead 
 description:  
-image: 
+image: /images/OATwitterHeader.jpg
 permalink: /TLJob
 ---
 
