@@ -99,7 +99,7 @@ permalink: /Fall21Hiring
 
 
 
-<p><h2>Techincal Lead</h2></p>
+<p><h2>Technical Lead</h2></p>
 
 <p><b>About the Technical Lead Position:</b>
 The Technical Lead manages the overall technical effort, overseeing the implementation and delivery of the development process and software. They are also responsible for key decisions on integration of the appropriate decentralized web and storage technologies into our flagship secure mobile archiving application  <a href="https://open-archive.org/save/" target="_blank"> <span class="appName">Save</span></a> app’s architecture, ensuring the integration of the software development, user experience, testing and quality assurance processes. They provide guidance and expertise as needed and requested by the rest of the Save management, community and research teams.</p>
