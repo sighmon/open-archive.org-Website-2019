@@ -15,14 +15,13 @@ permalink: /Fall21Hiring
 <br>OpenArchive is an experienced research and development nonprofit organization dedicated to the ethical collection and long-term preservation of mobile media. We work to promote freedom of expression and privacy on the internet by creating tools, guides, and workshops to protect human rights defenders and their media. Our work centers both large human rights focused NGOs as well as activist communities, researchers, designers, developers, academic institutions, advocates, and funders to create and share best practices in order to advance secure, long-term mobile media preservation and internet freedom for marginalized and targeted communities.
   <p>We are part of a growing movement of human rights defenders working to ensure the safety of citizen reporters, NGO’s, and their community and evidentiary media. This is a great opportunity for someone who is looking for professional growth and is interested in working within a highly compassionate, technical, and hard-working human-rights-focused community in a collaborative and productive environment. To learn more about our culture at OpenArchive, we encourage you to review our <a href="https://openarchive.github.io/Code-of-Conduct/" target="_blank">Code of Conduct</a>.</p>
 <p><b>About the Director of Programs and Operations Position:</b>
-OpenArchive is seeking a Director of Programs and Operations (DPO) for a full-time, 3 year contract position with area knowledge of human rights archiving. We are a small team and everyone wears many hats as we work to accomplish our goals. The DPO will be responsible for two key areas of the organization: programs and operations. 
+<br>OpenArchive is seeking a Director of Programs and Operations (DPO) for a full-time, 3 year contract position with area knowledge of human rights archiving. We are a small team and everyone wears many hats as we work to accomplish our goals. The DPO will be responsible for two key areas of the organization: programs and operations. 
 </p>
 <p>The DPO will oversee two key programs: OpenArchive’s <a href="https://open-archive.org/save/" target="_blank">secure, open source mobile archiving application <span class="appName">Save</span></a> that offers people more agency over the lifecycle of their media as well as our ‘decentralized archivist’ community partnership program. Responsibilities will include program management, monitoring and evaluation, budgeting, and strategic planning for each of the projects. Although you will not need extensive technical knowledge, experience working in the digital rights communities and at least 2 years of experience working with technologists is preferred.</p>
 <p>The DPO will also support Operations, including: assisting the Executive Director, performing operational duties such as budgeting, strategic planning, tracking and reporting progress on projects/programs, liaising with OpenArchive’s staff, partners, and developers, fundraising, and troubleshooting when necessary to help keep the organization running smoothly.  The DPO will support existing relationships, expand networks, and nurture relationships with OpenArchive’s key stakeholders, develop strategies to support and spread a culture of human rights-centered technology and activism, and manage a grant making portfolio.  This position will also be responsible for articulating our technical development projects with contractors, partners, and potential funders to foster the growth and sustainability of OpenArchive.</p>
 
 <p><b>Responsibilities:</b>
   <ul>
-
 <li> Oversee the day-to-day operations of OpenArchive (fielding emails, scheduling, coordinating with stakeholders, etc.);</li>
 <li> Work closely with the Executive Director to support logistical operations;
 </li>
@@ -57,7 +56,7 @@ OpenArchive is seeking a Director of Programs and Operations (DPO) for a full-ti
 </ul>
 </p>
 
-<p><b>Great to Have::</b>
+<p><b>Great to Have:</b>
     <ul>
 
 <li> A master's degree or higher in information science, library science, administration, or related field;</li>
@@ -71,7 +70,7 @@ OpenArchive is seeking a Director of Programs and Operations (DPO) for a full-ti
 <p><b>Working With Us:</b>
   <p>OpenArchive aims to empower people to have more agency over the long-term preservation, privacy, management, and access to their mobile media. We are working on challenging, but compelling, problems at the crux of privacy, usability, and long-term preservation of mobile media. If you are passionate about helping people create secure, robust, personal archives to preserve mobile media, especially media made by historically marginalized communities, or are just interested in making secure archiving tools more usable, we’d love to hear from you.
 </p>
- </div>
+
 
 <p><b>If you’d like to be a part of our team, please submit the following:</b>
  <ul>
