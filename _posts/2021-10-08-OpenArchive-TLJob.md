@@ -7,7 +7,7 @@ permalink: /TLJob
 ---
 
 <div style="width: 100%; text-align: left;">
-<p><h2>Technical Lead</h2></p>
+<p><h2>OpenArchive is hiring a Technical Lead</h2>
 <br>The Technical Lead manages the overall technical effort, overseeing the implementation and delivery of the development process and software.</p>
  <p><b>About OpenArchive:</b>
 <br>OpenArchive is an experienced research and development nonprofit organization dedicated to the ethical collection and long-term preservation of mobile media. We work to promote freedom of expression and privacy on the internet by creating tools, guides, and workshops to protect human rights defenders and their media. Our work centers both large human rights focused NGOs as well as activist communities, researchers, designers, developers, academic institutions, advocates, and funders to create and share best practices in order to advance secure, long-term mobile media preservation and internet freedom for marginalized and targeted communities.
@@ -41,7 +41,7 @@ Open-source project methodology and collaboration experience;
     <ul>
 
 <li> Keen interest in and experience in peer-to-peer technology stacks (decentralized tech, IPFS, and libp2p are a plus);</li>
-<li> Continuous Integration, Delivery and Automated Testing;/li>
+<li> Continuous Integration, Delivery and Automated Testing;</li>
 <li> Threat Modeling, Analysis, and Response.</li>
 
 
