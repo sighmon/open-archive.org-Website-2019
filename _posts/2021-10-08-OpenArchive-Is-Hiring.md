@@ -85,12 +85,12 @@ permalink: /Fall21Hiring
   <br>This position reports to the Executive Director.</p>
   
   <p><b>Location:</b>
-  OpenArchive operates as a distributed team, with core staff based on the west and east coasts of the US, and others based in Africa, Latin America, and Europe. The position is virtual through the Covid-19 Pandemic and potentially thereafter, though time zones compatible with the US Pacific Time Zone (GMT-7) are prefered, due to location of key project staff there. You will need an up-to-date computer with a minimum of 16GB of RAM and a 1 GHz processor that can run multiple programs at once.
+  <br>OpenArchive operates as a distributed team, with core staff based on the west and east coasts of the US, and others based in Africa, Latin America, and Europe. The position is virtual through the Covid-19 Pandemic and potentially thereafter, though time zones compatible with the US Pacific Time Zone (GMT-7) are prefered, due to location of key project staff there. You will need an up-to-date computer with a minimum of 16GB of RAM and a 1 GHz processor that can run multiple programs at once.
 
 </p>
 
 <p><b>Compensation:</b>
-  This is a full-time, 3 year contract position with a budgeted salary of $80,000 annually plus healthcare benefits reimbursement of up to $1,000/month with a 5% cost of living increase over each year.</p>
+  <br>This is a full-time, 3 year contract position with a budgeted salary of $80,000 annually plus healthcare benefits reimbursement of up to $1,000/month with a 5% cost of living increase over each year.</p>
   
   <p>We will consider applications on a rolling basis; <b>priority consideration will be given to those who submit their applications by October 31st, 2021</b>.
   <p>Please submit your application directly to: info[at]open-archive.org</p>
@@ -154,12 +154,12 @@ Open-source project methodology and collaboration experience;
   <br>This position reports to the Executive Director.</p>
   
   <p><b>Location:</b>
-  OpenArchive operates as a distributed team, with core staff based on the west and east coasts of the US, and others based in Africa, Latin America, and Europe. The position is virtual through the Covid-19 Pandemic and potentially thereafter, though time zones compatible with the US Pacific Time Zone (GMT-7) are prefered, due to location of key project staff there. You will need an up-to-date computer with a minimum of 16GB of RAM and a 1 GHz processor that can run multiple programs at once.
+ <br> OpenArchive operates as a distributed team, with core staff based on the west and east coasts of the US, and others based in Africa, Latin America, and Europe. The position is virtual through the Covid-19 Pandemic and potentially thereafter, though time zones compatible with the US Pacific Time Zone (GMT-7) are prefered, due to location of key project staff there. You will need an up-to-date computer with a minimum of 16GB of RAM and a 1 GHz processor that can run multiple programs at once.
 
 </p>
 
 <p><b>Compensation:</b>
-Compensation is commensurate with experience. This position requires a 25% time commitment to non-coding management duties that include reviewing the code and running builds with the opportunity to take on development work as well.
+<br>Compensation is commensurate with experience. This position requires a 25% time commitment to non-coding management duties that include reviewing the code and running builds with the opportunity to take on development work as well.
   
   <p>We will consider applications on a rolling basis; <b>priority consideration will be given to those who submit their applications by October 31st, 2021</b>.
   <p>Please submit your application directly to: info[at]open-archive.org</p>
