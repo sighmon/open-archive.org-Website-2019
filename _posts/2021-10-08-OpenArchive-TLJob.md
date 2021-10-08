@@ -71,7 +71,7 @@ Open-source project methodology and collaboration experience;
 </p>
 
 <p><b>Compensation:</b>
-<br>This is a part to full time role at a competitive non-profit rate. This position requires a 25% time commitment to non-coding management duties that include reviewing the code and running builds with the opportunity to take on development work as well.
+<br>We offer a competitive non-profit rate and are open to both part-time and full-time job seekers. This position requires a 25% time commitment to non-coding management duties that include reviewing the code and running builds with the opportunity to take on development work as well.
   
   <p>We will consider applications on a rolling basis; <b>priority consideration will be given to those who submit their applications by October 31st, 2021</b>.
   <p>Please submit your application directly to: info[at]open-archive.org</p>
