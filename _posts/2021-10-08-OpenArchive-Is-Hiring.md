@@ -148,7 +148,7 @@ Open-source project methodology and collaboration experience;
    <li> Challenges and lessons learned, and how it relates to this position; </li>
 <li> Clarification of whether you are interested in the part time Development Lead role only, or if you want to do any of the additional development work that is available at the hourly rate as well.</li>
  
-
+<br>
  
 <p><b>Reporting:</b>
   <br>This position reports to the Executive Director.</p>
