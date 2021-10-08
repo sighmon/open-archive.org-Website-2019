@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Job Opening: Director of Programs and Operations 
+title: Job Opening - Director of Programs and Operations 
 description: 
 image: 
 permalink: /DPOJob
