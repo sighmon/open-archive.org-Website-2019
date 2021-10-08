@@ -1,15 +1,14 @@
 ---
 layout: page
-title: OpenAchive is Hiring!
+title: OpenArchive is Hiring!
 description: Learn About Our Open Positions
 image: 
 permalink: /Fall21Hiring
 ---
 
 
-
 <div style="width: 100%; text-align: left;">
-  <p><b>We are excited to announce two new job openings with OpenArchive!</b></p>
+  <p><b>We are excited to announce two new job openings with OpenArchive, learn more below:</b></p>
   <p><h2>Director of Programs and Operations</h2></p>
     <p><b>About OpenArchive:</b>
 <br>OpenArchive is an experienced research and development nonprofit organization dedicated to the ethical collection and long-term preservation of mobile media. We work to promote freedom of expression and privacy on the internet by creating tools, guides, and workshops to protect human rights defenders and their media. Our work centers both large human rights focused NGOs as well as activist communities, researchers, designers, developers, academic institutions, advocates, and funders to create and share best practices in order to advance secure, long-term mobile media preservation and internet freedom for marginalized and targeted communities.
@@ -100,6 +99,6 @@ permalink: /Fall21Hiring
 
 
 
-
+<p><h2>Director of Programs and Operations</h2></p>
 
 
