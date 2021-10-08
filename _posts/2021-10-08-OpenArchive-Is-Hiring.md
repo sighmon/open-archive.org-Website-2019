@@ -9,10 +9,14 @@ permalink: /Fall21Hiring
 
 <div style="width: 100%; text-align: left;">
   <p><b>We are excited to announce two new job openings with OpenArchive, learn more below:</b></p>
-  <p><h2>Director of Programs and Operations</h2></p>
-    <p><b>About OpenArchive:</b>
+  
+  <p><b>About OpenArchive:</b>
 <br>OpenArchive is an experienced research and development nonprofit organization dedicated to the ethical collection and long-term preservation of mobile media. We work to promote freedom of expression and privacy on the internet by creating tools, guides, and workshops to protect human rights defenders and their media. Our work centers both large human rights focused NGOs as well as activist communities, researchers, designers, developers, academic institutions, advocates, and funders to create and share best practices in order to advance secure, long-term mobile media preservation and internet freedom for marginalized and targeted communities.
   <p>We are part of a growing movement of human rights defenders working to ensure the safety of citizen reporters, NGO’s, and their community and evidentiary media. This is a great opportunity for someone who is looking for professional growth and is interested in working within a highly compassionate, technical, and hard-working human-rights-focused community in a collaborative and productive environment. To learn more about our culture at OpenArchive, we encourage you to review our <a href="https://openarchive.github.io/Code-of-Conduct/" target="_blank">Code of Conduct</a>.</p>
+  
+  <p><h1> Open Positions:</h1></p>
+  <p><h2>Director of Programs and Operations</h2></p>
+    
 <p><b>About the Director of Programs and Operations Position:</b>
 <br>OpenArchive is seeking a Director of Programs and Operations (DPO) for a full-time, 3 year contract position with area knowledge of human rights archiving. We are a small team and everyone wears many hats as we work to accomplish our goals. The DPO will be responsible for two key areas of the organization: programs and operations. 
 </p>
