@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OpenArchive is Hiring!
-description: Learn About Our Open Positions
+description: 
 image: 
 permalink: /Fall21Hiring
 ---
