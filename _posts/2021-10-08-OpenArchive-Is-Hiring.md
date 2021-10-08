@@ -67,7 +67,7 @@ permalink: /Fall21Hiring
 </p>
 
 <p><b>Working With Us:</b>
-  <p>OpenArchive aims to empower people to have more agency over the long-term preservation, privacy, management, and access to their mobile media. We are working on challenging, but compelling, problems at the crux of privacy, usability, and long-term preservation of mobile media. If you are passionate about helping people create secure, robust, personal archives to preserve mobile media, especially media made by historically marginalized communities, or are just interested in making secure archiving tools more usable, we’d love to hear from you.
+<br>OpenArchive aims to empower people to have more agency over the long-term preservation, privacy, management, and access to their mobile media. We are working on challenging, but compelling, problems at the crux of privacy, usability, and long-term preservation of mobile media. If you are passionate about helping people create secure, robust, personal archives to preserve mobile media, especially media made by historically marginalized communities, or are just interested in making secure archiving tools more usable, we’d love to hear from you.
 </p>
 
 
@@ -136,7 +136,7 @@ Open-source project methodology and collaboration experience;
 </ul>
 </p>
 <p><b>Working With Us:</b>
-  <p>OpenArchive aims to empower people to have more agency over the long-term preservation, privacy, management, and access to their mobile media. We are working on challenging, but compelling, problems at the crux of privacy, usability, and long-term preservation of mobile media. If you are passionate about helping people create secure, robust, personal archives to preserve mobile media, especially media made by historically marginalized communities, or are just interested in making secure archiving tools more usable, we’d love to hear from you.
+<br>OpenArchive aims to empower people to have more agency over the long-term preservation, privacy, management, and access to their mobile media. We are working on challenging, but compelling, problems at the crux of privacy, usability, and long-term preservation of mobile media. If you are passionate about helping people create secure, robust, personal archives to preserve mobile media, especially media made by historically marginalized communities, or are just interested in making secure archiving tools more usable, we’d love to hear from you.
 </p>
 
 <p><b>If you’d like to be a part of our team, please submit the following:</b>
