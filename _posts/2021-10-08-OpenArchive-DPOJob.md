@@ -9,7 +9,7 @@ permalink: /DPOJob
 
 <div style="width: 100%; text-align: left;">
 
-    <p><h2>Director of Programs and Operations</h2></p>
+    <p><h2>OpenArchive is hiring a Director of Programs and Operations</h2></p>
   
   <p><b>About OpenArchive:</b>
 <br>OpenArchive is an experienced research and development nonprofit organization dedicated to the ethical collection and long-term preservation of mobile media. We work to promote freedom of expression and privacy on the internet by creating tools, guides, and workshops to protect human rights defenders and their media. Our work centers both large human rights focused NGOs as well as activist communities, researchers, designers, developers, academic institutions, advocates, and funders to create and share best practices in order to advance secure, long-term mobile media preservation and internet freedom for marginalized and targeted communities.
