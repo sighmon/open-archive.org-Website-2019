@@ -12,8 +12,7 @@ permalink: /Fall21Hiring
  <p><h2><a href="https://open-archive.org/DPOJob" target="_blank">Director of Programs and Operations</a></h2></p>
  <br>OpenArchive is hiring a Director of Programs and Operations with area knowledge of human rights archiving.</p>
   
-<p><b>Technical Lead</b>
-   <p><h2><a href="https://open-archive.org/TLJob" target="_blank">Technical Lead</a></h2></p>
+ <p><h2><a href="https://open-archive.org/TLJob" target="_blank">Technical Lead</a></h2></p>
 <br>OpenArchive is hiring a Technical Lead to manage the overall technical effort, overseeing the implementation and delivery of the development process and software.
 
 
