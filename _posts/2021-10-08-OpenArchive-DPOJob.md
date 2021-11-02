@@ -94,7 +94,7 @@ permalink: /DPOJob
 <p><b>Compensation:</b>
   <br>This is a full-time, 3 year contract position with a budgeted salary of $80,000 annually plus healthcare benefits reimbursement of up to $1,000/month with a 5% cost of living increase over each year.</p>
   
-  <p>We will consider applications on a rolling basis; <b>priority consideration will be given to those who submit their applications by October 31st, 2021</b>.
+  <p>We will consider applications on a rolling basis; <b>priority consideration will be given to those who submit their applications by November 15th, 2021</b>.
   <p>Please submit your application directly to: info[at]open-archive.org</p>
   
   <p><i>OpenArchive is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</i></p>
