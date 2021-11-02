@@ -73,7 +73,7 @@ Open-source project methodology and collaboration experience;
 <p><b>Compensation:</b>
 <br>We offer a competitive non-profit rate and are open to both part-time and full-time job seekers. This position requires a 25% time commitment to non-coding management duties that include reviewing the code and running builds with the opportunity to take on development work as well.
   
-  <p>We will consider applications on a rolling basis; <b>priority consideration will be given to those who submit their applications by October 31st, 2021</b>.
+  <p>We will consider applications on a rolling basis; <b>priority consideration will be given to those who submit their applications by November 15th, 2021</b>.
   <p>Please submit your application directly to: info[at]open-archive.org</p>
   
   <p><i>OpenArchive is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</i></p>
