@@ -15,7 +15,7 @@ permalink: /TLJob
     
 <p><b>About the Technical Lead Position:</b>
 The Technical Lead manages the overall technical effort, overseeing the implementation and delivery of the development process and software. They are also responsible for key decisions on integration of the appropriate decentralized web and storage technologies into our flagship secure mobile archiving application  <a href="https://open-archive.org/save/" target="_blank"> <span class="appName">Save</span></a> app’s architecture, ensuring the integration of the software development, user experience, testing and quality assurance processes. They provide guidance and expertise as needed and requested by the rest of the Save management, community and research teams.</p>
-<p>This is a 3-year contract position that can be a part-time to full time position, depending on skills and availability. The lead may also expand their duties in the project to include direct software development on iOS, Android and server applications. They are ultimately responsible for the success, functionality, and longevity of the <span class="appName">Save</span> app, the integration with decentralized web technologies, and all of OpenArchive’s tools.</p>
+<p>This is a 3-year contract position that can be a part-time to full time position, depending on skills and availability. The lead may also expand their duties in the project to include direct software development on iOS, Android and server applications. They are ultimately responsible for the success, functionality, and longevity of the <span class="appName">Save</span> app, the integration of the app with decentralized web technologies, and all of OpenArchive’s tools.</p>
 
 <p><b>Requirements:</b>
     <ul>
