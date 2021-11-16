@@ -32,6 +32,7 @@ The Technical Lead manages the overall technical effort, overseeing the implemen
 <li> Experience working with highly-technical contractors;</li>
 <li> Familiarity with open-source principles;</li>
 <li> Experience working with highly-technical contractors;</li>
+<li>  An up-to-date computer with a minimum of 16GB of RAM and a 1 GHz processor that can run multiple programs at once;</li>
 <li> Experience working for or with a nonprofit or at-risk or marginalized community groups with sensitivities to their localized needs (i.e. understanding their threat models, securing communications, and working well with diverse cultures).</li>
 
 </ul>
@@ -56,8 +57,8 @@ The Technical Lead manages the overall technical effort, overseeing the implemen
 <li> A cover letter that explains your interest in the position and why you believe you are well-suited for the role;</li>
 <li> Two references and their contact information (email or phone);</li>
 <li> A link to an example of your relevant work that best represents the competencies outlined here. For instance, you could share a link to a project you owned or managed in the past. Please include a brief description of the work, the problem it solved, challenges and lessons learned, and how it relates to this position;</li>
-   <li> Challenges and lessons learned, and how it relates to this position; </li>
-<li> Clarification of whether you are interested in the part time Development Lead role only, or if you want to do any of the additional development work that is available at the hourly rate as well.</li>
+   <li> Challenges and lessons-learned, and how it relates to this position; </li>
+<li> Clarification of whether you are interested in the part-time Technical Lead role only, or if you want to do any of the additional development work that is available at the hourly rate as well.</li>
  
 <br>
  
@@ -65,7 +66,7 @@ The Technical Lead manages the overall technical effort, overseeing the implemen
   <br>This position reports to the Executive Director.</p>
   
   <p><b>Location:</b>
- <br> OpenArchive operates as a distributed team, with core staff based on the west and east coasts of the US, and others based in Africa, Latin America, and Europe. The position is virtual through the Covid-19 Pandemic and potentially thereafter, though time zones compatible with the US Pacific Time Zone (GMT-7) are prefered, due to location of key project staff there. You will need an up-to-date computer with a minimum of 16GB of RAM and a 1 GHz processor that can run multiple programs at once.
+ <br> OpenArchive operates as a distributed team, with core staff based on the west and east coasts of the US, and others based in Africa, Latin America, and Europe. The position is virtual through the Covid-19 Pandemic and potentially thereafter, though time zones compatible with the US Pacific Time Zone (GMT-7) are prefered, due to location of key project staff there.
 
 </p>
 
