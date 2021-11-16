@@ -15,7 +15,7 @@ permalink: /TLJob
     
 <p><b>About the Technical Lead Position:</b>
 The Technical Lead manages the overall technical effort, overseeing the implementation and delivery of the development process and software. They are also responsible for key decisions on integration of the appropriate decentralized web and storage technologies into our flagship secure mobile archiving application  <a href="https://open-archive.org/save/" target="_blank"> <span class="appName">Save</span></a> app’s architecture, ensuring the integration of the software development, user experience, testing and quality assurance processes. They provide guidance and expertise as needed and requested by the rest of the Save management, community and research teams.</p>
-<p>This is a 3-year contract position that can be a part-time to full time position, depending on skills and availability. The lead may also expand their duties in the project to include direct software development on iOS, Android and server applications. They are ultimately responsible for the success, functionality, and longevity of the <span class="appName">Save</span> app, the integration of the app with decentralized web technologies, and all of OpenArchive’s tools.</p>
+<p>This is a 3-year 25% contract position that can also incorporate added developer hours, depending on skills and availability: this would entail expanding the technical lead role to include direct software development on iOS, Android and server applications. The Technical Lead is ultimately responsible for the success, functionality, and longevity of the <span class="appName">Save</span> app, the integration of the app with decentralized web technologies, and all of OpenArchive’s tools.</p>
 
 <p><b>Requirements:</b>
     <ul>
@@ -23,11 +23,10 @@ The Technical Lead manages the overall technical effort, overseeing the implemen
 <li> Meaningful experience managing remote development teams and process;</li>
 <li> Background in mobile application development (Android, iOS);</li>
 <li> Experience with at least one primary mobile development language, Kotlin or Swift, as well as Javascript or Typescript-based cross-platform frameworks;</li>
-<li> Asynchronous, remote, multi-time zone collaboration and management skills
-Open-source project methodology and collaboration experience;
-</li>
-<li> Deep appreciation and respect for advanced security and privacy feature implementation and principles.</li>
-<li> Proven ability to not only meet deadlines yourself, but ensure that others you are managing do, too;</li>
+<li> Asynchronous, remote, multi-time zone collaboration and management skills</li>
+<li>Open-source project methodology and collaboration experience;</li>
+<li> Deep appreciation and respect for advanced security and privacy feature implementation and principles;</li>
+<li> Proven ability to not only meet deadlines yourself, but ensure that others you are managing do as well;</li>
 <li> Exceptional operational, project management, and organizational skills including experience with project management tracking software such as Airtable, Asana, GitLab / GitHub projects, etc.;</li>
 <li> Interest in working within the archival, civil society, human rights, nonprofit, foundation, or NGO sectors;</li>
 <li> Experience working with highly-technical contractors;</li>
@@ -48,13 +47,13 @@ Open-source project methodology and collaboration experience;
 </ul>
 </p>
 <p><b>Working With Us:</b>
-<br>OpenArchive aims to empower people to have more agency over the long-term preservation, privacy, management, and access to their mobile media. We are working on challenging, but compelling, problems at the crux of privacy, usability, and long-term preservation of mobile media. If you are passionate about helping people create secure, robust, personal archives to preserve mobile media, especially media made by historically marginalized communities, or are just interested in making secure archiving tools more usable, we’d love to hear from you.
+<br>OpenArchive aims to empower people to have more agency over the long-term preservation, privacy, management, and access to their mobile media. We are working on challenging, but compelling problems at the crux of privacy, usability, and long-term preservation of mobile media. If you are passionate about helping people create secure, robust, personal archives to preserve mobile media, especially media made by historically marginalized communities, or are just interested in making secure archiving tools more usable, we’d love to hear from you.
 </p>
 
 <p><b>If you’d like to be a part of our team, please submit the following:</b>
  <ul>
    <li> Your resume;</li>
-<li> A cover letter that explains your interest in the position and why you believe you are well-suited for the role;/<li>
+<li> A cover letter that explains your interest in the position and why you believe you are well-suited for the role;</li>
 <li> Two references and their contact information (email or phone);</li>
 <li> A link to an example of your relevant work that best represents the competencies outlined here. For instance, you could share a link to a project you owned or managed in the past. Please include a brief description of the work, the problem it solved, challenges and lessons learned, and how it relates to this position;</li>
    <li> Challenges and lessons learned, and how it relates to this position; </li>
