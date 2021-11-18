@@ -4,7 +4,7 @@ title: FFDW and OpenArchive Collaborate to Deploy Decentralized Archive for Huma
 description: OpenArchive receives Grant from FFDW to Help Secure, Share, and Store Critical Human Rights DataInformation on the Decentralized Web
 image: /images/ffdw-oa.png
 permalink: /FFDWGrant
-published: true
+published: false
 ---
 
 <div style="max-width: 1024px; text-align: center; margin: 0 auto;">
