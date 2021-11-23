@@ -7,7 +7,7 @@ permalink: /Fall21Hiring
 ---
 
 <div style="width: 100%; text-align: left;">
-  <p><h3><b>We are excited to announce two new job openings with OpenArchive:</b></h3></p>
+  <p><b>We are excited to announce two new job openings with OpenArchive:</b></p>
   
  <p><h2><a href="https://open-archive.org/DPOJob" target="_blank">Director of Programs and Operations</a></h2></p>
 <p>OpenArchive is hiring a Director of Programs and Operations with area knowledge of human rights archiving.</p>
