@@ -1,0 +1,218 @@
+<script>
+  function closeOverlay() {
+    var overlay = document.getElementById("overlay");
+    overlay.style.display = "none";
+  }
+</script>
+<style>
+  .cd-u-sm-11-24 {
+    display: inline-block !important;
+    width: 700px;
+    margin: 0 auto;
+  }
+  button.cd-button {
+    font-size: 14px;
+    padding: 10px;
+    word-spacing: normal !important;
+    border-radius: 500px;
+    white-space: break-spaces;
+  }
+  button.cd-button-success {
+    background-color: #00b4a6;
+  }
+  button.cd-button-success:hover {
+    background-color: #00b4a6aa;
+  }
+  p.cd-powered-by,
+  p.cd-sandbox,
+  p.cd-powered-by > a {
+    color: black;
+    margin: 0 !important;
+  }
+  form-control {
+    border: 1px solid red;
+  }
+  .cd-form h2,
+  .cd-table-fw h2 {
+    font-size: 20px;
+    font-weight: 700 !important;
+    margin-left: 4px;
+    color: black !important;
+  }
+  .cd-gift-review td,
+  .cd-table-fw td {
+    color: black !important;
+    padding: 10px;
+  }
+  .cd-float-label2 {
+    display: none;
+  }
+  .cd-float-label input {
+    color: black !important;
+  }
+  .cd-float-label label {
+    color: black !important;
+    pointer-events: none !important;
+  }
+  .cd-donation-currency-input input {
+    color: black !important;
+  }
+  .cd-donation-input-wrap {
+    border: 1px solid #ccc !important;
+  }
+  .cd-donation-currency {
+    color: black !important;
+  }
+  #cd-set-donation-amt button {
+    font-size: 16px !important;
+  }
+  #cd-set-donation-amt button:hover {
+    background-color: #00b4a6 !important;
+  }
+</style>
+
+<div
+  id="overlay"
+  style="
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.85);
+    z-index: 1000;
+  "
+>
+  <div
+    id="overlay-container"
+    style="
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      align-content: center;
+      width: 100%;
+      height: 100%;
+      z-index: 1001;
+    "
+  >
+    <div
+      id="overlay-content"
+      style="
+        max-width: 700px;
+        height: 85vh;
+        max-height: 900px;
+        overflow-x: hidden;
+        overflow-y: scroll;
+        background-color: #ddd;
+        border-radius: 10px;
+      "
+      onclick="return false;"
+    >
+      <div style="position: relative">
+        <img src={{ '/images/overlay-photo.jpeg' | prepend: site.baseurl }}
+        width="100%" style="z-index: 1001;"/>
+        <button
+          onclick="closeOverlay(); return false;"
+          style="
+            position: absolute;
+            top: 12px;
+            right: 12px;
+            background-color: #00b4a6;
+            border-radius: 500px;
+            font-size: 16px;
+            padding: 2px 15px 10px 15px;
+          "
+        >
+          Close
+        </button>
+      </div>
+      <div
+        style="
+          width: 100%;
+          background-color: #00b4a6;
+          padding: 32px;
+          margin-top: -20px;
+          z-index: 1002;
+        "
+      >
+        <h2
+          style="
+            color: black !important;
+            font-weight: bold !important;
+            line-height: 1.1;
+            letter-spacing: normal;
+          "
+        >
+          History's first responders put their lives on the line every day to
+          document injustices
+        </h2>
+        <p
+          style="
+            color: black;
+            line-height: 1.1;
+            letter-spacing: normal;
+            margin: 0;
+            padding: 0;
+          "
+        >
+          Help us protect them and their crucial documentation in a world where
+          truth is continuously under attack.
+        </p>
+        <p
+          style="
+            color: black;
+            line-height: 1.1;
+            letter-spacing: normal;
+            margin: 0;
+            margin-top: 20px;
+            padding: 0;
+          "
+        >
+          <span style="font-weight: bold; color: black; line-height: 1.1">
+            Support OpenArchive's efforts to preserve truth to power by making a
+            tax-deductible donation.</span
+          >
+          Our work is critical, ongoing and solely funded by grants and
+          individuals like you.
+        </p>
+      </div>
+      <div
+        id="CustomDonationsForm"
+        style="max-width: 700px; padding: 24px"
+      ></div>
+
+      <script>
+        var LoadCDScripts = function () {
+          var cdscript = document.createElement("script");
+          cdscript.onerror = function (e) {
+            document.head.removeChild(this);
+            setTimeout(LoadCDScripts, 1750);
+          };
+          cdscript.onload = function () {
+            CustomDonations.BuildForm({
+              account: "6177293a-c3b7-4b61-9cad-4c40e4ed7b58",
+              form: "ebe37174-7213-4cb3-995e-043de3fa75e7",
+              allocation:
+                null /* optional. Use an allocation ID, like 'AH664' (w/ quotes) to be default selected on form load */,
+              memberId:
+                null /* optional. If the current user is authenticated, you can insert their user ID, like '02943' (with quotes) */,
+              apiVersion: "v1",
+              interval:
+                null /* if null, then user must select one time or recurring (if enabled). Optionally can set to 'once', 'monthly','quarterly', or 'yearly' */,
+              loadingText: "",
+              paymentVersion: 1 /*  1: for modal payment window. 2: for inline payment with Google/Apple Pay options */,
+              baseUrl: "https://api.customdonations.com",
+              mode: "test" /* change to 'test' to run in test mode. Use card 4242 4242 4242 4242 for testing. */,
+            });
+          };
+          cdscript.src =
+            "https://api.customdonations.com/v1/js/form-builder.min.js?v=" +
+            new Date().getTime();
+          document.head.appendChild(cdscript);
+        };
+        LoadCDScripts();
+      </script>
+    </div>
+  </div>
+</div>
