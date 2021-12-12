@@ -93,19 +93,18 @@
       align-content: center;
       width: 100%;
       height: 100%;
-      z-index: 1001;
     "
   >
     <div
       id="overlay-content"
       style="
-        max-width: 700px;
-        height: 85vh;
-        max-height: 900px;
+        max-width: 500px;
+        width: 100%;
         overflow-x: hidden;
         overflow-y: scroll;
         background-color: #ddd;
         border-radius: 10px;
+        z-index: 1001;
       "
     >
       <div style="position: relative">
@@ -117,10 +116,15 @@
             position: absolute;
             top: 12px;
             right: 12px;
+            color: white;
+            height: 30px;
             background-color: #00b4a6;
             border-radius: 500px;
             font-size: 16px;
-            padding: 2px 15px 10px 15px;
+            padding: 0px 15px 0px 15px;
+            text-transform: none;
+            letter-spacing: normal;
+            line-height: 1 !important;
           "
         >
           Close
@@ -174,7 +178,27 @@
           Our work is critical, ongoing and solely funded by grants and
           individuals like you.
         </p>
+        <a
+          href="https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=MA7ZZG3DJL97E&source=url"
+          style="
+            display: block;
+            color: white;
+            background-color: #b3000f;
+            border: 2px solid white;
+            border-radius: 500px;
+            font-size: 18px;
+            font-weight: 600;
+            padding: 10px 15px 10px 15px;
+            width: 100%;
+            text-transform: uppercase;
+            margin-top: 40px;
+            text-align: center;
+            z-index: 2001;
+          "
+          >Make a Tax-Deductible Donation</a
+        >
       </div>
+      <!--
       <div
         id="CustomDonationsForm"
         style="max-width: 700px; padding: 24px"
@@ -211,6 +235,8 @@
         };
         LoadCDScripts();
       </script>
+    </div>
+  -->
     </div>
   </div>
 </div>
