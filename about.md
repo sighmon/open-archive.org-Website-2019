@@ -32,15 +32,14 @@ permalink: /about/
   </div>
 
 <h2 style="text-align: left;">Support</h2>
-<h3 style="text-align: left;">Our work is made possible through the generous support of these foundations:</h3>
+<h2 style="text-align: left;">Our work is made possible through the generous support of these foundations:</h2>
+
 <p><img src="{{ '/images/Logo_FFDW.jpeg' | prepend: site.baseurl }}" alt="FFDW" />
- <br>
 <br><a href="https://ffdweb.org/" target="_blank">Filecoin Foundation For the Distributed Web</a> currently supports our expansion, community partnerships, and decentralization of our work.</p>
 <p><img src="{{ '/images/Logo_OTF.jpeg' | prepend: site.baseurl }}" alt="OTF" />
- <br>
 <br><a href="https://www.opentech.fund/" target="_blank">The Open Technology Fund</a>, supported the expansion, infrastructure, and decentralization of OpenArchive.</p>
 <p><img src="{{ '/images/Logo_Knight.jpeg' | prepend: site.baseurl }}" alt="Knight Foundation" />
-<br>OpenArchive received support from the <a href="https://knightfoundation.org/prototype/" target="_blank">Knight Prototype Fund</a>.</p>
+<br>The <a href="https://knightfoundation.org/prototype/" target="_blank">Knight Prototype Fund</a> supported the first iteration of our mobile application.</p>
 <p class="textTeal"><i>We are currently seeking funding to help us sustain OpenArchive, develop new and refine current features, and to sustain our grassroots research efforts.
   <br>
   <br>If you would like to support us, you can make a <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MA7ZZG3DJL97E&source=url">tax-deductible donation</a> or contact us directly <a href="/contact">here</a>. We'd love to hear from you.</i></p>
