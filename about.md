@@ -35,7 +35,7 @@ permalink: /about/
 <h3 style="text-align: left;">Our work is made possible through the generous support of these foundations:</h3>
 <p><img src="{{ '/images/Logo_FFDW.jpeg' | prepend: site.baseurl }}" alt="FFDW" />
  <br>
-<br><a href="https://ffdweb.org/" target="_blank">Filecoin Foundation For the Distributed Web</a> currently support our expansion, community partnerships, and decentralization of our work.</p>
+<br><a href="https://ffdweb.org/" target="_blank">Filecoin Foundation For the Distributed Web</a> currently supports our expansion, community partnerships, and decentralization of our work.</p>
 <p><img src="{{ '/images/Logo_OTF.jpeg' | prepend: site.baseurl }}" alt="OTF" />
  <br>
 <br><a href="https://www.opentech.fund/" target="_blank">The Open Technology Fund</a>, supported the expansion, infrastructure, and decentralization of OpenArchive.</p>
