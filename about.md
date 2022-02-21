@@ -32,7 +32,6 @@ permalink: /about/
   </div>
 
 <h2 style="text-align: left;">Support</h2>
-<h2 style="text-align: left;">Our work is made possible through the generous support of these foundations:</h2>
 
 <p><img src="{{ '/images/Logo_FFDW.jpeg' | prepend: site.baseurl }}" alt="FFDW" />
 <br><a href="https://ffdweb.org/" target="_blank">Filecoin Foundation For the Distributed Web</a> currently supports our expansion, community partnerships, and decentralization of our work.</p>
