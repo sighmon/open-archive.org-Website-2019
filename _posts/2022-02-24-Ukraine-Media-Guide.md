@@ -7,9 +7,7 @@ permalink: /UkraineMediaGuide
 published: true
 ---
 
-<div style="max-width: 1024px; text-align: center; margin: 0 auto;">
-<img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine1.png"/>
-</div>
+<div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine1.png"/></div>
 <p><i>Disclaimer: This post was posted on Thursday, Feb. 24. We recognize that this is a continuously evolving situation and that the content of this article may not be up to date.</i></p>
 
 It seems every few minutes there is yet another news alert or push notification about Russia’s attack on Ukraine. Hundreds of thousands of troops are closing in on Ukraine, with explosions reported in Kyiv and other cities. The multi-pronged assault is an act of military aggression that hasn’t been seen in Europe in decades. 
@@ -21,29 +19,36 @@ We spoke to Eastern Europe editor for Global Voices <a href="https://globalvoice
 
 <b>Here are some tools to help you look beyond the headlines: </b>
 
-<div style="max-width: 800px; border: 2px solid black; box-sizing: border-box; margin: 0 auto; margin-bottom: 30px;">
-<div style="border-left: 40px solid #00B4A6; border-right: 40px solid #00B4A6;  padding: 80px 20px;">
-<div style="margin: 0 auto; text-align: center;"><img src="/images/Ukraine2.png" style="width: 100px;" /></div><p style="font-size: 18px;">Through this collaboration, we are receiving a grant from FFDW to expand our <b>global partnerships with human rights defenders</b> and join the growing movement to create and utilize a <b>more ethical, decentralized internet.</b></p></div></div>
+<div style="max-width: 1024px; margin: 0 auto; text-align: center;"><img src="/images/Ukraine2.png" /></div>
 
-<p><h2>Understand The Historical Context First</h2></p>
+<p style="font-size: 18px;">Through this collaboration, we are receiving a grant from FFDW to expand our <b>global partnerships with human rights defenders</b> and join the growing movement to create and utilize a <b>more ethical, decentralized internet.</b></p>
+
+<h2>Understand The Historical Context First</h2>
 
 Like any global conflict, the tension between Russia and Ukraine did not happen overnight.
+
 “Don't just think of it as a board game where things are moving every day on the chessboard,” Lokot said. “It's not really just about how many thousands of troops are at the border, but it's trying to understand well, where does this all come from?”
 
 Ukraine was part of – or occupied, depending on who is telling the story – by the Russian Empire and later by the Soviet Union for centuries before regaining independence in 1991 following the collapse of the USSR. There have been tensions between Ukraine’s old ties with Russia and its allegiances with the West ever since. 
+
+<div style="max-width: 1024px; margin: 0 auto; text-align: center;"><img src="/images/Ukraine3.png" /></div>
+
 In 2014, Ukrainians took to the streets and toppled pro-Russian president Viktor Yanukovych, demanding their independence and sovereignty. The Russian government meanwhile has consistently held the position that Ukraine is part of Russia. In 2014, Russian troops invaded Donbas and annexed Crimea, the biggest land grab in Europe since World War II.  
 
-  Today we see the escalation of war and the threat of further invasion of Ukraine.
+Today we see the escalation of war and the threat of further invasion of Ukraine.
 While Ukraine is the subject of the conversation, its people aren’t often centered in media reporting, which instead focuses on geopolitics between Russia and the U.S. and other Western European countries.  
 
-  “Ukraine is a country that has fought for recognition as a state for many, many years. And it's always been kind of smooshed in between these various imperial powers,” Lokot said. 
+“Ukraine is a country that has fought for recognition as a state for many, many years. And it's always been kind of smooshed in between these various imperial powers,” Lokot said. 
+
 Lokot suggests people listen to more Ukrainian voices and sources when trying to understand the issue. 
 
-“Understand why Ukrainians are so upset about somebody else trying to make decisions for them and why are they also upset when it's being framed as a conflict between Russia and NATO or Russia and the West? It's like, well, what about us?”</p>
-<p>For more historical context, Lokot suggests checking out the <a href="https://huri.harvard.edu/" target="_blank">Ukrainian Research Institute at Harvard University</a>, which has online resources and guides on the relationship between Russian and Ukraine. <a href="https://www.chathamhouse.org/about-us/our-departments/russia-and-eurasia-programme/ukraine-forum" target="_blank">The Ukraine Forum at the Chatham House</a> also offers helpful insight on the political dynamics of Ukraine.
+“Understand why Ukrainians are so upset about somebody else trying to make decisions for them and why are they also upset when it's being framed as a conflict between Russia and NATO or Russia and the West? It's like, well, what about us?”
 
-  <p><h2>What To Consider When Reading U.S. and Other Foreign Media</h2></p>
- American journalists have been put into the awkward position of trying to explain the United States’ role in Ukraine while contending with the country’s dark past in getting involved in other global conflicts.  “I think this colors both what U.S. officials say and how they say it and also how the U.S. media is reporting it,” Lokot said.
+For more historical context, Lokot suggests checking out the <a href="https://huri.harvard.edu/" target="_blank">Ukrainian Research Institute at Harvard University</a>, which has online resources and guides on the relationship between Russian and Ukraine. <a href="https://www.chathamhouse.org/about-us/our-departments/russia-and-eurasia-programme/ukraine-forum" target="_blank">The Ukraine Forum at the Chatham House</a> also offers helpful insight on the political dynamics of Ukraine.
+
+<h2>What To Consider When Reading U.S. and Other Foreign Media</h2>
+
+American journalists have been put into the awkward position of trying to explain the United States’ role in Ukraine while contending with the country’s dark past in getting involved in other global conflicts.  “I think this colors both what U.S. officials say and how they say it and also how the U.S. media is reporting it,” Lokot said.
 
 In Afghanistan, the U.S. showed itself to be inept at combating corruption and insurgency. President Joe Biden’s perceived diplomatic failure in Afghanistan after pulling out the rest of the American troops now <a href="https://www.nbcnews.com/politics/white-house/afghanistan-hovers-bidens-strategy-ukraine-rcna16403" target="_blank">hovers over the media coverage in Ukraine</a> as well.
 
@@ -52,10 +57,13 @@ Western, particularly U.S. media, coverage of the conflict has been widely criti
 The constant flow of unverified and misleading information has made reporting the truth difficult for journalists. The Russian government especially has a track record of using social media to spread misinformation.
 
 There are language and cultural barriers as well, Lokot said, citing the example of when Ukraine President Volodymyr <a href="https://www.vox.com/2022/2/14/22933850/ukraine-war-february-16-zelensky-prediction-jokeZelensky" target="_blank"> cracked a joke about the date of the invasion</a> and Western media reported it as fact.
-  <p><span class="appName">Russian coverage of the aggression</span></p>
-  <p>Meanwhile, the Russian state media tactics are aimed at popularizing the idea that Ukraine should be under Russia’s control anyway, and that Russia’s current aggression is just a pretext to circulate this idea, Lokot said.</p>
+
+<p><span class="appName">Russian coverage of the aggression</span></p>
+
+Meanwhile, the Russian state media tactics are aimed at popularizing the idea that Ukraine should be under Russia’s control anyway, and that Russia’s current aggression is just a pretext to circulate this idea, Lokot said.
   
-<p>Even though Ukraine isn’t part of NATO, U.S. funding and support have played a significant role in Ukraine’s current form of government, but this same fact is used by Putin to discredit Ukraine as a true democracy, she added. </p>
+Even though Ukraine isn’t part of NATO, U.S. funding and support have played a significant role in Ukraine’s current form of government, but this same fact is used by Putin to discredit Ukraine as a true democracy, she added.
+
 <p>But messaging on the Russian side of things has also been mixed. In the past few weeks, “they've been gleeful at U.S. predictions (of an invasion) not coming true, but also saying that Russia can indeed invade any day and possibly should,” she said. Now that Russia has declared Donetsk and Luhansk “independent regions” and have moved into Donbas, we’re seeing Putin’s flirtation with invasion becoming reality. Russia has now launched attacks on Ukraine on multiple fronts in multiple cities, including Kyiv. The broad offensive has already killed dozens. 
 </p>
 <p><h2>Pause Before You Share</h2></p>
@@ -68,6 +76,8 @@ There are language and cultural barriers as well, Lokot said, citing the example
   <p>“If I see a name that's unfamiliar to me, who is trying to be an authority on something, at the very least, I go and see who this person is and what their affiliation is,” Lokot said. 
   </p>
   <p><h2>Still Stumped? Here Are Some Sources to Follow:</h2></p>
+  
+  <div style="max-width: 1024px; margin: 0 auto; text-align: center;"><img src="/images/Ukraine4.png" /></div>
   <p>Ukrainian voices are often missing in news stories about their own country.  We’ve compiled a list of activists, journalists and experts either based in Ukraine, or with extensive knowledge of the conflict. </p>
  <br> <p><span class="appName">Journalists, experts & activists based in Ukraine:</span>
   </p>
