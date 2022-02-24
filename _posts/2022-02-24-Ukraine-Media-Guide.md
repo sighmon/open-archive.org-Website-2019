@@ -90,7 +90,7 @@ Even though Ukraine isn’t part of NATO, U.S. funding and support have played a
  
  <a href="https://twitter.com/DKaleniuk" target="_blank">Daria Kaleniuk</a>
  
- <a href="https://twitter.com/nolanwpeterson" target="_blank">Nolan Peterson/</a>
+ <a href="https://twitter.com/nolanwpeterson" target="_blank">Nolan Peterson</a>
  
  <a href="https://twitter.com/gullivercragg" target="_blank">Gulliver Cragg</a>
  
