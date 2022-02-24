@@ -17,7 +17,7 @@ It seems every few minutes there is yet another news alert or push notification 
 Ukraine once again is pushed into the spotlight of imperial interests and debate. 
 So how did we get here? The history is complex, and not easy to fit into a headline or Tweet, so navigating the news and updates surrounding Ukraine can be a challenge for those who aren’t already invested. 
 
-We spoke to Eastern Europe editor for Global Voices (embed https://globalvoices.org/) Dr. Tanya Lokot on how to read the news around the conflict. Lokot, who is Ukrainian herself, has been a Global Voices contributor since 2013. Lokot’s research predominantly focuses on the role of digital media in post-Soviet Europe. 
+We spoke to Eastern Europe editor for Global Voices <a href="https://globalvoices.org/author/tetyana-lokot/" target="_blank">Dr. Tanya Lokot</a> on how to read the news around the conflict. Lokot, who is Ukrainian herself, has been a Global Voices contributor since 2013. Lokot’s research predominantly focuses on the role of digital media in post-Soviet Europe. 
 
 Here are some tools to help you look beyond the headlines. 
 </p>
