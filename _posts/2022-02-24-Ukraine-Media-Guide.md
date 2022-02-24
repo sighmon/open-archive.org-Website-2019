@@ -28,7 +28,7 @@ Like any global conflict, the tension between Russia and Ukraine did not happen 
 
 “Don't just think of it as a board game where things are moving every day on the chessboard,” Lokot said. “It's not really just about how many thousands of troops are at the border, but it's trying to understand well, where does this all come from?”
 
-Ukraine was part of – or occupied, depending on who is telling the story – by the Russian Empire and later by the Soviet Union for centuries before regaining independence in 1991 following the collapse of the USSR. There have been tensions between Ukraine’s old ties with Russia and its allegiances with the West ever since. 
+Ukraine was part of – or occupied by, depending on who is telling the story – the Russian Empire and later by the Soviet Union for centuries before regaining independence in 1991 following the collapse of the USSR. There have been tensions between Ukraine’s old ties with Russia and its allegiances with the West ever since. 
 
 <div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine3.png"/></div>
 
