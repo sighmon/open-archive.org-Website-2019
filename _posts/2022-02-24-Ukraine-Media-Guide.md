@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Filtering out the noise - Navigating the news around Russia’s attack on Ukraine
-description: Tools to help you look beyond the headlines
+description: Tools to help you look beyond the headlines, By Kelcie Grega and Viktoriia Savchuk
 image: /images/Ukraine1.png
 permalink: /UkraineMediaGuide
 published: true
