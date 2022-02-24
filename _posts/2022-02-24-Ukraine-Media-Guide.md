@@ -19,7 +19,7 @@ So how did we get here? The history is complex, and not easy to fit into a headl
 
 We spoke to Eastern Europe editor for Global Voices <a href="https://globalvoices.org/author/tetyana-lokot/" target="_blank">Dr. Tanya Lokot</a> on how to read the news around the conflict. Lokot, who is Ukrainian herself, has been a Global Voices contributor since 2013. Lokot’s research predominantly focuses on the role of digital media in post-Soviet Europe. 
 
-<b>Here are some tools to help you look beyond the headlines: <b>
+<b>Here are some tools to help you look beyond the headlines: </b>
 
 <div style="max-width: 800px; border: 2px solid black; box-sizing: border-box; margin: 0 auto; margin-bottom: 30px;">
 <div style="border-left: 40px solid #00B4A6; border-right: 40px solid #00B4A6;  padding: 80px 20px;">
