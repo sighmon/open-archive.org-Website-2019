@@ -19,7 +19,7 @@ We spoke to Eastern Europe editor for Global Voices <a href="https://globalvoice
 
 <b>Here are some tools to help you look beyond the headlines: </b>
 
-<div style="max-width: 1024px; margin: 0 auto; text-align: center;"><img src="/images/Ukraine2.png" /></div>
+<div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine2.png"/></div>
 
 <p style="font-size: 18px;">Through this collaboration, we are receiving a grant from FFDW to expand our <b>global partnerships with human rights defenders</b> and join the growing movement to create and utilize a <b>more ethical, decentralized internet.</b></p>
 
@@ -31,7 +31,7 @@ Like any global conflict, the tension between Russia and Ukraine did not happen 
 
 Ukraine was part of – or occupied, depending on who is telling the story – by the Russian Empire and later by the Soviet Union for centuries before regaining independence in 1991 following the collapse of the USSR. There have been tensions between Ukraine’s old ties with Russia and its allegiances with the West ever since. 
 
-<div style="max-width: 1024px; margin: 0 auto; text-align: center;"><img src="/images/Ukraine3.png" /></div>
+<div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine3.png"/></div>
 
 In 2014, Ukrainians took to the streets and toppled pro-Russian president Viktor Yanukovych, demanding their independence and sovereignty. The Russian government meanwhile has consistently held the position that Ukraine is part of Russia. In 2014, Russian troops invaded Donbas and annexed Crimea, the biggest land grab in Europe since World War II.  
 
@@ -77,7 +77,7 @@ Even though Ukraine isn’t part of NATO, U.S. funding and support have played a
   </p>
   <p><h2>Still Stumped? Here Are Some Sources to Follow:</h2></p>
   
-  <div style="max-width: 1024px; margin: 0 auto; text-align: center;"><img src="/images/Ukraine4.png" /></div>
+<div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine4.png"/></div>
   <p>Ukrainian voices are often missing in news stories about their own country.  We’ve compiled a list of activists, journalists and experts either based in Ukraine, or with extensive knowledge of the conflict. </p>
  <br> <p><span class="appName">Journalists, experts & activists based in Ukraine:</span>
   </p>
