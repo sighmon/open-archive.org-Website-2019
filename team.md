@@ -32,7 +32,7 @@ She holds a Masters of Public Administration from the University of Pennsylvania
 <br>
   <i>Program and Editorial Manager</i>
   <br>
-<p>Kelcie is a recovering journalist who strives to help improve media literacy within a digital landscape rife with false and misleading information. She passionate about working at the intersection of privacy, verification, decentralization, and evidentiary media. She got her start as a fact-checker at the Arizona Republic, where she debunked false statements mentioned by public figures. She also spent time at the Las Vegas Sun about environmental issues, social justice and the brothel/sex work industry.</p>
+<p>Kelcie is a recovering journalist who strives to help improve media literacy within a digital landscape rife with false and misleading information. She's passionate about working at the intersection of privacy, verification, decentralization, and evidentiary media. She got her start as a fact-checker at the Arizona Republic, where she debunked false statements mentioned by public figures. She also spent time at the Las Vegas Sun about environmental issues, social justice and the brothel/sex work industry.</p>
 
 <p><b>Viktoriia Savchuk</b>
 <br>
