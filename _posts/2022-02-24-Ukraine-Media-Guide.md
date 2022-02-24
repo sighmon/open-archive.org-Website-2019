@@ -79,7 +79,7 @@ Even though Ukraine isn’t part of NATO, U.S. funding and support have played a
 <div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine4.png"/></div>
   <p>Ukrainian voices are often missing in news stories about their own country.  We’ve compiled a list of activists, journalists and experts either based in Ukraine, or with extensive knowledge of the conflict. </p>
  <br><span class="appName">Journalists, experts & activists based in Ukraine:</span>
-  </p>
+  
  <a href="https://twitter.com/OlgaTokariuk" target="_blank">Olga Tokariuk</a>
  
  <a href="https://twitter.com/NikaMelkozerova" target="_blank">Nika Melkozerova</a>
@@ -144,10 +144,10 @@ Even though Ukraine isn’t part of NATO, U.S. funding and support have played a
 
 <a href="https://twitter.com/timothydsnyder" target="_blank"> Timothy Snyder </a>
   
- <br><span class="appName">Ukrainian Media:</span></p>
+ <br><span class="appName">Ukrainian Media:</span>
  
   <p> <a href="https://kyivindependent.com/" target="_blank">The Kyiv Independent</a>,<a href="https://twitter.com/KyivIndependent" target="_blank"> Twitter</a>
 <p><a href="https://english.nv.ua/" target="_blank">The New Voice of Ukraine</a>, <a href="https://twitter.com/NewVoiceUkraine" target="_blank"> Twitter</a>
   <p><a href="https://ukraineworld.org/" target="_blank">Ukraine World</a>, <a href="https://twitter.com/Ukraine_World" target="_blank"> Twitter</a>
 <p><a href="http://bunews.com.ua/" target="_blank">Business Ukraine Mag</a>, <a href="https://twitter.com/Biz_Ukraine_Mag" target="_blank"> Twitter</a>
-  <p><a href="https://english.nv.ua/" target="_blank"> Hromadske Int. </a>, <a href="https://twitter.com/Hromadske" target="_blank"> Twitter</a>T
+  <p><a href="https://english.nv.ua/" target="_blank"> Hromadske Int. </a>, <a href="https://twitter.com/Hromadske" target="_blank"> Twitter</a>
