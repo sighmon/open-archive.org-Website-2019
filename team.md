@@ -17,7 +17,7 @@ permalink: /team/
   <i>Lead Developer</i>
   <p>Nathan is the Executive Director of <a href="https://guardianproject.info" target="_blank">Guardian Project</a> and a Research Fellow at the Berkman Klein Center.</p>
   </p>
-  <br>
+  
 <p><b>Alex Esenler</b>
 <br>
   <i>Director of Programs and Operations</i>
@@ -33,29 +33,26 @@ She holds a Masters of Public Administration from the University of Pennsylvania
   <i>Program and Editorial Manager</i>
   <br>
 <p>Kelcie is a recovering journalist who strives to help improve media literacy within a digital landscape rife with false and misleading information. She passionate about working at the intersection of privacy, verification, decentralization, and evidentiary media. She got her start as a fact-checker at the Arizona Republic, where she debunked false statements mentioned by public figures. She also spent time at the Las Vegas Sun about environmental issues, social justice and the brothel/sex work industry.</p>
-<br>
+
 <p><b>Viktoriia Savchuk</b>
 <br>
   <i>Director of Communications</i>
   <br>
 <p>Viktoriia is a communication specialist with more than six years of experience working with non-profit organizations globally. She served as a freelance consultant with international organizations like Internews and UNICEF and cooperated with various open-source projects helping them communicate with the public effectively. While working in Ukraine, she also implemented successful campaigns advocating for anti-corruption and health care reforms. Viktoriia earned her master's degree from Ohio University as a Fulbright grantee and is currently pursuing her doctoral degree in communication at the University of Maryland. She is interested in the role of media and technology in modern democracies and the interlinkage between digital media, political communication, and activism.</p>
 
-<br>
-
-  <p><b>Benjamin Erhart</b>
+<p><b>Benjamin Erhart</b>
   <br>
    <i>Programmer</i>
 <br>
   <p>Benjamin fell in love with computers when he was a teenager and still is today after over 20 years. His passion is to create tangible software for end users, breathing life into designer's visions. He’s happiest when some healthy technical challenges and a higher purpose are stirred into the mix. Currently, he feels most at home developing mobile platforms, but has a long history in web tech, and a knack for security-related topics, which makes him well-suited for this era.
 He is self-employed and works out of his office in Salzburg, Austria. Find him <a href="https://die.netzarchitekten.com/" target="_blank">here</a>.</p>
-  <br>
-  <p><b>OKthanks</b>
+
+<p><b>OKthanks</b>
   <br>
    <i>User Experience Design</i>
 <br>
   <p>Okthanks works closely with communities and developers to bring privacy-enhancing technologies to everyday people. A user experience design team, they are passionate about making things simple to use and understand. Carrie Winfrey, Tiffany Robertson and Kaci Bartlett work from their cozy office in Lubbock, Texas. Learn more at <a href="https://okthanks.com" target="_blank">Okthanks</a>.</p>
-  <br>
-
+<br>
 <a id="our-advisors"></a>
 <h2 style="text-align: center;">Advisors</h2>
   <p><b>Harlo Holmes</b>
