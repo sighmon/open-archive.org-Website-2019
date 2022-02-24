@@ -78,76 +78,48 @@ Even though Ukraine isn’t part of NATO, U.S. funding and support have played a
   
 <div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine4.png"/></div>
   <p>Ukrainian voices are often missing in news stories about their own country.  We’ve compiled a list of activists, journalists and experts either based in Ukraine, or with extensive knowledge of the conflict. </p>
- <br><span class="appName">Journalists, experts & activists based in Ukraine:</span>
+ 
+ <p><span class="appName">Journalists, experts & activists based in Ukraine:</span></p>
   
- <a href="https://twitter.com/OlgaTokariuk" target="_blank">Olga Tokariuk</a>
- 
- <a href="https://twitter.com/NikaMelkozerova" target="_blank">Nika Melkozerova</a>
- 
- <a href="https://twitter.com/OlenaHalushka" target="_blank">Olena Halushka</a>
- 
- <a href="https://twitter.com/IAPonomarenko" target="_blank">Illia Ponomarenko</a>
- 
- <a href="https://twitter.com/DKaleniuk" target="_blank">Daria Kaleniuk</a>
- 
- <a href="https://twitter.com/nolanwpeterson" target="_blank">Nolan Peterson</a>
- 
- <a href="https://twitter.com/gullivercragg" target="_blank">Gulliver Cragg</a>
- 
- <a href="https://twitter.com/Euan_MacDonald" target="_blank">Euan MacDonald</a>
- 
- <a href="https://twitter.com/Olya_Rudenko" target="_blank">Olga Rudenko</a>
- 
- <a href="https://twitter.com/myroslavapetsa" target="_blank">Myroslava Petsa</a>
- 
- <a href="https://twitter.com/PaulNiland" target="_blank">Paul Niland</a>
- 
- <a href="https://twitter.com/mattia_n" target="_blank">Mattia Nelles</a>
- 
- <a href="https://twitter.com/OPokalchuk" target="_blank">Oksana Pokalchuk</a>
- 
- <a href="https://twitter.com/Matthew_Kupfer" target="_blank">Matthew Kupfer</a>
- 
- <a href="https://twitter.com/gkates" target="_blank">Glenn Kates</a>
- 
- <a href="https://twitter.com/MGongadze" target="_blank">Myroslava Gongadze</a>
- 
- <a href="https://twitter.com/ngumenyuk" target="_blank">Nataliya Gumenyuk</a>
- 
- <a href="https://twitter.com/IKoshiw" target="_blank">Isobel Koshiw</a>
- 
- <a href="https://twitter.com/TanyaKozyreva" target="_blank">Tanya Kozyreva</a>
- 
- <a href="https://twitter.com/TaniaKozak" target="_blank">Tanya Kozak</a>
- 
- <a href="https://twitter.com/lapatina_" target="_blank"> Anastasiia Lapatina</a>
- 
+ <a href="https://twitter.com/OlgaTokariuk" target="_blank">Olga Tokariuk</a>\
+ <a href="https://twitter.com/NikaMelkozerova" target="_blank">Nika Melkozerova</a>\
+ <a href="https://twitter.com/OlenaHalushka" target="_blank">Olena Halushka</a>\
+ <a href="https://twitter.com/IAPonomarenko" target="_blank">Illia Ponomarenko</a>\
+ <a href="https://twitter.com/DKaleniuk" target="_blank">Daria Kaleniuk</a>\
+ <a href="https://twitter.com/nolanwpeterson" target="_blank">Nolan Peterson</a>\
+ <a href="https://twitter.com/gullivercragg" target="_blank">Gulliver Cragg</a>\
+ <a href="https://twitter.com/Euan_MacDonald" target="_blank">Euan MacDonald</a>\
+ <a href="https://twitter.com/Olya_Rudenko" target="_blank">Olga Rudenko</a>\
+ <a href="https://twitter.com/myroslavapetsa" target="_blank">Myroslava Petsa</a>\
+ <a href="https://twitter.com/PaulNiland" target="_blank">Paul Niland</a>\
+ <a href="https://twitter.com/mattia_n" target="_blank">Mattia Nelles</a>\
+ <a href="https://twitter.com/OPokalchuk" target="_blank">Oksana Pokalchuk</a>\
+ <a href="https://twitter.com/Matthew_Kupfer" target="_blank">Matthew Kupfer</a>\
+ <a href="https://twitter.com/gkates" target="_blank">Glenn Kates</a>\
+ <a href="https://twitter.com/MGongadze" target="_blank">Myroslava Gongadze</a>\
+ <a href="https://twitter.com/ngumenyuk" target="_blank">Nataliya Gumenyuk</a>\
+ <a href="https://twitter.com/IKoshiw" target="_blank">Isobel Koshiw</a>\
+ <a href="https://twitter.com/TanyaKozyreva" target="_blank">Tanya Kozyreva</a>\
+ <a href="https://twitter.com/TaniaKozak" target="_blank">Tanya Kozak</a>\
+ <a href="https://twitter.com/lapatina_" target="_blank"> Anastasiia Lapatina</a>\
  <a href="https://twitter.com/yermolenko_v" target="_blank">Volodymyr Yermolenko</a>
  
-  <br><p>span class="appName">Journalists, experts & activists with expertise on Ukraine based elsewhere:</span>
-  </p>
-  <a href="https://twitter.com/TanyaLokot" target="_blank">Tanya Lokot</a>
+  <p><span class="appName">Journalists, experts & activists with expertise on Ukraine based elsewhere:</span></p>
   
-   <a href="https://twitter.com/emm_mateo" target="_blank"> Emma Mateo</a>
-   
-<a href="https://twitter.com/OOnuch" target="_blank">Dr. Olga Onuch</a>
-
-<a href="https://twitter.com/SPlokhy" target="_blank"> Serhii Plokhy</a>
-   
-<a href="https://twitter.com/olgarithmic" target="_blank"> Olga Boichak</a>
-
-<a href="https://twitter.com/wiczipedia" target="_blank"> Nina Jankowicz</a>
-
-<a href="https://twitter.com/OxanaShevel" target="_blank"> Oxana Shevel</a>
+  <a href="https://twitter.com/TanyaLokot" target="_blank">Tanya Lokot</a>\
+  <a href="https://twitter.com/emm_mateo" target="_blank">Emma Mateo</a>\
+  <a href="https://twitter.com/OOnuch" target="_blank">Dr. Olga Onuch</a>\
+  <a href="https://twitter.com/SPlokhy" target="_blank">Serhii Plokhy</a>\
+  <a href="https://twitter.com/olgarithmic" target="_blank">Olga Boichak</a>\
+  <a href="https://twitter.com/wiczipedia" target="_blank">Nina Jankowicz</a>\
+  <a href="https://twitter.com/OxanaShevel" target="_blank">Oxana Shevel</a>\
+  <a href="https://twitter.com/PopovaProf" target="_blank">Maria Popova</a>\
+  <a href="https://twitter.com/timothydsnyder" target="_blank">Timothy Snyder</a>
   
-<a href="https://twitter.com/PopovaProf" target="_blank"> Maria Popova </a>
-
-<a href="https://twitter.com/timothydsnyder" target="_blank"> Timothy Snyder </a>
-  
- <br><span class="appName">Ukrainian Media:</span>
+  <p><span class="appName">Ukrainian Media:</span></p>
  
-  <p> <a href="https://kyivindependent.com/" target="_blank">The Kyiv Independent</a>,<a href="https://twitter.com/KyivIndependent" target="_blank"> Twitter</a>
-<p><a href="https://english.nv.ua/" target="_blank">The New Voice of Ukraine</a>, <a href="https://twitter.com/NewVoiceUkraine" target="_blank"> Twitter</a>
-  <p><a href="https://ukraineworld.org/" target="_blank">Ukraine World</a>, <a href="https://twitter.com/Ukraine_World" target="_blank"> Twitter</a>
-<p><a href="http://bunews.com.ua/" target="_blank">Business Ukraine Mag</a>, <a href="https://twitter.com/Biz_Ukraine_Mag" target="_blank"> Twitter</a>
-  <p><a href="https://english.nv.ua/" target="_blank"> Hromadske Int. </a>, <a href="https://twitter.com/Hromadske" target="_blank"> Twitter</a>
+  <a href="https://kyivindependent.com/" target="_blank">The Kyiv Independent</a>, <a href="https://twitter.com/KyivIndependent" target="_blank">Twitter<a>\
+  <a href="https://english.nv.ua/" target="_blank">The New Voice of Ukraine</a>, <a href="https://twitter.com/NewVoiceUkraine" target="_blank">Twitter</a>\
+  <a href="https://ukraineworld.org/" target="_blank">Ukraine World</a>, <a href="https://twitter.com/Ukraine_World" target="_blank">Twitter</a>\
+  <a href="http://bunews.com.ua/" target="_blank">Business Ukraine Mag</a>, <a href="https://twitter.com/Biz_Ukraine_Mag" target="_blank">Twitter</a>\
+  <a href="https://english.nv.ua/" target="_blank"> Hromadske Int. </a>, <a href="https://twitter.com/Hromadske" target="_blank">Twitter</a>
