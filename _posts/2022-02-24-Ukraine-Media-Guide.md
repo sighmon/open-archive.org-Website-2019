@@ -3,7 +3,7 @@ layout: page
 title: Filtering out the noise: Navigating the news around Russia’s attack on Ukraine
 description: Tools to help you look beyond the headlines. 
 image: /images/ffdw-oa.png
-permalink: /FFDWGrant
+permalink: /UkraineMediaGuide
 published: true
 ---
 
@@ -114,39 +114,3 @@ Lokot suggests people listen to more Ukrainian voices and sources when trying to
   <p><a href="https://english.nv.ua/ target="_blank"> Hromadske Int. </a>, Twitter: @Hromadske
  
 
-
- 
-
-  
-  
-  
-  
-  
-  
-<div style="position: relative; max-width: 800px; border: 40px solid #00B4A6; padding: 80px 20px 40px 20px; margin: 0 auto; margin-bottom: 30px;"><div style="font-size: 200px; position: absolute; top: 35px; left: 0px; color: #333333; font-family: Trebuchet MS; font-weight: bold;">“</div><div style="font-size: 200px; position: absolute; bottom: -55px; right: 0px; color: #333333; font-family: Trebuchet MS; font-weight: bold;">”</div>
-<b><p style="font-size: 18px;">Every day, witnesses and citizen reporters bravely capture breaking world events–and all too often human rights violations–on their phones. At OpenArchive, we work to enable them to securely share, verify, and preserve this crucial media to ultimately bring accountability and justice.</p>
-
-<p style="font-size: 18px;">We’re thrilled to work with FFDW to build the web we want by implementing and deploying decentralized technology to empower witnesses to protect and preserve truth to power.</p></b>
-
-<p><b>Natalie Cadranel</b><br>
-Founder and Executive Director of OpenArchive
-</p>
-</div>
-<p>
-Save is a secure archiving app that helps people share, archive, verify, and and encrypt their mobile media. They can do so by securely uploading it, keeping it safe and organized for the long-term, and capturing crucial metadata to further authenticate it. With support from FFDW, we are enhancing our existing archival tools to support decentralized storage solutions through Save. This work will ensure that everyone will have long-term access to secure and resilient decentralized storage to protect and preserve humanity’s most important information.
-</p>
-<p>
-Additionally, as part of the grant, we will embark on a campaign to educate people and organizations around the world about the benefits of adopting decentralized storage protocols by equipping them with tools and educational resources. Our work will also focus on empowering at-risk communities to move away from the single-point-of-failure infrastructure that they rely on today.
-</p>
-<div style="position: relative; max-width: 800px; border: 40px solid #333333; padding: 80px 20px 60px 20px; margin: 0 auto; margin-bottom: 30px;"><div style="font-size: 200px; position: absolute; top: 35px; left: 0px; color: #00B4A6; font-family: Trebuchet MS; font-weight: bold;">“</div><div style="font-size: 200px; position: absolute; bottom: -55px; right: 0px; color: #00B4A6; font-family: Trebuchet MS; font-weight: bold;">”</div>
-<b><p style="font-size: 18px;">
-Our mission is to permanently preserve humanity’s most important information. We are proud to support OpenArchive’s work to preserve critical human rights data using the decentralized web.
-</p></b>
-<p><b>Marta Belcher</b><br>
-Board chair of the Filecoin Foundation for the Decentralized Web
-</p>
-</div>
-
-<p>
-Learn more about FFDW grant programs <a href="https://fil.org/grants/">here!</a>
-</p>
