@@ -19,20 +19,19 @@ So how did we get here? The history is complex, and not easy to fit into a headl
 
 We spoke to Eastern Europe editor for Global Voices <a href="https://globalvoices.org/author/tetyana-lokot/" target="_blank">Dr. Tanya Lokot</a> on how to read the news around the conflict. Lokot, who is Ukrainian herself, has been a Global Voices contributor since 2013. Lokot’s research predominantly focuses on the role of digital media in post-Soviet Europe. 
 
-Here are some tools to help you look beyond the headlines. 
-</p>
+<b>Here are some tools to help you look beyond the headlines. <b>
+
 <div style="max-width: 800px; border: 2px solid black; box-sizing: border-box; margin: 0 auto; margin-bottom: 30px;">
 <div style="border-left: 40px solid #00B4A6; border-right: 40px solid #00B4A6;  padding: 80px 20px;">
 <div style="margin: 0 auto; text-align: center;"><img src="/images/blue-hands.png" style="width: 100px;" /></div><p style="font-size: 18px;">Through this collaboration, we are receiving a grant from FFDW to expand our <b>global partnerships with human rights defenders</b> and join the growing movement to create and utilize a <b>more ethical, decentralized internet.</b></p></div></div>
 
-<p><h2>UUnderstand The Historical Context First</h2></p>
+<p><h2>Understand The Historical Context First</h2></p>
 <p>
 Like any global conflict, the tension between Russia and Ukraine did not happen overnight.
 “Don't just think of it as a board game where things are moving every day on the chessboard,” Lokot said. “It's not really just about how many thousands of troops are at the border, but it's trying to understand well, where does this all come from?”
 </p>
-<p>Ukraine was part of – or occupied, depending on who is telling the story – by the Russian Empire and later by the Soviet Union for centuries before regaining independence in 1991 following the collapse of the USSR. There have been tensions between Ukraine’s old ties with Russia and its allegiances with the West ever since. </p>
-<p>In 2014, Ukrainians took to the streets and toppled pro-Russian president Viktor Yanukovych, demanding their independence and sovereignty. </p>
-<p>The Russian government meanwhile has consistently held the position that Ukraine is part of Russia. In 2014, Russian troops invaded Donbas and annexed Crimea, the biggest land grab in Europe since World War II.  </p>
+<p>Ukraine was part of – or occupied, depending on who is telling the story – by the Russian Empire and later by the Soviet Union for centuries before regaining independence in 1991 following the collapse of the USSR. There have been tensions between Ukraine’s old ties with Russia and its allegiances with the West ever since. 
+  <p>In 2014, Ukrainians took to the streets and toppled pro-Russian president Viktor Yanukovych, demanding their independence and sovereignty. The Russian government meanwhile has consistently held the position that Ukraine is part of Russia. In 2014, Russian troops invaded Donbas and annexed Crimea, the biggest land grab in Europe since World War II.  </p>
 <p>Today we see the escalation of war and the threat of further invasion of Ukraine.
 While Ukraine is the subject of the conversation, its people aren’t often centered in media reporting, which instead focuses on geopolitics between Russia and the U.S. and other Western European countries.  
 </p>
@@ -40,8 +39,7 @@ While Ukraine is the subject of the conversation, its people aren’t often cent
 Lokot suggests people listen to more Ukrainian voices and sources when trying to understand the issue. 
 </p>
 <p>“Understand why Ukrainians are so upset about somebody else trying to make decisions for them and why are they also upset when it's being framed as a conflict between Russia and NATO or Russia and the West? It's like, well, what about us?”</p>
-<p>For more historical context, Lokot suggests checking out the <a href="https://huri.harvard.edu/" target="_blank">Ukrainian Research Institute at Harvard University</a>, which has online resources and guides on the relationship between Russian and Ukraine. </p>
-<p><a href="https://www.chathamhouse.org/about-us/our-departments/russia-and-eurasia-programme/ukraine-forum" target="_blank">The Ukraine Forum at the Chatham House</a> offers helpful insight on the political dynamics of Ukraine.
+<p>For more historical context, Lokot suggests checking out the <a href="https://huri.harvard.edu/" target="_blank">Ukrainian Research Institute at Harvard University</a>, which has online resources and guides on the relationship between Russian and Ukraine. <a href="https://www.chathamhouse.org/about-us/our-departments/russia-and-eurasia-programme/ukraine-forum" target="_blank">The Ukraine Forum at the Chatham House</a> also offers helpful insight on the political dynamics of Ukraine.</p>
 
   <p><h2>What To Consider When Reading U.S. and Other Foreign Media</h2></p>
   <p>American journalists have been put into the awkward position of trying to explain the United States’ role in Ukraine while contending with the country’s dark past in getting involved in other global conflicts.  “I think this colors both what U.S. officials say and how they say it and also how the U.S. media is reporting it,” Lokot said.</p>
@@ -49,26 +47,24 @@ Lokot suggests people listen to more Ukrainian voices and sources when trying to
   <p>Western, particularly U.S. media, coverage of the conflict has been widely critical of President Vladimir Putin’s aggression toward Ukraine, but there have been a few blunders as they fall into Russia’s false flag campaign of “will they or won’t they” invade. </p>
   <p>The constant flow of unverified and misleading information has made reporting the truth difficult for journalists. The Russian government especially has a track record of using social media to spread misinformation. </p>
   <p>There are language and cultural barriers as well, Lokot said, citing the example of when Ukraine President Volodymyr <a href="https://www.vox.com/2022/2/14/22933850/ukraine-war-february-16-zelensky-prediction-jokeZelensky" target="_blank"> cracked a joke about the date of the invasion</a> and Western media reported it as fact.</p>
-  <br>
   <p><b>Russian coverage of the aggression</b></p>
-  <br><p><span class="appName">Meanwhile, the Russian state media tactics are aimed at popularizing the idea that Ukraine should be under Russia’s control anyway, and that Russia’s current aggression is just a pretext to circulate this idea, Lokot said.</span>
+  <p>Meanwhile, the Russian state media tactics are aimed at popularizing the idea that Ukraine should be under Russia’s control anyway, and that Russia’s current aggression is just a pretext to circulate this idea, Lokot said.</p>
   
 <p>Even though Ukraine isn’t part of NATO, U.S. funding and support have played a significant role in Ukraine’s current form of government, but this same fact is used by Putin to discredit Ukraine as a true democracy, she added. </p>
 <p>But messaging on the Russian side of things has also been mixed. In the past few weeks, “they've been gleeful at U.S. predictions (of an invasion) not coming true, but also saying that Russia can indeed invade any day and possibly should,” she said. Now that Russia has declared Donetsk and Luhansk “independent regions” and have moved into Donbas, we’re seeing Putin’s flirtation with invasion becoming reality. Russia has now launched attacks on Ukraine on multiple fronts in multiple cities, including Kyiv. The broad offensive has already killed dozens. 
 </p>
 <p><h2>Pause Before You Share</h2></p>
-<p>As tensions boil over and headlines scream about intelligence regarding the invasion, it’s easy to retweet or reshare updates without always verifying where they come from, particularly if it's news that aligns with your current perception of events. </p>
-<p>It’s also important to pay attention to the language used in articles and posts. <a href="https://twitter.com/ukraine_world/status/1493939556344815620 target="_blank">A lot of Ukranians have been critical about some of the language used in headlines and articles from English-speaking news outlets.</a> For example, calling Russia's attack on Ukraine a “civil war,” or using the Russian spelling or Ukraine’s capital (Kiev) instead of the Ukrainian spelling (Kyiv).</p>
+<p>As tensions boil over and headlines scream about intelligence about the invasion, it’s easy to retweet or reshare updates without always verifying where they come from, particularly if it's news that aligns with your current perception of events. </p>
+<p>It’s also important to pay attention to the language used in articles and posts. <a href="https://twitter.com/ukraine_world/status/1493939556344815620" target="_blank">A lot of Ukranians have been critical about some of the language used in headlines and articles from English-speaking news outlets.</a> For example, calling Russia's attack on Ukraine a “civil war,” or using the Russian spelling or Ukraine’s capital (Kiev) instead of the Ukrainian spelling (Kyiv).</p>
 <p>Lokot advises readers to take a pause and consider where the information is coming from, and whether the information stated is conjecture or fact. Ask yourself the following questions:
 “Even if the media outlet is reputable, are they citing any sources? What are those sources? If they're saying that there's evidence, is there any actual evidence?  Is there a video? Is there a photo? Is there a map?” </p>
-  <br>
   <p><h2>Question the Source</h2></p>
   <p>There have been quite a few self-proclaimed “experts” on Ukraine who have come out of the woodwork over the past several weeks. Before you take their word for it, it’s worth doing a bit more digging. </p>
   <p>“If I see a name that's unfamiliar to me, who is trying to be an authority on something, at the very least, I go and see who this person is and what their affiliation is,” Lokot said. 
   </p>
   <p><h2>Still Stumped? Here Are Some Sources to Follow:</h2></p>
   <p>Ukrainian voices are often missing in news stories about their own country.  We’ve compiled a list of activists, journalists and experts either based in Ukraine, or with extensive knowledge of the conflict. </p>
-  <p><b>Journalists, experts & activists based in Ukraine:
+ <br> <p><span class="appName">Journalists, experts & activists based in Ukraine:</span>
   </b></p>
   <p>Olga Tokariuk (Twitter: @OlgaTokariuk)
 <p>Nika Melkozerova (Twitter: @NikaMelkozerova)
@@ -92,8 +88,8 @@ Lokot suggests people listen to more Ukrainian voices and sources when trying to
 <p>Tanya Kozak (Twitter: @TaniaKozak)
 <p>Anastasiia Lapatina (Twitter: @lapatina_)
 <p>Volodymyr Yermolenko (Twitter: @yermolenko_v)
-  <p><b>Journalists, experts & activists with expertise on Ukraine based elsewhere:
-  </b></p>
+  <br><p>span class="appName">Journalists, experts & activists with expertise on Ukraine based elsewhere:</span>
+  </p>
   <p>Tanya Lokot (Twitter: @TanyaLokot)
 <p>Olesya Khromeychuk (Twitter: @OKhromeychuk)
 <p>Emma Mateo (Twitter: @emm_mateo)
@@ -107,10 +103,10 @@ Lokot suggests people listen to more Ukrainian voices and sources when trying to
   
   <p><b>Ukrainian Media:</b></p>
  
-  <p> <a href="https://kyivindependent.com/ target="_blank">The Kyiv Independent</a>,Twitter: @KyivIndependent
-<p><a href="https://english.nv.ua/ target="_blank">The New Voice of Ukraine</a>, Twitter: @NewVoiceUkraine
-  <p><a href="https://ukraineworld.org/ target="_blank">Ukraine World</a>, Twitter: @Ukraine_World
-<p><a href="http://bunews.com.ua/ target="_blank">Business Ukraine Mag</a>, Twitter: @Biz_Ukraine_Mag
-  <p><a href="https://english.nv.ua/ target="_blank"> Hromadske Int. </a>, Twitter: @Hromadske
+  <p> <a href="https://kyivindependent.com/" target="_blank">The Kyiv Independent</a>,Twitter: @KyivIndependent
+<p><a href="https://english.nv.ua/" target="_blank">The New Voice of Ukraine</a>, Twitter: @NewVoiceUkraine
+  <p><a href="https://ukraineworld.org/" target="_blank">Ukraine World</a>, Twitter: @Ukraine_World
+<p><a href="http://bunews.com.ua/" target="_blank">Business Ukraine Mag</a>, Twitter: @Biz_Ukraine_Mag
+  <p><a href="https://english.nv.ua/" target="_blank"> Hromadske Int. </a>, Twitter: @Hromadske
  
 
