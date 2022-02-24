@@ -70,7 +70,7 @@ There are language and cultural barriers as well, Lokot said, citing the example
   <p><h2>Still Stumped? Here Are Some Sources to Follow:</h2></p>
   <p>Ukrainian voices are often missing in news stories about their own country.  We’ve compiled a list of activists, journalists and experts either based in Ukraine, or with extensive knowledge of the conflict. </p>
  <br> <p><span class="appName">Journalists, experts & activists based in Ukraine:</span>
-  </b></p>
+  </p>
  <a href=" " target="_blank">Olga Tokariuk</a> (Twitter: @OlgaTokariuk)
  <a href=" " target="_blank">Nika Melkozerova</a> (Twitter: @NikaMelkozerova)
  <a href=" " target="_blank">Olena Halushka</a> (Twitter: @OlenaHalushka)
