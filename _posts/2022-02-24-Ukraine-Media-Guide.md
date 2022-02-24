@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Filtering out the noise: Navigating the news around Russia’s attack on Ukraine
-description: Tools to help you look beyond the headlines. 
+title: Filtering out the noise - Navigating the news around Russia’s attack on Ukraine
+description: Tools to help you look beyond the headlines
 image: /images/ffdw-oa.png
 permalink: /UkraineMediaGuide
 published: true
