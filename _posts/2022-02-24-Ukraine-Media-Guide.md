@@ -2,13 +2,13 @@
 layout: page
 title: Filtering out the noise - Navigating the news around Russia’s attack on Ukraine
 description: Tools to help you look beyond the headlines
-image: /images/ffdw-oa.png
+image: /images/Ukraine1.png
 permalink: /UkraineMediaGuide
 published: true
 ---
 
 <div style="max-width: 1024px; text-align: center; margin: 0 auto;">
-<img style="width: 100%; height: auto; margin: 10px;" src="/images/ffdw-oa.png"/>
+<img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine1.png"/>
 </div>
 <p><i>Disclaimer: This post was posted on Thursday, Feb. 24. We recognize that this is a continuously evolving situation and that the content of this article may not be up to date.</i></p>
 
