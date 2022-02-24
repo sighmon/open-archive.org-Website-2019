@@ -11,7 +11,6 @@ permalink: /team/
   <i>Founder and Director</i>
  <br>
 <p>Natalie is an archivist and ethnographer working at the nexus of human rights, design, and technology. She aims to protect and amplify community media by helping organizations better manage, protect, and preserve documentation they create and receive. She consults with human rights-focused organizations worldwide and was a 2019 fellow at Stanford's Digital Civil Society Lab. For the last decade, she shaped initiatives dedicated to improving access to information for social and environmental justice organizations. She holds a Masters from the UC Berkeley School of Information and a Bachelors in International Relations from UC Davis.</p>
-<br>
   <p>
     <b>Nathan Freitas</b>
   <br>
@@ -23,7 +22,11 @@ permalink: /team/
 <br>
   <i>Director of Programs and Operations</i>
   <br>
-<p></p>
+<p>Alex is a data and database nerd who is passionate about knowledge sharing and building systems that amplify impact, improve workflows, and facilitate collaboration.
+  
+She’s been active in the digital and human rights, media and democracy, and communications space for nearly a decade through work with mission-oriented organizations such as <a href="https://globalvoices.org/" target="_blank">Global Voices</a>, the Center for Global Communication Studies, and Annenberg School at the University of Pennsylvania. Recent projects include Global Voices’s <a href="https://globalvoices.org/special/observatory/" target="_blank">Civic Media Observatory</a> which uses deep qualitative analysis from local researchers to increase understanding of what is going on in regional media ecosystems.
+
+She holds a Masters of Public Administration from the University of Pennsylvania and a Bachelors in History and Communications from McGill University in Montreal, Canada.</p>
 
 <p><b>Kelcie Grega</b>
 <br>
