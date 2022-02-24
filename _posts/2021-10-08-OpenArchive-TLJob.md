@@ -4,6 +4,7 @@ title: Job Opening - Technical Lead
 description:  
 image:
 permalink: /TLJob
+hidden: true
 ---
 
 <div style="width: 100%; text-align: left;">
