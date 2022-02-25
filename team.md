@@ -24,7 +24,7 @@ permalink: /team/
   <br>
 <p>Alex is a data and database nerd who is passionate about knowledge sharing and building systems that amplify impact, improve workflows, and facilitate collaboration.
   
-She’s been active in the digital and human rights, media and democracy, and communications space for nearly a decade through work with mission-oriented organizations such as <a href="https://globalvoices.org/" target="_blank">Global Voices</a>, the Center for Global Communication Studies, and Annenberg School at the University of Pennsylvania. Recent projects include Global Voices’s <a href="https://globalvoices.org/special/observatory/" target="_blank">Civic Media Observatory</a> which uses deep qualitative analysis from local researchers to increase understanding of what is going on in regional media ecosystems.
+She’s been active in the digital and human rights, media and democracy, and communications spaces for nearly a decade through work with mission-oriented organizations such as <a href="https://globalvoices.org/" target="_blank">Global Voices</a>, the Center for Global Communication Studies, and Annenberg School at the University of Pennsylvania. Recent projects include Global Voices’s <a href="https://globalvoices.org/special/observatory/" target="_blank">Civic Media Observatory</a> which uses deep qualitative analysis from local researchers to increase understanding of what is going on in regional media ecosystems.
 
 She holds a Masters of Public Administration from the University of Pennsylvania and a Bachelors in History and Communications from McGill University in Montreal, Canada.</p>
 
@@ -38,7 +38,7 @@ She holds a Masters of Public Administration from the University of Pennsylvania
 <br>
   <i>Director of Communications</i>
   <br>
-<p>Viktoriia is a communication specialist with more than six years of experience working with non-profit organizations globally. She served as a freelance consultant with international organizations like Internews and UNICEF and cooperated with various open-source projects helping them communicate with the public effectively. While working in Ukraine, she also implemented successful campaigns advocating for anti-corruption and health care reforms. Viktoriia earned her master's degree from Ohio University as a Fulbright grantee and is currently pursuing her doctoral degree in communication at the University of Maryland. She is interested in the role of media and technology in modern democracies and the interlinkage between digital media, political communication, and activism.</p>
+<p>Viktoriia is a communications specialist with over six years' of experience working with non-profit organizations globally. She served as a freelance consultant with international organizations like Internews and UNICEF and worked with various open-source projects to help them communicate with the public effectively. While working in Ukraine, she also implemented successful campaigns advocating for anti-corruption and healthcare reforms. Viktoriia earned her master's degree from Ohio University as a Fulbright grantee and is currently pursuing her doctoral degree in communication at the University of Maryland. She is interested in the role of media and technology in modern democracies and the interlinkage between digital media, political communication, and activism.</p>
 
 <p><b>Benjamin Erhart</b>
   <br>
