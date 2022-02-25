@@ -43,7 +43,7 @@ Lokot suggests people listen to more Ukrainian voices and sources when trying to
 
 “Understand why Ukrainians are so upset about somebody else trying to make decisions for them and why are they also upset when it's being framed as a conflict between Russia and NATO or Russia and the West? It's like, well, what about us?”
 
-For more historical context, Lokot suggests checking out the <a href="https://huri.harvard.edu/" target="_blank">Ukrainian Research Institute at Harvard University</a>, which has online resources and guides on the relationship between Russian and Ukraine. <a href="https://www.chathamhouse.org/about-us/our-departments/russia-and-eurasia-programme/ukraine-forum" target="_blank">The Ukraine Forum at the Chatham House</a> also offers helpful insight on the political dynamics of Ukraine.
+For more historical context, Lokot suggests checking out the <a href="https://huri.harvard.edu/" target="_blank">Ukrainian Research Institute at Harvard University</a>, which has online resources and guides on the relationship between Russia and Ukraine. <a href="https://www.chathamhouse.org/about-us/our-departments/russia-and-eurasia-programme/ukraine-forum" target="_blank">The Ukraine Forum at the Chatham House</a> also offers helpful insight on the political dynamics of Ukraine.
 
 <h2>What To Consider When Reading U.S. and Other Foreign Media</h2>
 
@@ -55,7 +55,7 @@ Western, particularly U.S. media, coverage of the conflict has been widely criti
 
 The constant flow of unverified and misleading information has made reporting the truth difficult for journalists. The Russian government especially has a track record of using social media to spread misinformation.
 
-There are language and cultural barriers as well, Lokot said, citing the example of when Ukraine President Volodymyr <a href="https://www.vox.com/2022/2/14/22933850/ukraine-war-february-16-zelensky-prediction-jokeZelensky" target="_blank"> cracked a joke about the date of the invasion</a> and Western media reported it as fact.
+There are language and cultural barriers as well, Lokot said, citing the example of when Ukraine President Volodymyr Zelenskyy<a href="https://www.vox.com/2022/2/14/22933850/ukraine-war-february-16-zelensky-prediction-jokeZelensky" target="_blank"> cracked a joke about the date of the invasion</a> and Western media reported it as fact.
 
 <p><span class="appName">Russian coverage of the aggression</span></p>
 
@@ -63,7 +63,7 @@ Meanwhile, the Russian state media tactics are aimed at popularizing the idea th
   
 Even though Ukraine isn’t part of NATO, U.S. funding and support have played a significant role in Ukraine’s current form of government, but this same fact is used by Putin to discredit Ukraine as a true democracy, she added.
 
-<p>But messaging on the Russian side of things has also been mixed. In the past few weeks, “they've been gleeful at U.S. predictions (of an invasion) not coming true, but also saying that Russia can indeed invade any day and possibly should,” she said. Now that Russia has declared Donetsk and Luhansk “independent regions” and has moved into Donbas, we’re seeing Putin’s flirtation with invasion becoming reality. Russia has now launched attacks on Ukraine on multiple fronts in multiple cities, including Kyiv. The broad offensive has already killed dozens. 
+<p>Messaging on the Russian side of things has also been mixed. In the past few weeks, “they've been gleeful at U.S. predictions (of an invasion) not coming true, but also saying that Russia can indeed invade any day and possibly should,” she said. Now that Russia has declared Donetsk and Luhansk “independent regions” and has moved into Donbas, we’re seeing Putin’s flirtation with invasion becoming reality. Russia has now launched attacks on Ukraine on multiple fronts in multiple cities, including Kyiv. The broad offensive has already killed dozens. 
 </p>
 <p><h2>Pause Before You Share</h2></p>
 <p>As tensions boil over and headlines scream about the invasion, it’s easy to retweet or reshare updates without always verifying where they come from, particularly if it's news that aligns with your current perception of events. </p>
