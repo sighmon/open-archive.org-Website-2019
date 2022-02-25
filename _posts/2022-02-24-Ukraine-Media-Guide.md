@@ -6,7 +6,7 @@ image: /images/Ukraine1.png
 permalink: /UkraineMediaGuide
 published: true
 ---
-<i>By Kelcie Grega and Viktoriia Savchuk, February 24th, 2022</i>
+<i>By <a href="/team#grega">Kelcie Grega</a> and <a href="/team#savchuk">Viktoriia Savchuk</a>, February 24th, 2022</i>
 <div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine1.png"/></div>
 <p><i>Disclaimer: We posted this on Thursday, Feb. 24th and recognize that this is an evolving situation and that the content of this article may not be up to date when you read it.</i></p>
 
