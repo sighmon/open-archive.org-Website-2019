@@ -16,7 +16,6 @@ permalink: /team/
   <br>
   <i>Lead Developer</i>
   <p>Nathan is the Executive Director of <a href="https://guardianproject.info" target="_blank">Guardian Project</a> and a Research Fellow at the Berkman Klein Center.</p>
-  </p>
   
 <a id="esenler"/><b>Alex Esenler</b>
 <br>
@@ -67,7 +66,7 @@ Before joining The Intercept, he worked as a staff technologist at the Electroni
 <br>
  <a id="martin"/><b>Nicole Martin</b>
   <br>
-<br>Nicole Martin is the Senior Manager of Archives and Digital Systems at <a href="https://www.hrw.org/" target="_blank">Human Rights Watch</a>, where she established the organization's first digital archive. She holds a master’s degree in Moving Image Archiving and Preservation from New York University, and teaches Digital Preservation as an adjunct professor in the same program. Nicole has worked with several nonprofit community media organizations, including Democracy Now!, The Lesbian Herstory Archives, and Deep Dish Television. She received an undergraduate degree in Film and Digital Media from the University of California, Santa Cruz, where she studied early interactive web design, electronic music, and queer film theory.</p>
+<br>Nicole Martin is the Senior Manager of Archives and Digital Systems at <a href="https://www.hrw.org/" target="_blank">Human Rights Watch</a>, where she established the organization's first digital archive. She holds a master’s degree in Moving Image Archiving and Preservation from New York University, and teaches Digital Preservation as an adjunct professor in the same program. Nicole has worked with several nonprofit community media organizations, including Democracy Now!, The Lesbian Herstory Archives, and Deep Dish Television. She received an undergraduate degree in Film and Digital Media from the University of California, Santa Cruz, where she studied early interactive web design, electronic music, and queer film theory.
 <br>
 
 <a id="martini"/><b>Beatrice Martini</b>
